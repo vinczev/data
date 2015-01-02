@@ -1,0 +1,76 @@
+1	do	_	AUX	VB	_	3	aux	_	_
+2	NOT	_	PART	RB	_	3	neg	_	_
+3	bring	_	VERB	VB	_	0	root	_	_
+4	your	_	PRON	PRP$	_	5	nmod:poss	_	_
+5	car	_	NOUN	NN	_	3	dobj	_	_
+6	here	_	ADV	RB	_	3	advmod	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	got	_	VERB	VBD	_	0	root	_	_
+3	a	_	DET	DT	_	4	det	_	_
+4	coupon	_	NOUN	NN	_	2	dobj	_	_
+5	from	_	ADP	IN	_	6	case	_	_
+6	Pennysaver	_	PROPN	NNP	_	2	nmod	_	_
+7	for	_	ADP	IN	_	9	case	_	_
+8	this	_	DET	DT	_	9	det	_	_
+9	station	_	NOUN	NN	_	2	nmod	_	_
+10	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Yes	_	INTJ	UH	_	4	discourse	_	_
+2	,	_	PUNCT	,	_	4	punct	_	_
+3	they	_	PRON	PRP	_	4	nsubj	_	_
+4	accepted	_	VERB	VBD	_	0	root	_	_
+5	it	_	PRON	PRP	_	4	dobj	_	_
+6	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	However	_	ADV	RB	_	8	advmod	_	_
+2	,	_	PUNCT	,	_	8	punct	_	_
+3	during	_	ADP	IN	_	5	case	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	test	_	NOUN	NN	_	8	nmod	_	_
+6	,	_	PUNCT	,	_	8	punct	_	_
+7	they	_	PRON	PRP	_	8	nsubj	_	_
+8	did	_	VERB	VBD	_	0	root	_	_
+9	whatever	_	PRON	WP	_	8	dobj	_	_
+10	they	_	PRON	PRP	_	13	nsubj	_	_
+11	can	_	AUX	MD	_	13	aux	_	_
+12	to	_	PART	TO	_	13	aux	_	_
+13	get	_	VERB	VB	_	9	acl:relcl	_	_
+14	my	_	PRON	PRP$	_	15	nmod:poss	_	_
+15	test	_	NOUN	NN	_	13	dobj	_	_
+16	failed	_	VERB	VBN	_	13	xcomp	_	_
+17	.	_	PUNCT	.	_	8	punct	_	_
+		
+1	Then	_	ADV	RB	_	4	advmod	_	_
+2	,	_	PUNCT	,	_	4	punct	_	_
+3	they	_	PRON	PRP	_	4	nsubj	_	_
+4	sold	_	VERB	VBD	_	0	root	_	_
+5	me	_	PRON	PRP	_	4	iobj	_	_
+6	overpriced	_	ADJ	JJ	_	7	amod	_	_
+7	stuffs	_	NOUN	NNS	_	4	dobj	_	_
+8	,	_	PUNCT	,	_	7	punct	_	_
+9	such	_	ADJ	JJ	_	13	case	_	_
+10	as	_	ADP	IN	_	9	mwe	_	_
+11	oil	_	NOUN	NN	_	12	compound	_	_
+12	tank	_	NOUN	NN	_	13	compound	_	_
+13	cap	_	NOUN	NN	_	7	nmod	_	_
+14	,	_	PUNCT	,	_	4	punct	_	_
+15	so	_	SCONJ	IN	_	20	mark	_	_
+16	that	_	SCONJ	IN	_	15	mwe	_	_
+17	my	_	PRON	PRP$	_	18	nmod:poss	_	_
+18	car	_	NOUN	NN	_	20	nsubj	_	_
+19	can	_	AUX	MD	_	20	aux	_	_
+20	pass	_	VERB	VB	_	4	advcl	_	_
+21	it	_	PRON	PRP	_	20	dobj	_	_
+22	right	_	ADV	RB	_	23	advmod	_	_
+23	away	_	ADV	RB	_	20	advmod	_	_
+24	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	ended	_	VERB	VBD	_	0	root	_	_
+3	up	_	ADP	RP	_	2	compound:prt	_	_
+4	paying	_	VERB	VBG	_	2	xcomp	_	_
+5	much	_	ADV	RB	_	6	advmod	_	_
+6	more	_	ADJ	JJR	_	4	dobj	_	_
+7	.	_	PUNCT	.	_	2	punct	_	_
+		

@@ -1,0 +1,24 @@
+1	how	_	ADV	WRB	_	2	advmod	_	_
+2	fare	_	NOUN	NN	_	0	root	_	_
+3	of	_	ADP	IN	_	4	case	_	_
+4	kolkatta	_	PROPN	NNP	_	2	nmod	_	_
+5	?	_	PUNCT	.	_	2	punct	_	_
+		
+1	kolkatta	_	PROPN	NNP	_	5	nsubj	_	_
+2	is	_	VERB	VBZ	_	5	cop	_	_
+3	an	_	DET	DT	_	5	det	_	_
+4	Indian	_	ADJ	JJ	_	5	amod	_	_
+5	State	_	NOUN	NN	_	0	root	_	_
+6	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	lol	_	INTJ	UH	_	7	discourse	_	_
+2	...	_	PUNCT	,	_	7	punct	_	_
+3	Kolkata	_	PROPN	NNP	_	7	nsubj	_	_
+4	is	_	VERB	VBZ	_	7	cop	_	_
+5	not	_	PART	RB	_	7	neg	_	_
+6	for	_	ADP	IN	_	7	mark	_	_
+7	sale	_	NOUN	NN	_	0	root	_	_
+8	!!!!!!	_	PUNCT	.	_	7	punct	_	_
+		
+1	roflmao	_	INTJ	UH	_	0	root	_	_
+		

@@ -1,0 +1,62 @@
+1	Excellent	_	ADJ	JJ	_	3	amod	_	_
+2	medical	_	ADJ	JJ	_	3	amod	_	_
+3	care	_	NOUN	NN	_	0	root	_	_
+4	!!!!!!	_	PUNCT	.	_	3	punct	_	_
+		
+1	Highly	_	ADV	RB	_	2	advmod	_	_
+2	recommend	_	VERB	VBP	_	0	root	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	went	_	VERB	VBD	_	0	root	_	_
+3	to	_	ADP	IN	_	7	case	_	_
+4	this	_	DET	DT	_	7	det	_	_
+5	urgent	_	ADJ	JJ	_	6	amod	_	_
+6	care	_	NOUN	NN	_	7	compound	_	_
+7	center	_	NOUN	NN	_	2	nmod	_	_
+8	and	_	CONJ	CC	_	2	cc	_	_
+9	was	_	AUX	VBD	_	10	auxpass	_	_
+10	blown	_	VERB	VBN	_	2	conj	_	_
+11	away	_	ADV	RB	_	10	advmod	_	_
+12	with	_	ADP	IN	_	14	case	_	_
+13	their	_	PRON	PRP$	_	14	nmod:poss	_	_
+14	service	_	NOUN	NN	_	10	nmod	_	_
+15	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Finally	_	ADV	RB	_	4	advmod	_	_
+2	a	_	DET	DT	_	4	det	_	_
+3	convenient	_	ADJ	JJ	_	4	amod	_	_
+4	place	_	NOUN	NN	_	0	root	_	_
+5	close	_	ADV	RB	_	4	amod	_	_
+6	to	_	ADP	IN	_	7	case	_	_
+7	home	_	NOUN	NN	_	5	nmod	_	_
+8	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	Wonderful	_	ADJ	JJ	_	2	amod	_	_
+2	staff	_	NOUN	NNS	_	0	root	_	_
+3	and	_	CONJ	CC	_	2	cc	_	_
+4	physician	_	NOUN	NN	_	2	conj	_	_
+5	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	Clean	_	ADJ	JJ	_	0	root	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	superb	_	ADJ	JJ	_	1	conj	_	_
+4	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Thanks	_	NOUN	NN	_	0	root	_	_
+2	for	_	ADP	IN	_	5	case	_	_
+3	the	_	DET	DT	_	5	det	_	_
+4	great	_	ADJ	JJ	_	5	amod	_	_
+5	care	_	NOUN	NN	_	1	nmod	_	_
+6	!!!!	_	PUNCT	.	_	1	punct	_	_
+		
+1	Will	_	AUX	MD	_	3	aux	_	_
+2	definitely	_	ADV	RB	_	3	advmod	_	_
+3	go	_	VERB	VB	_	0	root	_	_
+4	back	_	ADV	RB	_	3	advmod	_	_
+5	when	_	ADV	WRB	_	7	advmod	_	_
+6	I	_	PRON	PRP	_	7	nsubj	_	_
+7	need	_	VERB	VBP	_	3	advcl	_	_
+8	medical	_	ADJ	JJ	_	9	amod	_	_
+9	care	_	NOUN	NN	_	7	dobj	_	_
+10	.	_	PUNCT	.	_	3	punct	_	_
+		

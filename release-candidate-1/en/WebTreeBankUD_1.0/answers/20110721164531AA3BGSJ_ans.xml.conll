@@ -1,0 +1,219 @@
+1	RP	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	1	punct	_	_
+3	Is	_	AUX	VBZ	_	5	cop	_	_
+4	it	_	PRON	PRP	_	5	expl	_	_
+5	wrong	_	ADJ	JJ	_	1	ccomp	_	_
+6	to	_	PART	TO	_	7	aux	_	_
+7	want	_	VERB	VB	_	5	csubj	_	_
+8	to	_	PART	TO	_	9	aux	_	_
+9	remove	_	VERB	VB	_	7	xcomp	_	_
+10	a	_	DET	DT	_	11	det	_	_
+11	contact	_	NOUN	NN	_	9	dobj	_	_
+12	because	_	SCONJ	IN	_	17	mark	_	_
+13	they	_	PRON	PRP	_	17	nsubj	_	_
+14	are	_	VERB	VBP	_	17	cop	_	_
+15	really	_	ADV	RB	_	16	advmod	_	_
+16	really	_	ADV	RB	_	17	advmod	_	_
+17	stupid	_	ADJ	JJ	_	9	advcl	_	_
+18	...	_	PUNCT	,	_	1	punct	_	_
+19	?	_	PUNCT	.	_	1	punct	_	_
+		
+1	I	_	PRON	PRP	_	4	nsubj	_	_
+2	did	_	AUX	VBD	_	4	aux	_	_
+3	n't	_	PART	RB	_	4	neg	_	_
+4	get	_	VERB	VB	_	0	root	_	_
+5	to	_	PART	TO	_	6	aux	_	_
+6	read	_	VERB	VB	_	4	xcomp	_	_
+7	the	_	DET	DT	_	8	det	_	_
+8	answers	_	NOUN	NNS	_	6	dobj	_	_
+9	lol	_	INTJ	UH	_	4	discourse	_	_
+10	:-LRB-	_	SYM	NFP	_	4	discourse	_	_
+		
+1	I	_	PRON	PRP	_	4	nsubj	_	_
+2	'm	_	AUX	VBP	_	4	aux	_	_
+3	not	_	PART	RB	_	4	neg	_	_
+4	gon	_	VERB	VBG	_	0	root	_	_
+5	na	_	PART	TO	_	6	aux	_	_
+6	say	_	VERB	VB	_	4	xcomp	_	_
+7	who	_	PRON	WP	_	6	dobj	_	_
+8	,	_	PUNCT	,	_	4	punct	_	_
+9	they	_	PRON	PRP	_	11	nsubj	_	_
+10	are	_	VERB	VBP	_	11	cop	_	_
+11	on	_	ADV	RB	_	4	parataxis	_	_
+12	now	_	ADV	RB	_	11	advmod	_	_
+13	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	I	_	PRON	PRP	_	4	nsubj	_	_
+2	do	_	AUX	VBP	_	4	aux	_	_
+3	n't	_	PART	RB	_	4	neg	_	_
+4	want	_	VERB	VB	_	0	root	_	_
+5	them	_	PRON	PRP	_	4	dobj	_	_
+6	to	_	PART	TO	_	7	aux	_	_
+7	commit	_	VERB	VB	_	4	xcomp	_	_
+8	suicide	_	NOUN	NN	_	7	dobj	_	_
+9	or	_	CONJ	CC	_	7	cc	_	_
+10	something	_	NOUN	NN	_	7	conj	_	_
+11	haha	_	INTJ	UH	_	4	discourse	_	_
+		
+1	LOL	_	INTJ	UH	_	2	discourse	_	_
+2	Callum	_	PROPN	NNP	_	0	root	_	_
+		
+1	no	_	INTJ	UH	_	0	root	_	_
+2	no	_	INTJ	UH	_	1	discourse	_	_
+3	no	_	INTJ	UH	_	1	discourse	_	_
+4	no	_	INTJ	UH	_	1	discourse	_	_
+5	no	_	INTJ	UH	_	1	discourse	_	_
+6	no	_	INTJ	UH	_	1	discourse	_	_
+		
+1	it	_	PRON	PRP	_	5	nsubj	_	_
+2	s	_	VERB	VBZ	_	5	cop	_	_
+3	definitely	_	ADV	RB	_	5	advmod	_	_
+4	not	_	PART	RB	_	5	neg	_	_
+5	you	_	PRON	PRP	_	0	root	_	_
+6	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	no	_	INTJ	UH	_	0	root	_	_
+		
+1	It	_	PRON	PRP	_	4	nsubj	_	_
+2	s	_	VERB	VBZ	_	4	cop	_	_
+3	not	_	PART	RB	_	4	neg	_	_
+4	any	_	DET	DT	_	0	root	_	_
+5	of	_	ADP	IN	_	6	case	_	_
+6	you	_	PRON	PRP	_	4	nmod	_	_
+7	lol	_	INTJ	UH	_	4	discourse	_	_
+		
+1	i	_	PRON	PRP	_	2	nsubj	_	_
+2	emailed	_	VERB	VBD	_	0	root	_	_
+3	you	_	PRON	PRP	_	2	dobj	_	_
+4	saaaaaam	_	PROPN	NNP	_	2	vocative	_	_
+5	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	I	_	PRON	PRP	_	4	nsubj	_	_
+2	do	_	AUX	VBP	_	4	aux	_	_
+3	n't	_	PART	RB	_	4	neg	_	_
+4	know	_	VERB	VB	_	0	root	_	_
+5	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	how	_	ADV	WRB	_	4	advmod	_	_
+2	did	_	AUX	VBD	_	4	aux	_	_
+3	you	_	PRON	PRP	_	4	nsubj	_	_
+4	know	_	VERB	VB	_	0	root	_	_
+5	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	it	_	PRON	PRP	_	4	nsubj	_	_
+2	's	_	VERB	VBZ	_	4	cop	_	_
+3	not	_	PART	RB	_	4	neg	_	_
+4	me	_	PRON	PRP	_	0	root	_	_
+5	is	_	VERB	VBZ	_	6	cop	_	_
+6	it	_	PRON	PRP	_	4	parataxis	_	_
+7	!?	_	PUNCT	.	_	4	punct	_	_
+		
+1	I	_	PRON	PRP	_	4	nsubj	_	_
+2	'm	_	AUX	VBP	_	4	aux	_	_
+3	mostly	_	ADV	RB	_	4	advmod	_	_
+4	joking	_	VERB	VBG	_	0	root	_	_
+5	when	_	ADV	WRB	_	7	advmod	_	_
+6	I	_	PRON	PRP	_	7	nsubj	_	_
+7	talk	_	VERB	VBP	_	4	advcl	_	_
+8	about	_	ADP	IN	_	9	case	_	_
+9	suicide	_	NOUN	NN	_	7	nmod	_	_
+10	and	_	CONJ	CC	_	4	cc	_	_
+11	really	_	ADV	RB	_	16	advmod	_	_
+12	I	_	PRON	PRP	_	16	nsubj	_	_
+13	'm	_	VERB	VBP	_	16	cop	_	_
+14	not	_	PART	RB	_	16	neg	_	_
+15	that	_	ADV	RB	_	16	advmod	_	_
+16	stupid	_	ADJ	JJ	_	4	conj	_	_
+17	I	_	PRON	PRP	_	19	nsubj	_	_
+18	just	_	ADV	RB	_	19	advmod	_	_
+19	get	_	VERB	VBP	_	16	parataxis	_	_
+20	in	_	ADP	IN	_	22	case	_	_
+21	stupid	_	ADJ	JJ	_	22	amod	_	_
+22	situations	_	NOUN	NNS	_	19	nmod	_	_
+23	D:	_	SYM	NFP	_	4	discourse	_	_
+		
+1	i	_	PRON	PRP	_	2	nsubj	_	_
+2	guz	_	VERB	VBP	_	0	root	_	_
+3	what	_	PRON	WP	_	2	dobj	_	_
+4	lol	_	INTJ	UH	_	2	discourse	_	_
+		
+1	whoooooo	_	PRON	WP	_	0	root	_	_
+2	?	_	PUNCT	.	_	1	punct	_	_
+		
+1	sorry	_	INTJ	UH	_	6	discourse	_	_
+2	but	_	CONJ	CC	_	6	cc	_	_
+3	i	_	PRON	PRP	_	6	nsubj	_	_
+4	ca	_	AUX	MD	_	6	aux	_	_
+5	n't	_	PART	RB	_	6	neg	_	_
+6	help	_	VERB	VB	_	0	root	_	_
+7	my	_	PRON	PRP$	_	8	nmod:poss	_	_
+8	stupidity	_	NOUN	NN	_	6	dobj	_	_
+9	=-LRB-	_	SYM	NFP	_	6	discourse	_	_
+		
+1	EDIT	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	1	punct	_	_
+3	I	_	PRON	PRP	_	4	nsubj	_	_
+4	love	_	VERB	VBP	_	1	ccomp	_	_
+5	how	_	ADV	WRB	_	7	advmod	_	_
+6	she	_	PRON	PRP	_	7	nsubj	_	_
+7	says	_	VERB	VBZ	_	4	ccomp	_	_
+8	it	_	PRON	PRP	_	11	nsubj	_	_
+9	's	_	VERB	VBZ	_	11	cop	_	_
+10	not	_	PART	RB	_	9	neg	_	_
+11	callum	_	PROPN	NNP	_	7	ccomp	_	_
+12	but	_	CONJ	CC	_	7	cc	_	_
+13	does	_	AUX	VBZ	_	15	aux	_	_
+14	n't	_	PART	RB	_	15	neg	_	_
+15	deny	_	VERB	VB	_	7	conj	_	_
+16	it	_	PRON	PRP	_	18	nsubj	_	_
+17	's	_	VERB	VBZ	_	18	cop	_	_
+18	me	_	PRON	PRP	_	15	ccomp	_	_
+19	....	_	PUNCT	,	_	4	punct	_	_
+20	i	_	PRON	PRP	_	21	nsubj	_	_
+21	think	_	VERB	VBP	_	4	parataxis	_	_
+22	we	_	PRON	PRP	_	24	nsubj	_	_
+23	all	_	DET	DT	_	22	det	_	_
+24	know	_	VERB	VBP	_	21	ccomp	_	_
+25	who	_	PRON	WP	_	28	nmod	_	_
+26	she	_	PRON	PRP	_	28	nsubj	_	_
+27	's	_	AUX	VBZ	_	28	aux	_	_
+28	talking	_	VERB	VBG	_	24	ccomp	_	_
+29	about	_	ADP	IN	_	25	case	_	_
+30	...	_	PUNCT	.	_	1	punct	_	_
+		
+1	EDIT	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	1	punct	_	_
+3	now	_	ADV	RB	_	6	advmod	_	_
+4	i	_	PRON	PRP	_	6	nsubj	_	_
+5	'm	_	VERB	VBP	_	6	cop	_	_
+6	curious	_	ADJ	JJ	_	1	ccomp	_	_
+7	...	_	PUNCT	.	_	1	punct	_	_
+		
+1	EDIT	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	1	punct	_	_
+3	How	_	ADV	WRB	_	6	advmod	_	_
+4	did	_	AUX	VBD	_	6	aux	_	_
+5	I	_	PRON	PRP	_	6	nsubj	_	_
+6	know	_	VERB	VB	_	1	ccomp	_	_
+7	...	_	PUNCT	.	_	1	punct	_	_
+		
+1	lol	_	INTJ	UH	_	8	discourse	_	_
+2	they	_	PRON	PRP	_	8	nsubj	_	_
+3	really	_	ADV	RB	_	8	advmod	_	_
+4	are	_	VERB	VBP	_	8	cop	_	_
+5	n't	_	PART	RB	_	8	neg	_	_
+6	that	_	ADV	RB	_	7	advmod	_	_
+7	much	_	ADV	RB	_	8	advmod	_	_
+8	worse	_	ADJ	JJR	_	0	root	_	_
+9	than	_	ADP	IN	_	10	case	_	_
+10	me	_	PRON	PRP	_	8	nmod	_	_
+		
+1	and	_	CONJ	CC	_	5	cc	_	_
+2	their	_	PRON	PRP$	_	3	nmod:poss	_	_
+3	gpa	_	NOUN	NN	_	5	nsubj	_	_
+4	was	_	VERB	VBD	_	5	cop	_	_
+5	better	_	ADJ	JJR	_	0	root	_	_
+6	than	_	ADP	IN	_	7	case	_	_
+7	mine	_	PRON	PRP	_	5	nmod	_	_
+8	....	_	PUNCT	.	_	5	punct	_	_
+		

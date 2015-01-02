@@ -1,0 +1,74 @@
+1	Home	_	NOUN	NN	_	2	nmod:npmod	_	_
+2	made	_	VERB	VBN	_	3	amod	_	_
+3	product	_	NOUN	NN	_	0	root	_	_
+		
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	sometimes	_	ADV	RB	_	3	advmod	_	_
+3	go	_	VERB	VBP	_	0	root	_	_
+4	into	_	ADP	IN	_	6	case	_	_
+5	this	_	DET	DT	_	6	det	_	_
+6	store	_	NOUN	NN	_	3	nmod	_	_
+7	just	_	ADV	RB	_	9	advmod	_	_
+8	for	_	ADP	IN	_	9	case	_	_
+9	something	_	NOUN	NN	_	3	nmod	_	_
+10	to	_	PART	TO	_	11	aux	_	_
+11	do	_	VERB	VB	_	9	acl	_	_
+12	on	_	ADP	IN	_	15	case	_	_
+13	a	_	DET	DT	_	15	det	_	_
+14	sunday	_	PROPN	NNP	_	15	compound	_	_
+15	afternoon	_	NOUN	NN	_	11	nmod	_	_
+16	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	love	_	VERB	VBP	_	0	root	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	people	_	NOUN	NNS	_	2	dobj	_	_
+5	,	_	PUNCT	,	_	4	punct	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	product	_	NOUN	NN	_	4	conj	_	_
+8	and	_	CONJ	CC	_	4	cc	_	_
+9	the	_	DET	DT	_	10	det	_	_
+10	service	_	NOUN	NN	_	4	conj	_	_
+11	!	_	PUNCT	.	_	2	punct	_	_
+		
+1	Nothing	_	NOUN	NN	_	2	nsubj	_	_
+2	compares	_	VERB	VBZ	_	0	root	_	_
+3	to	_	ADP	IN	_	7	case	_	_
+4	a	_	DET	DT	_	7	det	_	_
+5	home	_	NOUN	NN	_	6	nmod:npmod	_	_
+6	made	_	VERB	VBN	_	7	amod	_	_
+7	product	_	NOUN	NN	_	2	nmod	_	_
+8	that	_	DET	WDT	_	10	nsubj	_	_
+9	really	_	ADV	RB	_	10	advmod	_	_
+10	stands	_	VERB	VBZ	_	7	acl:relcl	_	_
+11	the	_	DET	DT	_	12	det	_	_
+12	test	_	NOUN	NN	_	10	dobj	_	_
+13	of	_	ADP	IN	_	14	case	_	_
+14	time	_	NOUN	NN	_	12	nmod	_	_
+15	.	_	PUNCT	.	_	2	punct	_	_
+16	-	_	PUNCT	NFP	_	2	punct	_	_
+		
+1	The	_	DET	DT	_	2	det	_	_
+2	Brick	_	PROPN	NNP	_	9	nsubj	_	_
+3	,	_	PUNCT	,	_	2	punct	_	_
+4	Ikea	_	PROPN	NNP	_	2	conj	_	_
+5	,	_	PUNCT	,	_	2	punct	_	_
+6	and	_	CONJ	CC	_	2	cc	_	_
+7	Leon	_	PROPN	NNP	_	2	conj	_	_
+8	's	_	PART	POS	_	7	case	_	_
+9	have	_	VERB	VBP	_	0	root	_	_
+10	their	_	PRON	PRP$	_	11	nmod:poss	_	_
+11	place	_	NOUN	NN	_	9	dobj	_	_
+12	.	_	PUNCT	.	_	9	punct	_	_
+		
+1	But	_	CONJ	CC	_	6	cc	_	_
+2	furniture	_	NOUN	NN	_	6	nsubj	_	_
+3	like	_	ADP	IN	_	4	case	_	_
+4	this	_	DET	DT	_	2	nmod	_	_
+5	will	_	AUX	MD	_	6	aux	_	_
+6	truly	_	ADV	RB	_	0	root	_	_
+7	be	_	VERB	VB	_	6	cop	_	_
+8	around	_	ADV	RB	_	6	advmod	_	_
+9	forever	_	ADV	RB	_	6	advmod	_	_
+10	.	_	PUNCT	.	_	6	punct	_	_
+		

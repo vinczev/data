@@ -1,0 +1,23 @@
+1	Not	_	PART	RB	_	2	neg	_	_
+2	friendly	_	ADJ	JJ	_	0	root	_	_
+3	,	_	PUNCT	,	_	1	punct	_	_
+4	not	_	PART	RB	_	5	neg	_	_
+5	helpful	_	ADJ	JJ	_	2	conj	_	_
+6	,	_	PUNCT	,	_	1	punct	_	_
+7	overall	_	ADV	RB	_	10	dep	_	_
+8	poor	_	ADJ	JJ	_	10	amod	_	_
+9	customer	_	NOUN	NN	_	10	compound	_	_
+10	service	_	NOUN	NN	_	2	conj	_	_
+11	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Definitely	_	ADV	RB	_	3	advmod	_	_
+2	not	_	PART	RB	_	3	neg	_	_
+3	going	_	VERB	VBG	_	0	root	_	_
+4	to	_	PART	TO	_	5	aux	_	_
+5	purchase	_	VERB	VB	_	3	xcomp	_	_
+6	a	_	DET	DT	_	7	det	_	_
+7	car	_	NOUN	NN	_	5	dobj	_	_
+8	from	_	ADP	IN	_	9	case	_	_
+9	here	_	ADV	RB	_	5	nmod	_	_
+10	.	_	PUNCT	.	_	3	punct	_	_
+		

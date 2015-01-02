@@ -1,0 +1,52 @@
+1	Great	_	ADJ	JJ	_	3	amod	_	_
+2	quality	_	NOUN	NN	_	3	compound	_	_
+3	doors	_	NOUN	NNS	_	0	root	_	_
+4	and	_	CONJ	CC	_	3	cc	_	_
+5	great	_	ADJ	JJ	_	7	amod	_	_
+6	quality	_	NOUN	NN	_	7	compound	_	_
+7	people	_	NOUN	NNS	_	3	conj	_	_
+8	!	_	PUNCT	.	_	3	punct	_	_
+		
+1	The	_	DET	DT	_	2	det	_	_
+2	door	_	NOUN	NN	_	4	nsubj	_	_
+3	is	_	VERB	VBZ	_	4	cop	_	_
+4	easy	_	ADJ	JJ	_	0	root	_	_
+5	to	_	PART	TO	_	6	aux	_	_
+6	use	_	VERB	VB	_	4	ccomp	_	_
+7	and	_	CONJ	CC	_	4	cc	_	_
+8	it	_	PRON	PRP	_	9	nsubj	_	_
+9	keeps	_	VERB	VBZ	_	4	conj	_	_
+10	the	_	DET	DT	_	11	det	_	_
+11	cold	_	NOUN	NN	_	9	dobj	_	_
+12	out	_	ADV	RB	_	9	advmod	_	_
+13	during	_	ADP	IN	_	15	case	_	_
+14	the	_	DET	DT	_	15	det	_	_
+15	winter	_	NOUN	NN	_	9	nmod	_	_
+16	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	The	_	DET	DT	_	3	det	_	_
+2	sales	_	NOUN	NNS	_	3	compound	_	_
+3	staff	_	NOUN	NNS	_	10	nsubj	_	_
+4	and	_	CONJ	CC	_	3	cc	_	_
+5	the	_	DET	DT	_	7	det	_	_
+6	installation	_	NOUN	NN	_	7	compound	_	_
+7	staff	_	NOUN	NNS	_	3	conj	_	_
+8	were	_	VERB	VBD	_	10	cop	_	_
+9	all	_	ADV	RB	_	10	advmod	_	_
+10	easy	_	ADJ	JJ	_	0	root	_	_
+11	to	_	PART	TO	_	12	aux	_	_
+12	get	_	VERB	VB	_	10	advcl	_	_
+13	along	_	ADV	RB	_	12	advmod	_	_
+14	with	_	ADP	IN	_	12	nmod	_	_
+15	.	_	PUNCT	.	_	10	punct	_	_
+		
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	highly	_	ADV	RB	_	3	advmod	_	_
+3	recommend	_	VERB	VBP	_	0	root	_	_
+4	Garage	_	PROPN	NNP	_	5	compound	_	_
+5	Pros	_	PROPN	NNPS	_	3	dobj	_	_
+6	to	_	ADP	IN	_	8	case	_	_
+7	my	_	PRON	PRP$	_	8	nmod:poss	_	_
+8	friends	_	NOUN	NNS	_	3	nmod	_	_
+9	.	_	PUNCT	.	_	3	punct	_	_
+		

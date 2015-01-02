@@ -1,0 +1,15 @@
+1	If	_	SCONJ	IN	_	4	mark	_	_
+2	you	_	PRON	PRP	_	4	nsubj	_	_
+3	're	_	AUX	VBP	_	4	aux	_	_
+4	looking	_	VERB	VBG	_	13	advcl	_	_
+5	for	_	ADP	IN	_	8	case	_	_
+6	homestyle	_	ADJ	JJ	_	8	amod	_	_
+7	Japanese	_	ADJ	JJ	_	8	amod	_	_
+8	food	_	NOUN	NN	_	4	nmod	_	_
+9	,	_	PUNCT	,	_	13	punct	_	_
+10	you	_	PRON	PRP	_	13	nsubj	_	_
+11	ca	_	AUX	MD	_	13	aux	_	_
+12	n't	_	PART	RB	_	13	neg	_	_
+13	beat	_	VERB	VB	_	0	root	_	_
+14	this	_	DET	DT	_	13	dobj	_	_
+		

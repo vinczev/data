@@ -1,0 +1,66 @@
+1	On	_	ADP	IN	_	2	case	_	_
+2	time	_	NOUN	NN	_	0	root	_	_
+3	,	_	PUNCT	,	_	2	punct	_	_
+4	Clean	_	ADJ	JJ	_	2	conj	_	_
+5	and	_	CONJ	CC	_	2	cc	_	_
+6	very	_	ADV	RB	_	7	advmod	_	_
+7	nice	_	ADJ	JJ	_	2	conj	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	called	_	VERB	VBD	_	0	root	_	_
+3	over	_	ADP	IN	_	5	case	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	weekend	_	NOUN	NN	_	2	nmod	_	_
+6	due	_	ADP	IN	_	10	case	_	_
+7	to	_	ADP	IN	_	6	mwe	_	_
+8	clogged	_	VERB	VBN	_	10	amod	_	_
+9	kitchen	_	NOUN	NN	_	10	compound	_	_
+10	sink	_	NOUN	NN	_	2	nmod	_	_
+11	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Scheduled	_	VERB	VBN	_	0	root	_	_
+2	appointment	_	NOUN	NN	_	1	dobj	_	_
+3	for	_	ADP	IN	_	6	case	_	_
+4	8:30	_	NUM	CD	_	6	nummod	_	_
+5	Monday	_	PROPN	NNP	_	6	compound	_	_
+6	morning	_	NOUN	NN	_	2	nmod	_	_
+7	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Rich	_	PROPN	NNP	_	3	nsubj	_	_
+2	was	_	VERB	VBD	_	3	cop	_	_
+3	here	_	ADV	RB	_	0	root	_	_
+4	before	_	ADP	IN	_	7	case	_	_
+5	the	_	DET	DT	_	7	det	_	_
+6	scheduled	_	VERB	VBN	_	7	amod	_	_
+7	time	_	NOUN	NN	_	3	nmod	_	_
+8	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	He	_	PRON	PRP	_	4	nsubj	_	_
+2	was	_	VERB	VBD	_	4	cop	_	_
+3	very	_	ADV	RB	_	4	advmod	_	_
+4	clean	_	ADJ	JJ	_	0	root	_	_
+5	,	_	PUNCT	,	_	4	punct	_	_
+6	very	_	ADV	RB	_	7	advmod	_	_
+7	nice	_	ADJ	JJ	_	4	conj	_	_
+8	to	_	PART	TO	_	9	aux	_	_
+9	work	_	VERB	VB	_	7	advcl	_	_
+10	with	_	ADP	IN	_	9	nmod	_	_
+11	and	_	CONJ	CC	_	4	cc	_	_
+12	gave	_	VERB	VBD	_	4	conj	_	_
+13	a	_	DET	DT	_	16	det	_	_
+14	very	_	ADV	RB	_	15	advmod	_	_
+15	reasonable	_	ADJ	JJ	_	16	amod	_	_
+16	price	_	NOUN	NN	_	12	dobj	_	_
+17	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	HIGHLY	_	ADV	RB	_	2	advmod	_	_
+2	recommend	_	VERB	VBP	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	thanks	_	NOUN	NN	_	0	root	_	_
+2	Rich	_	PROPN	NNP	_	1	vocative	_	_
+		
+1	Seth	_	PROPN	NNP	_	2	compound	_	_
+2	K	_	PROPN	NNP	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+		

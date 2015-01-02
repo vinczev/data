@@ -1,0 +1,23 @@
+1	amazing	_	ADJ	JJ	_	6	amod	_	_
+2	,	_	PUNCT	,	_	6	punct	_	_
+3	fun	_	ADJ	JJ	_	6	amod	_	_
+4	,	_	PUNCT	,	_	6	punct	_	_
+5	great	_	ADJ	JJ	_	6	amod	_	_
+6	beers	_	NOUN	NNS	_	0	root	_	_
+7	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	service	_	NOUN	NN	_	6	nsubj	_	_
+2	could	_	AUX	MD	_	6	aux	_	_
+3	be	_	VERB	VB	_	6	cop	_	_
+4	a	_	DET	DT	_	5	det	_	_
+5	little	_	NOUN	NN	_	6	nmod:npmod	_	_
+6	better	_	ADJ	JJR	_	0	root	_	_
+7	but	_	CONJ	CC	_	6	cc	_	_
+8	it	_	PRON	PRP	_	14	nsubj	_	_
+9	s	_	VERB	VBZ	_	14	cop	_	_
+10	an	_	DET	DT	_	14	det	_	_
+11	all	_	ADV	RB	_	12	advmod	_	_
+12	round	_	ADV	RB	_	13	advmod	_	_
+13	good	_	ADJ	JJ	_	14	amod	_	_
+14	place	_	NOUN	NN	_	6	conj	_	_
+		

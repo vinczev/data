@@ -1,0 +1,23 @@
+1	best	_	ADJ	JJS	_	0	root	_	_
+		
+1	Best	_	ADJ	JJS	_	3	amod	_	_
+2	pedi	_	NOUN	NN	_	3	compound	_	_
+3	mani	_	NOUN	NN	_	0	root	_	_
+4	I	_	PRON	PRP	_	7	nsubj	_	_
+5	ve	_	AUX	VBP	_	7	aux	_	_
+6	ever	_	ADV	RB	_	7	advmod	_	_
+7	had	_	VERB	VBN	_	3	acl:relcl	_	_
+8	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Darla	_	PROPN	NNP	_	3	nsubj	_	_
+2	is	_	VERB	VBZ	_	3	cop	_	_
+3	amazing	_	ADJ	JJ	_	0	root	_	_
+4	,	_	PUNCT	,	_	3	punct	_	_
+5	I	_	PRON	PRP	_	7	nsubj	_	_
+6	would	_	AUX	MD	_	7	aux	_	_
+7	recoment	_	VERB	VB	_	3	parataxis	_	_
+8	her	_	PRON	PRP	_	7	dobj	_	_
+9	to	_	ADP	IN	_	10	case	_	_
+10	anyone	_	NOUN	NN	_	7	nmod	_	_
+11	.	_	PUNCT	.	_	3	punct	_	_
+		

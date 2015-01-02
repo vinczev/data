@@ -1,0 +1,31 @@
+1	Buyer	_	NOUN	NN	_	2	nsubj	_	_
+2	Beware	_	VERB	VB	_	0	root	_	_
+3	!!	_	PUNCT	.	_	2	punct	_	_
+		
+1	Rusted	_	VERB	VBN	_	5	amod	_	_
+2	out	_	ADP	RP	_	1	compound:prt	_	_
+3	and	_	CONJ	CC	_	1	cc	_	_
+4	unsafe	_	ADJ	JJ	_	1	conj	_	_
+5	cars	_	NOUN	NNS	_	6	nsubjpass	_	_
+6	sold	_	VERB	VBN	_	0	root	_	_
+7	here	_	ADV	RB	_	6	advmod	_	_
+8	!	_	PUNCT	.	_	6	punct	_	_
+		
+1	Have	_	VERB	VB	_	0	root	_	_
+2	a	_	DET	DT	_	4	det	_	_
+3	real	_	ADJ	JJ	_	4	amod	_	_
+4	mechanic	_	NOUN	NN	_	5	nsubj	_	_
+5	check	_	VERB	VB	_	1	ccomp	_	_
+6	before	_	SCONJ	IN	_	8	mark	_	_
+7	you	_	PRON	PRP	_	8	nsubj	_	_
+8	buy	_	VERB	VBP	_	5	advcl	_	_
+9	!!!!	_	PUNCT	.	_	1	punct	_	_
+		
+1	Save	_	VERB	VB	_	0	root	_	_
+2	money	_	NOUN	NN	_	1	dobj	_	_
+3	and	_	CONJ	CC	_	1	cc	_	_
+4	go	_	VERB	VB	_	1	conj	_	_
+5	somewhere	_	ADV	RB	_	4	advmod	_	_
+6	else	_	ADV	RB	_	5	advmod	_	_
+7	!	_	PUNCT	.	_	1	punct	_	_
+		

@@ -1,0 +1,31 @@
+1	Excellent	_	ADJ	JJ	_	3	amod	_	_
+2	piano	_	NOUN	NN	_	3	compound	_	_
+3	lessons	_	NOUN	NNS	_	0	root	_	_
+		
+1	I	_	PRON	PRP	_	4	nsubj	_	_
+2	'm	_	VERB	VBP	_	4	cop	_	_
+3	very	_	ADV	RB	_	4	advmod	_	_
+4	happy	_	ADJ	JJ	_	0	root	_	_
+5	with	_	ADP	IN	_	8	case	_	_
+6	the	_	DET	DT	_	8	det	_	_
+7	piano	_	NOUN	NN	_	8	compound	_	_
+8	lessons	_	NOUN	NNS	_	4	nmod	_	_
+9	Mrs.	_	PROPN	NNP	_	11	compound	_	_
+10	Lynda	_	PROPN	NNP	_	11	compound	_	_
+11	Mcmanus	_	PROPN	NNP	_	12	nsubj	_	_
+12	taught	_	VERB	VBD	_	8	acl:relcl	_	_
+13	me	_	PRON	PRP	_	12	dobj	_	_
+14	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	Now	_	ADV	RB	_	4	advmod	_	_
+2	I	_	PRON	PRP	_	4	nsubj	_	_
+3	'm	_	VERB	VBP	_	4	cop	_	_
+4	able	_	ADJ	JJ	_	0	root	_	_
+5	to	_	PART	TO	_	6	aux	_	_
+6	play	_	VERB	VB	_	4	xcomp	_	_
+7	the	_	DET	DT	_	8	det	_	_
+8	piano	_	NOUN	NN	_	6	dobj	_	_
+9	pretty	_	ADV	RB	_	10	advmod	_	_
+10	well	_	ADV	RB	_	6	advmod	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+		

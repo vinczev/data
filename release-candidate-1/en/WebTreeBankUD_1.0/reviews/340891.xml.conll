@@ -1,0 +1,7 @@
+1	The	_	DET	DT	_	2	det	_	_
+2	food	_	NOUN	NN	_	3	nsubj	_	_
+3	tasted	_	VERB	VBD	_	0	root	_	_
+4	like	_	ADP	IN	_	6	case	_	_
+5	rat	_	NOUN	NN	_	6	compound	_	_
+6	feces	_	NOUN	NNS	_	3	nmod	_	_
+		

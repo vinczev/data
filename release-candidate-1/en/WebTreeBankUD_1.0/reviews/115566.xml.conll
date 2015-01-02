@@ -1,0 +1,14 @@
+1	Retired	_	VERB	VBD	_	0	root	_	_
+		
+1	Dr	_	PROPN	NNP	_	2	compound	_	_
+2	Joseph	_	PROPN	NNP	_	3	nsubj	_	_
+3	retired	_	VERB	VBD	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Dr.	_	PROPN	NNP	_	2	compound	_	_
+2	Dorn	_	PROPN	NNP	_	5	nsubj	_	_
+3	is	_	VERB	VBZ	_	5	cop	_	_
+4	his	_	PRON	PRP$	_	5	nmod:poss	_	_
+5	backup	_	NOUN	NN	_	0	root	_	_
+6	.	_	PUNCT	.	_	5	punct	_	_
+		

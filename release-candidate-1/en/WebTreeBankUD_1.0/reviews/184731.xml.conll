@@ -1,0 +1,10 @@
+1	The	_	DET	DT	_	5	det	_	_
+2	World	_	PROPN	NNP	_	4	nmod:poss	_	_
+3	's	_	PART	POS	_	2	case	_	_
+4	Fair	_	PROPN	NNP	_	5	compound	_	_
+5	museum	_	NOUN	NN	_	8	nsubj	_	_
+6	was	_	VERB	VBD	_	8	cop	_	_
+7	pretty	_	ADV	RB	_	8	advmod	_	_
+8	cool	_	ADJ	JJ	_	0	root	_	_
+9	.	_	PUNCT	.	_	8	punct	_	_
+		

@@ -1,0 +1,31 @@
+1	Brain	_	NOUN	NN	_	2	nmod:npmod	_	_
+2	Dead	_	ADJ	JJ	_	0	root	_	_
+		
+1	Not	_	ADV	RB	_	2	neg	_	_
+2	only	_	ADV	RB	_	7	preconj	_	_
+3	are	_	AUX	VBP	_	7	cop	_	_
+4	these	_	DET	DT	_	5	det	_	_
+5	people	_	NOUN	NNS	_	7	nsubj	_	_
+6	completely	_	ADV	RB	_	7	advmod	_	_
+7	inefficient	_	ADJ	JJ	_	0	root	_	_
+8	and	_	CONJ	CC	_	7	cc	_	_
+9	ineffective	_	ADJ	JJ	_	7	conj	_	_
+10	,	_	PUNCT	,	_	7	punct	_	_
+11	but	_	CONJ	CC	_	7	cc	_	_
+12	they	_	PRON	PRP	_	16	nsubj	_	_
+13	just	_	ADV	RB	_	16	advmod	_	_
+14	do	_	AUX	VBP	_	16	aux	_	_
+15	n't	_	PART	RB	_	16	neg	_	_
+16	give	_	VERB	VB	_	7	conj	_	_
+17	a	_	DET	DT	_	18	det	_	_
+18	darn	_	NOUN	NN	_	16	dobj	_	_
+19	.	_	PUNCT	.	_	7	punct	_	_
+		
+1	This	_	DET	DT	_	2	det	_	_
+2	place	_	NOUN	NN	_	6	nsubj	_	_
+3	is	_	VERB	VBZ	_	6	cop	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	complete	_	ADJ	JJ	_	6	amod	_	_
+6	embarrassment	_	NOUN	NN	_	0	root	_	_
+7	.	_	PUNCT	.	_	6	punct	_	_
+		

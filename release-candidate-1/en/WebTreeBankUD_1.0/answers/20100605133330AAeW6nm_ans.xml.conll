@@ -1,0 +1,57 @@
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	have	_	VERB	VBP	_	0	root	_	_
+3	hundreds	_	NOUN	NNS	_	2	dobj	_	_
+4	of	_	ADP	IN	_	6	case	_	_
+5	VHS	_	NOUN	NN	_	6	compound	_	_
+6	movies	_	NOUN	NNS	_	3	nmod	_	_
+7	lying	_	VERB	VBG	_	3	acl	_	_
+8	around	_	ADV	RB	_	7	advmod	_	_
+9	...	_	PUNCT	,	_	2	punct	_	_
+10	what	_	PRON	WP	_	13	dobj	_	_
+11	should	_	AUX	MD	_	13	aux	_	_
+12	I	_	PRON	PRP	_	13	nsubj	_	_
+13	do	_	VERB	VB	_	2	parataxis	_	_
+14	with	_	ADP	IN	_	15	case	_	_
+15	them	_	PRON	PRP	_	13	nmod	_	_
+16	?	_	PUNCT	.	_	2	punct	_	_
+		
+1	They	_	PRON	PRP	_	2	nsubj	_	_
+2	bulk	_	VERB	VBP	_	0	root	_	_
+3	up	_	ADP	RP	_	2	compound:prt	_	_
+4	too	_	ADV	RB	_	5	advmod	_	_
+5	much	_	ADJ	JJ	_	6	amod	_	_
+6	space	_	NOUN	NN	_	2	dobj	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	gave	_	VERB	VBD	_	0	root	_	_
+3	mine	_	PRON	PRP	_	2	dobj	_	_
+4	to	_	ADP	IN	_	7	case	_	_
+5	a	_	DET	DT	_	7	det	_	_
+6	rest	_	NOUN	NN	_	7	compound	_	_
+7	home	_	NOUN	NN	_	2	nmod	_	_
+8	for	_	ADP	IN	_	10	case	_	_
+9	senior	_	ADJ	JJ	_	10	amod	_	_
+10	citizens	_	NOUN	NNS	_	7	nmod	_	_
+11	and	_	CONJ	CC	_	7	cc	_	_
+12	an	_	DET	DT	_	16	det	_	_
+13	old	_	ADJ	JJ	_	14	amod	_	_
+14	soldiers	_	NOUN	NNS	_	16	nmod:poss	_	_
+15	'	_	PART	POS	_	14	case	_	_
+16	home	_	NOUN	NN	_	7	conj	_	_
+17	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Covert	_	VERB	VB	_	0	root	_	_
+2	into	_	ADP	IN	_	3	case	_	_
+3	DVD	_	NOUN	NN	_	1	nmod	_	_
+4	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	give	_	VERB	VB	_	0	root	_	_
+2	them	_	PRON	PRP	_	1	dobj	_	_
+3	to	_	ADP	IN	_	5	case	_	_
+4	a	_	DET	DT	_	5	det	_	_
+5	library	_	ADJ	JJ	_	1	nmod	_	_
+6	or	_	CONJ	CC	_	1	cc	_	_
+7	burn	_	VERB	VB	_	1	conj	_	_
+8	them	_	PRON	PRP	_	7	dobj	_	_
+9	.	_	PUNCT	.	_	1	punct	_	_
+		

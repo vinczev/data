@@ -1,0 +1,57 @@
+1	Absolutely	_	ADV	RB	_	2	advmod	_	_
+2	amazing	_	ADJ	JJ	_	3	amod	_	_
+3	job	_	NOUN	NN	_	0	root	_	_
+4	!	_	PUNCT	.	_	3	punct	_	_
+		
+1	Susanna	_	PROPN	NNP	_	8	nsubj	_	_
+2	is	_	VERB	VBZ	_	8	cop	_	_
+3	the	_	DET	DT	_	8	det	_	_
+4	best	_	ADJ	JJS	_	8	amod	_	_
+5	dress	_	NOUN	NN	_	6	compound	_	_
+6	maker	_	NOUN	NN	_	0	root	_	_
+7	/	_	PUNCT	,	_	6	cc	_	_
+8	tailor	_	NOUN	NN	_	6	conj	_	_
+9	I	_	PRON	PRP	_	12	nsubj	_	_
+10	've	_	AUX	VBP	_	12	aux	_	_
+11	ever	_	ADV	RB	_	12	advmod	_	_
+12	come	_	VERB	VBN	_	8	acl:relcl	_	_
+13	across	_	ADP	IN	_	12	nmod	_	_
+14	in	_	ADP	IN	_	17	case	_	_
+15	my	_	PRON	PRP$	_	17	nmod:poss	_	_
+16	whole	_	ADJ	JJ	_	17	amod	_	_
+17	life	_	NOUN	NN	_	12	nmod	_	_
+18	!	_	PUNCT	.	_	8	punct	_	_
+		
+1	She	_	PRON	PRP	_	2	nsubj	_	_
+2	makes	_	VERB	VBZ	_	0	root	_	_
+3	every	_	DET	DT	_	4	det	_	_
+4	item	_	NOUN	NN	_	5	nsubj	_	_
+5	fit	_	VERB	VB	_	2	ccomp	_	_
+6	you	_	PRON	PRP	_	5	dobj	_	_
+7	perfectly	_	ADV	RB	_	5	advmod	_	_
+8	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	She	_	PRON	PRP	_	5	nsubj	_	_
+2	is	_	VERB	VBZ	_	5	cop	_	_
+3	always	_	ADV	RB	_	5	advmod	_	_
+4	so	_	ADV	RB	_	5	advmod	_	_
+5	busy	_	ADJ	JJ	_	0	root	_	_
+6	,	_	PUNCT	,	_	5	punct	_	_
+7	too	_	ADV	RB	_	5	advmod	_	_
+8	,	_	PUNCT	,	_	5	punct	_	_
+9	which	_	DET	WDT	_	13	nsubj	_	_
+10	is	_	VERB	VBZ	_	13	cop	_	_
+11	a	_	DET	DT	_	13	det	_	_
+12	good	_	ADJ	JJ	_	13	amod	_	_
+13	indication	_	NOUN	NN	_	5	parataxis	_	_
+14	of	_	ADP	IN	_	16	case	_	_
+15	her	_	PRON	PRP$	_	16	nmod:poss	_	_
+16	talent	_	NOUN	NN	_	13	nmod	_	_
+17	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	She	_	PRON	PRP	_	4	nsubj	_	_
+2	's	_	VERB	VBZ	_	4	cop	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	best	_	ADJ	JJS	_	0	root	_	_
+5	!	_	PUNCT	.	_	4	punct	_	_
+		

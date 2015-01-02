@@ -1,0 +1,103 @@
+1	Wellington	_	PROPN	NNP	_	3	compound	_	_
+2	sign	_	NOUN	NN	_	3	compound	_	_
+3	poll	_	NOUN	NN	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Where	_	ADV	WRB	_	4	advmod	_	_
+2	do	_	AUX	VBP	_	4	aux	_	_
+3	we	_	PRON	PRP	_	4	nsubj	_	_
+4	vote	_	VERB	VB	_	0	root	_	_
+5	?	_	PUNCT	.	_	4	punct	_	_
+		
+1	If	_	SCONJ	IN	_	5	mark	_	_
+2	anyone	_	NOUN	NN	_	5	nsubj	_	_
+3	else	_	ADJ	JJ	_	2	amod	_	_
+4	has	_	AUX	VBZ	_	5	aux	_	_
+5	voted	_	VERB	VBN	_	0	root	_	_
+6	?	_	PUNCT	.	_	5	punct	_	_
+		
+1	Where	_	ADV	WRB	_	4	advmod	_	_
+2	do	_	AUX	VBP	_	4	aux	_	_
+3	we	_	PRON	PRP	_	4	nsubj	_	_
+4	vote	_	VERB	VB	_	0	root	_	_
+5	?	_	PUNCT	.	_	4	punct	_	_
+		
+1	Obviously	_	ADV	RB	_	0	root	_	_
+2	because	_	SCONJ	IN	_	4	mark	_	_
+3	i	_	PRON	PRP	_	4	nsubj	_	_
+4	want	_	VERB	VBP	_	1	advcl	_	_
+5	to	_	PART	TO	_	6	aux	_	_
+6	vote	_	VERB	VB	_	4	xcomp	_	_
+7	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	And	_	CONJ	CC	_	12	cc	_	_
+2	if	_	SCONJ	IN	_	6	mark	_	_
+3	anyone	_	NOUN	NN	_	6	nsubj	_	_
+4	else	_	ADJ	JJ	_	3	amod	_	_
+5	has	_	AUX	VBZ	_	6	aux	_	_
+6	voted	_	VERB	VBN	_	12	advcl	_	_
+7	,	_	PUNCT	,	_	12	punct	_	_
+8	what	_	PRON	WP	_	12	dep	_	_
+9	did	_	AUX	VBD	_	12	aux	_	_
+10	you	_	PRON	PRP	_	11	dep	_	_
+11	guys	_	NOUN	NNS	_	12	nsubj	_	_
+12	vote	_	VERB	VB	_	0	root	_	_
+13	for	_	ADP	IN	_	12	nmod	_	_
+14	?	_	PUNCT	.	_	12	punct	_	_
+		
+1	It	_	PRON	PRP	_	2	nsubj	_	_
+2	closed	_	VERB	VBD	_	0	root	_	_
+3	on	_	ADP	IN	_	4	case	_	_
+4	Sunday	_	PROPN	NNP	_	2	nmod	_	_
+5	...	_	PUNCT	.	_	2	punct	_	_
+		
+1	You	_	PRON	PRP	_	2	nsubj	_	_
+2	voted	_	VERB	VBD	_	0	root	_	_
+3	on	_	ADP	IN	_	7	case	_	_
+4	the	_	DET	DT	_	7	det	_	_
+5	Dominion	_	PROPN	NNP	_	6	compound	_	_
+6	Posts	_	PROPN	NNPS	_	7	compound	_	_
+7	website	_	NOUN	NN	_	2	nmod	_	_
+8	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	The	_	DET	DT	_	3	det	_	_
+2	top	_	ADJ	JJ	_	3	amod	_	_
+3	two	_	NUM	CD	_	5	nsubj	_	_
+4	are	_	AUX	VBP	_	5	aux	_	_
+5	going	_	VERB	VBG	_	0	root	_	_
+6	'	_	PUNCT	``	_	7	punct	_	_
+7	head	_	NOUN	NN	_	5	nmod:npmod	_	_
+8	to	_	ADP	IN	_	9	case	_	_
+9	head	_	NOUN	NN	_	7	nmod	_	_
+10	'	_	PUNCT	''	_	7	punct	_	_
+11	in	_	ADP	IN	_	14	case	_	_
+12	a	_	DET	DT	_	14	det	_	_
+13	final	_	ADJ	JJ	_	14	amod	_	_
+14	vote	_	NOUN	NN	_	5	nmod	_	_
+15	on	_	ADP	IN	_	14	nmod	_	_
+16	that	_	DET	WDT	_	17	nsubj	_	_
+17	opens	_	VERB	VBZ	_	14	acl:relcl	_	_
+18	on	_	ADP	IN	_	19	case	_	_
+19	Wednesday	_	PROPN	NNP	_	17	nmod	_	_
+20	on	_	ADP	IN	_	22	case	_	_
+21	-	_	PUNCT	HYPH	_	22	punct	_	_
+22	http://www.stuff.co.nz/dominion-post/	_	X	ADD	_	17	nmod	_	_
+		
+1	They	_	PRON	PRP	_	3	nsubj	_	_
+2	should	_	AUX	MD	_	3	aux	_	_
+3	have	_	VERB	VB	_	0	root	_	_
+4	one	_	NUM	CD	_	3	dobj	_	_
+5	for	_	ADP	IN	_	9	mark	_	_
+6	the	_	DET	DT	_	8	det	_	_
+7	All	_	PROPN	NNP	_	8	compound	_	_
+8	Blacks	_	PROPN	NNPS	_	9	nsubj	_	_
+9	winning	_	VERB	VBG	_	4	advcl	_	_
+10	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Wellywood	_	PROPN	NNP	_	2	nsubj	_	_
+2	looks	_	VERB	VBZ	_	0	root	_	_
+3	rather	_	ADV	RB	_	4	advmod	_	_
+4	cheap	_	ADJ	JJ	_	2	xcomp	_	_
+5	and	_	CONJ	CC	_	4	cc	_	_
+6	tacky	_	ADJ	JJ	_	4	conj	_	_
+		

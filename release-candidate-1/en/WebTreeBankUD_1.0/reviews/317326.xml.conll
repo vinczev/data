@@ -1,0 +1,15 @@
+1	Midtown	_	PROPN	NNP	_	2	compound	_	_
+2	Reston	_	PROPN	NNP	_	3	nsubj	_	_
+3	has	_	VERB	VBZ	_	0	root	_	_
+4	great	_	ADJ	JJ	_	5	amod	_	_
+5	location	_	NOUN	NN	_	3	dobj	_	_
+6	and	_	CONJ	CC	_	5	cc	_	_
+7	luxurious	_	ADJ	JJ	_	8	amod	_	_
+8	environment	_	NOUN	NN	_	5	conj	_	_
+9	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Really	_	ADV	RB	_	2	advmod	_	_
+2	enjoyed	_	VERB	VBD	_	0	root	_	_
+3	it	_	PRON	PRP	_	2	dobj	_	_
+4	.	_	PUNCT	.	_	2	punct	_	_
+		

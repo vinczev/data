@@ -1,0 +1,14 @@
+1	Thank	_	VERB	VBP	_	0	root	_	_
+2	you	_	PRON	PRP	_	1	dobj	_	_
+3	for	_	ADP	IN	_	4	mark	_	_
+4	fixing	_	VERB	VBG	_	1	advcl	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	leak	_	NOUN	NN	_	4	dobj	_	_
+7	on	_	ADP	IN	_	9	case	_	_
+8	my	_	PRON	PRP$	_	9	nmod:poss	_	_
+9	bathroom	_	NOUN	NN	_	6	nmod	_	_
+10	!	_	PUNCT	.	_	1	punct	_	_
+		
+1	Thanks	_	NOUN	NN	_	0	root	_	_
+2	!	_	PUNCT	.	_	1	punct	_	_
+		

@@ -1,0 +1,63 @@
+1	PAT	_	PROPN	NNP	_	2	compound	_	_
+2	testing	_	PROPN	NNP	_	0	root	_	_
+3	quick	_	ADJ	JJ	_	2	amod	_	_
+4	&	_	CONJ	CC	_	3	cc	_	_
+5	efficient	_	ADJ	JJ	_	3	conj	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	rang	_	VERB	VBP	_	0	root	_	_
+3	SRD	_	PROPN	NNP	_	5	compound	_	_
+4	PAT	_	PROPN	NNP	_	5	compound	_	_
+5	testing	_	PROPN	NNP	_	2	dobj	_	_
+6	and	_	CONJ	CC	_	2	cc	_	_
+7	within	_	ADP	IN	_	9	case	_	_
+8	3	_	NUM	CD	_	9	nummod	_	_
+9	hours	_	NOUN	NNS	_	12	nmod	_	_
+10	Scot	_	PROPN	NNP	_	12	nsubj	_	_
+11	had	_	AUX	VBD	_	12	aux	_	_
+12	come	_	VERB	VBN	_	2	conj	_	_
+13	to	_	ADP	IN	_	15	case	_	_
+14	my	_	PRON	PRP$	_	15	nmod:poss	_	_
+15	premises	_	NOUN	NNS	_	12	nmod	_	_
+16	and	_	CONJ	CC	_	12	cc	_	_
+17	PAT	_	NOUN	NN	_	18	nsubj	_	_
+18	tested	_	VERB	VBN	_	12	conj	_	_
+19	all	_	DET	PDT	_	28	predet	_	_
+20	my	_	PRON	PRP$	_	28	nmod:poss	_	_
+21	our	_	PRON	PRP$	_	28	nmod:poss	_	_
+22	Spill	_	VERB	VB	_	28	compound	_	_
+23	The	_	DET	DT	_	24	det	_	_
+24	Whisky	_	PROPN	NNP	_	22	dobj	_	_
+25	barn	_	NOUN	NN	_	26	compound	_	_
+26	dance	_	NOUN	NN	_	28	compound	_	_
+27	band	_	NOUN	NN	_	28	compound	_	_
+28	equipment	_	NOUN	NN	_	18	dobj	_	_
+29	,	_	PUNCT	,	_	12	punct	_	_
+30	and	_	CONJ	CC	_	12	cc	_	_
+31	supplied	_	VERB	VBN	_	12	conj	_	_
+32	a	_	DET	DT	_	33	det	_	_
+33	certificate	_	NOUN	NN	_	31	dobj	_	_
+34	for	_	ADP	IN	_	37	case	_	_
+35	only	_	ADV	RB	_	37	advmod	_	_
+36	70	_	NUM	CD	_	37	nummod	_	_
+37	p	_	NOUN	NN	_	31	nmod	_	_
+38	per	_	ADP	IN	_	39	case	_	_
+39	unit	_	NOUN	NN	_	37	nmod	_	_
+40	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Fantastic	_	ADJ	JJ	_	6	amod	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+3	quick	_	ADJ	JJ	_	1	conj	_	_
+4	and	_	CONJ	CC	_	1	cc	_	_
+5	efficient	_	ADJ	JJ	_	1	conj	_	_
+6	service	_	NOUN	NN	_	0	root	_	_
+7	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	How	_	ADV	WRB	_	2	advmod	_	_
+2	rare	_	ADJ	JJ	_	0	root	_	_
+3	!	_	PUNCT	.	_	2	punct	_	_
+		
+1	Well	_	ADV	RB	_	2	advmod	_	_
+2	done	_	VERB	VBN	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+		

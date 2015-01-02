@@ -1,0 +1,62 @@
+1	Which	_	DET	WDT	_	6	dobj	_	_
+2	of	_	ADP	IN	_	3	case	_	_
+3	these	_	DET	DT	_	1	nmod	_	_
+4	do	_	AUX	VBP	_	6	aux	_	_
+5	you	_	PRON	PRP	_	6	nsubj	_	_
+6	like	_	VERB	VB	_	0	root	_	_
+7	:	_	PUNCT	:	_	6	punct	_	_
+8	McDonald	_	PROPN	NNP	_	3	appos	_	_
+9	s	_	PART	POS	_	8	case	_	_
+10	,	_	PUNCT	,	_	8	punct	_	_
+11	Burger	_	PROPN	NNP	_	12	compound	_	_
+12	King	_	PROPN	NNP	_	8	conj	_	_
+13	,	_	PUNCT	,	_	8	punct	_	_
+14	Taco	_	PROPN	NNP	_	15	compound	_	_
+15	Bell	_	PROPN	NNP	_	8	conj	_	_
+16	,	_	PUNCT	,	_	8	punct	_	_
+17	Wendy	_	PROPN	NNP	_	8	conj	_	_
+18	s	_	PART	POS	_	17	case	_	_
+19	?	_	PUNCT	.	_	6	punct	_	_
+		
+1	Burger	_	PROPN	NNP	_	2	compound	_	_
+2	King	_	PROPN	NNP	_	0	root	_	_
+		
+1	it	_	PRON	PRP	_	2	nsubj	_	_
+2	seems	_	VERB	VBZ	_	0	root	_	_
+3	like	_	SCONJ	IN	_	9	mark	_	_
+4	I	_	PRON	PRP	_	9	nsubj	_	_
+5	'm	_	VERB	VBP	_	9	cop	_	_
+6	at	_	ADP	IN	_	9	mark	_	_
+7	a	_	DET	DT	_	9	det	_	_
+8	real	_	ADJ	JJ	_	9	amod	_	_
+9	restaurant	_	NOUN	NN	_	2	advcl	_	_
+10	like	_	ADP	IN	_	11	case	_	_
+11	Applebee	_	PROPN	NNP	_	9	nmod	_	_
+12	s	_	PART	POS	_	11	case	_	_
+13	,	_	PUNCT	,	_	2	punct	_	_
+14	their	_	PRON	PRP$	_	15	nmod:poss	_	_
+15	food	_	NOUN	NN	_	19	nsubj	_	_
+16	is	_	VERB	VBZ	_	19	cop	_	_
+17	usually	_	ADV	RB	_	19	advmod	_	_
+18	that	_	ADV	RB	_	19	advmod	_	_
+19	good	_	ADJ	JJ	_	2	parataxis	_	_
+		
+1	McDonal	_	PROPN	NNP	_	4	nsubj	_	_
+2	s	_	PART	POS	_	1	case	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	best	_	ADJ	JJS	_	0	root	_	_
+5	for	_	ADP	IN	_	6	case	_	_
+6	me	_	PRON	PRP	_	4	nmod	_	_
+		
+1	the	_	DET	DT	_	2	det	_	_
+2	one	_	NUM	CD	_	9	nsubj	_	_
+3	i	_	PRON	PRP	_	4	nsubj	_	_
+4	like	_	VERB	VBP	_	2	acl:relcl	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	most	_	ADV	RBS	_	4	advmod	_	_
+7	would	_	AUX	MD	_	9	aux	_	_
+8	be	_	VERB	VB	_	9	cop	_	_
+9	wendy	_	PROPN	NNP	_	0	root	_	_
+10	's	_	PART	POS	_	9	case	_	_
+11	.	_	PUNCT	.	_	9	punct	_	_
+		

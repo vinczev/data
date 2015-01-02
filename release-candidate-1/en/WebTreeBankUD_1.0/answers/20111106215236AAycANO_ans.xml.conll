@@ -1,0 +1,355 @@
+1	What	_	PRON	WP	_	4	nsubj	_	_
+2	are	_	VERB	VBP	_	4	cop	_	_
+3	good	_	ADJ	JJ	_	4	amod	_	_
+4	places	_	NOUN	NNS	_	0	root	_	_
+5	to	_	PART	TO	_	6	aux	_	_
+6	eat	_	VERB	VB	_	4	acl	_	_
+7	brunch	_	NOUN	NN	_	6	dobj	_	_
+8	at	_	ADP	IN	_	6	nmod	_	_
+9	?	_	PUNCT	.	_	4	punct	_	_
+10	?	_	PUNCT	.	_	4	punct	_	_
+		
+1	My	_	PRON	PRP$	_	2	nmod:poss	_	_
+2	bday	_	NOUN	NN	_	4	nsubj	_	_
+3	is	_	VERB	VBZ	_	4	cop	_	_
+4	Saturday	_	PROPN	NNP	_	0	root	_	_
+5	:-RRB-	_	SYM	NFP	_	4	discourse	_	_
+6	and	_	CONJ	CC	_	4	cc	_	_
+7	I	_	PRON	PRP	_	8	nsubj	_	_
+8	wan	_	VERB	VBP	_	4	conj	_	_
+9	na	_	PART	TO	_	10	aux	_	_
+10	have	_	VERB	VBP	_	8	xcomp	_	_
+11	breakfast	_	NOUN	NN	_	10	dobj	_	_
+12	/	_	PUNCT	,	_	11	cc	_	_
+13	lunch	_	NOUN	NN	_	11	conj	_	_
+14	with	_	ADP	IN	_	16	case	_	_
+15	my	_	PRON	PRP$	_	16	nmod:poss	_	_
+16	fam	_	NOUN	NN	_	10	nmod	_	_
+17	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	was	_	AUX	VBD	_	3	aux	_	_
+3	gon	_	VERB	VBG	_	0	root	_	_
+4	na	_	PART	TO	_	5	aux	_	_
+5	have	_	VERB	VBP	_	3	xcomp	_	_
+6	a	_	DET	DT	_	8	det	_	_
+7	dinner	_	NOUN	NN	_	8	compound	_	_
+8	party	_	NOUN	NN	_	5	dobj	_	_
+9	that	_	DET	WDT	_	10	det	_	_
+10	night	_	NOUN	NN	_	5	nmod:tmod	_	_
+11	but	_	CONJ	CC	_	3	cc	_	_
+12	my	_	PRON	PRP$	_	13	nmod:poss	_	_
+13	cousin	_	NOUN	NN	_	16	nsubj	_	_
+14	is	_	AUX	VBZ	_	16	aux	_	_
+15	having	_	VERB	VBG	_	16	dep	_	_
+16	Having	_	VERB	VBG	_	3	conj	_	_
+17	her	_	PRON	PRP$	_	19	nmod:poss	_	_
+18	bridal	_	ADJ	JJ	_	19	amod	_	_
+19	shower	_	NOUN	NN	_	16	dobj	_	_
+20	so	_	ADV	RB	_	3	conj	_	_
+21	brunch	_	NOUN	NN	_	20	nsubj	_	_
+22	is	_	VERB	VBZ	_	20	cop	_	_
+23	it	_	PRON	PRP	_	20	expl	_	_
+24	but	_	CONJ	CC	_	3	cc	_	_
+25	the	_	DET	DT	_	27	det	_	_
+26	only	_	ADJ	JJ	_	27	amod	_	_
+27	places	_	NOUN	NNS	_	31	nsubj	_	_
+28	I	_	PRON	PRP	_	29	nsubj	_	_
+29	know	_	VERB	VBP	_	27	acl:relcl	_	_
+30	are	_	VERB	VBP	_	31	cop	_	_
+31	denny	_	PROPN	NNP	_	3	conj	_	_
+32	's	_	PART	POS	_	31	case	_	_
+33	and	_	CONJ	CC	_	31	cc	_	_
+34	ihop	_	PROPN	NNP	_	31	conj	_	_
+35	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Oh	_	INTJ	UH	_	5	discourse	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	btw	_	ADV	RB	_	1	conj	_	_
+4	I	_	PRON	PRP	_	5	nsubj	_	_
+5	live	_	VERB	VBP	_	0	root	_	_
+6	in	_	ADP	IN	_	8	case	_	_
+7	los	_	PROPN	NNP	_	8	compound	_	_
+8	angeles	_	PROPN	NNP	_	5	nmod	_	_
+9	look	_	VERB	VB	_	5	parataxis	_	_
+10	for	_	ADP	IN	_	11	case	_	_
+11	places	_	NOUN	NNS	_	9	nmod	_	_
+12	in	_	ADP	IN	_	16	case	_	_
+13	like	_	INTJ	UH	_	16	discourse	_	_
+14	the	_	DET	DT	_	16	det	_	_
+15	lb	_	PROPN	NNP	_	16	compound	_	_
+16	area	_	NOUN	NN	_	11	nmod	_	_
+17	and	_	CONJ	CC	_	16	cc	_	_
+18	torrance	_	PROPN	NNP	_	16	conj	_	_
+19	etc	_	X	FW	_	16	advmod	_	_
+20	thanx	_	INTJ	UH	_	5	discourse	_	_
+21	^_^	_	SYM	NFP	_	5	discourse	_	_
+		
+1	I	_	PRON	PRP	_	4	nsubj	_	_
+2	would	_	AUX	MD	_	4	aux	_	_
+3	strongly	_	ADV	RB	_	4	advmod	_	_
+4	suggest	_	VERB	VB	_	0	root	_	_
+5	"	_	PUNCT	``	_	8	punct	_	_
+6	The	_	DET	DT	_	8	det	_	_
+7	Breakfast	_	PROPN	NNP	_	8	compound	_	_
+8	Club	_	PROPN	NNP	_	4	dobj	_	_
+9	"	_	PUNCT	''	_	8	punct	_	_
+10	in	_	ADP	IN	_	11	case	_	_
+11	Chicago	_	PROPN	NNP	_	8	nmod	_	_
+12	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	You	_	PRON	PRP	_	4	nsubj	_	_
+2	can	_	AUX	MD	_	4	aux	_	_
+3	definately	_	ADV	RB	_	4	advmod	_	_
+4	plan	_	VERB	VB	_	0	root	_	_
+5	on	_	ADP	IN	_	8	case	_	_
+6	a	_	DET	DT	_	8	det	_	_
+7	great	_	ADJ	JJ	_	8	amod	_	_
+8	meal	_	NOUN	NN	_	4	nmod	_	_
+9	with	_	ADP	IN	_	11	case	_	_
+10	reasonable	_	ADJ	JJ	_	11	amod	_	_
+11	prices	_	NOUN	NNS	_	8	nmod	_	_
+12	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	Do	_	AUX	VBP	_	6	aux	_	_
+2	n't	_	PART	RB	_	6	neg	_	_
+3	be	_	VERB	VB	_	6	cop	_	_
+4	in	_	ADP	IN	_	6	mark	_	_
+5	a	_	DET	DT	_	6	det	_	_
+6	hurry	_	NOUN	NN	_	0	root	_	_
+7	though	_	ADV	RB	_	6	advmod	_	_
+8	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	Just	_	ADV	RB	_	2	advmod	_	_
+2	relax	_	VERB	VB	_	0	root	_	_
+3	and	_	CONJ	CC	_	2	cc	_	_
+4	enjoy	_	VERB	VB	_	2	conj	_	_
+5	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	They	_	PRON	PRP	_	2	nsubj	_	_
+2	have	_	VERB	VBP	_	0	root	_	_
+3	fabulous	_	ADJ	JJ	_	5	amod	_	_
+4	French	_	ADJ	JJ	_	5	amod	_	_
+5	toast	_	NOUN	NN	_	2	dobj	_	_
+6	too	_	ADV	RB	_	2	advmod	_	_
+7	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	The	_	DET	DT	_	3	det	_	_
+2	Breakfast	_	PROPN	NNP	_	3	compound	_	_
+3	Club	_	PROPN	NNP	_	8	nsubjpass	_	_
+4	&	_	CONJ	CC	_	3	cc	_	_
+5	Grill	_	PROPN	NNP	_	3	conj	_	_
+6	is	_	AUX	VBZ	_	8	auxpass	_	_
+7	conveniently	_	ADV	RB	_	8	advmod	_	_
+8	located	_	VERB	VBN	_	0	root	_	_
+9	just	_	ADV	RB	_	11	advmod	_	_
+10	two	_	NUM	CD	_	11	nummod	_	_
+11	blocks	_	NOUN	NNS	_	15	nmod:npmod	_	_
+12	off	_	ADP	IN	_	15	case	_	_
+13	the	_	DET	DT	_	15	det	_	_
+14	Kennedy	_	PROPN	NNP	_	15	compound	_	_
+15	Expressway	_	PROPN	NNP	_	8	nmod	_	_
+16	.	_	PUNCT	.	_	8	punct	_	_
+		
+1	There	_	DET	EX	_	3	expl	_	_
+2	is	_	VERB	VBZ	_	3	cop	_	_
+3	always	_	ADV	RB	_	0	root	_	_
+4	plenty	_	NOUN	NN	_	3	nsubj	_	_
+5	of	_	ADP	IN	_	6	case	_	_
+6	parking	_	NOUN	NN	_	4	nmod	_	_
+7	on	_	ADP	IN	_	9	case	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	street	_	NOUN	NN	_	3	nmod	_	_
+10	or	_	CONJ	CC	_	9	cc	_	_
+11	in	_	ADP	IN	_	14	case	_	_
+12	our	_	PRON	PRP$	_	14	nmod:poss	_	_
+13	private	_	ADJ	JJ	_	14	amod	_	_
+14	lot	_	NOUN	NN	_	9	conj	_	_
+15	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	If	_	SCONJ	IN	_	5	mark	_	_
+2	you	_	PRON	PRP	_	5	nsubj	_	_
+3	'd	_	AUX	MD	_	5	aux	_	_
+4	rather	_	ADV	RB	_	5	advmod	_	_
+5	dine	_	VERB	VB	_	10	advcl	_	_
+6	at	_	ADP	IN	_	7	case	_	_
+7	home	_	NOUN	NN	_	5	nmod	_	_
+8	,	_	PUNCT	,	_	10	punct	_	_
+9	simply	_	ADV	RB	_	10	advmod	_	_
+10	call	_	VERB	VB	_	0	root	_	_
+11	in	_	ADP	RP	_	10	compound:prt	_	_
+12	your	_	PRON	PRP$	_	13	nmod:poss	_	_
+13	order	_	NOUN	NN	_	10	dobj	_	_
+14	with	_	ADP	IN	_	19	case	_	_
+15	our	_	PRON	PRP$	_	19	nmod:poss	_	_
+16	take	_	NOUN	NN	_	18	compound	_	_
+17	-	_	PUNCT	HYPH	_	18	punct	_	_
+18	out	_	NOUN	NN	_	19	compound	_	_
+19	service	_	NOUN	NN	_	10	nmod	_	_
+20	.	_	PUNCT	.	_	10	punct	_	_
+		
+1	Plenty	_	NOUN	NN	_	0	root	_	_
+2	of	_	ADP	IN	_	3	case	_	_
+3	parking	_	NOUN	NN	_	1	nmod	_	_
+4	on	_	ADP	IN	_	6	case	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	weekends	_	NOUN	NNS	_	1	nmod	_	_
+7	..	_	PUNCT	,	_	1	punct	_	_
+8	during	_	ADP	IN	_	10	case	_	_
+9	the	_	DET	DT	_	10	det	_	_
+10	week	_	NOUN	NN	_	12	nmod	_	_
+11	please	_	INTJ	UH	_	12	discourse	_	_
+12	park	_	VERB	VB	_	1	parataxis	_	_
+13	in	_	ADP	IN	_	16	case	_	_
+14	the	_	DET	DT	_	16	det	_	_
+15	little	_	ADJ	JJ	_	16	amod	_	_
+16	lot	_	NOUN	NN	_	12	nmod	_	_
+17	across	_	ADP	IN	_	19	case	_	_
+18	the	_	DET	DT	_	19	det	_	_
+19	street	_	NOUN	NN	_	16	nmod	_	_
+20	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Directions	_	NOUN	NNS	_	0	root	_	_
+2	from	_	ADP	IN	_	4	case	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	Kennedy	_	PROPN	NNP	_	1	nmod	_	_
+5	:	_	PUNCT	:	_	1	punct	_	_
+6	Take	_	VERB	VB	_	1	appos	_	_
+7	the	_	DET	DT	_	9	det	_	_
+8	Ogden	_	PROPN	NNP	_	9	compound	_	_
+9	Exit	_	NOUN	NN	_	6	dobj	_	_
+10	off	_	ADP	IN	_	12	case	_	_
+11	the	_	DET	DT	_	12	det	_	_
+12	Kennedy	_	PROPN	NNP	_	6	nmod	_	_
+13	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Go	_	VERB	VB	_	0	root	_	_
+2	three	_	NUM	CD	_	3	nummod	_	_
+3	lights	_	NOUN	NNS	_	4	nmod:npmod	_	_
+4	down	_	ADV	RB	_	1	advmod	_	_
+5	and	_	CONJ	CC	_	1	cc	_	_
+6	take	_	VERB	VB	_	1	conj	_	_
+7	a	_	DET	DT	_	8	det	_	_
+8	right	_	NOUN	NN	_	6	dobj	_	_
+9	onto	_	ADP	IN	_	10	case	_	_
+10	Ogden	_	PROPN	NNP	_	6	nmod	_	_
+11	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Continue	_	VERB	VB	_	0	root	_	_
+2	two	_	NUM	CD	_	3	nummod	_	_
+3	blocks	_	NOUN	NNS	_	1	dobj	_	_
+4	to	_	ADP	IN	_	5	case	_	_
+5	Hubbard	_	PROPN	NNP	_	1	nmod	_	_
+6	and	_	CONJ	CC	_	1	cc	_	_
+7	take	_	VERB	VB	_	1	conj	_	_
+8	another	_	DET	DT	_	9	det	_	_
+9	right	_	NOUN	NN	_	7	dobj	_	_
+10	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	We	_	PRON	PRP	_	5	nsubj	_	_
+2	're	_	VERB	VBP	_	5	cop	_	_
+3	at	_	ADP	IN	_	5	mark	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	corner	_	NOUN	NN	_	0	root	_	_
+6	of	_	ADP	IN	_	7	case	_	_
+7	Hubbard	_	PROPN	NNP	_	5	nmod	_	_
+8	and	_	CONJ	CC	_	7	cc	_	_
+9	Noble	_	PROPN	NNP	_	7	conj	_	_
+10	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	The	_	DET	DT	_	3	det	_	_
+2	Breakfast	_	PROPN	NNP	_	3	compound	_	_
+3	Club	_	PROPN	NNP	_	0	root	_	_
+4	&	_	CONJ	CC	_	3	cc	_	_
+5	Grill	_	PROPN	NNP	_	3	conj	_	_
+		
+1	1381	_	NUM	CD	_	3	nummod	_	_
+2	W.	_	PROPN	NNP	_	3	compound	_	_
+3	Hubbard	_	PROPN	NNP	_	0	root	_	_
+		
+1	Chicago	_	PROPN	NNP	_	0	root	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+3	IL	_	PROPN	NNP	_	1	appos	_	_
+4	60622	_	NUM	CD	_	1	appos	_	_
+		
+1	312-666-2372	_	NUM	CD	_	0	root	_	_
+2	Tel	_	NOUN	NN	_	1	appos	_	_
+		
+1	Email	_	VERB	VB	_	0	root	_	_
+2	Us	_	PRON	PRP	_	1	dobj	_	_
+		
+1	Hours	_	NOUN	NNS	_	0	root	_	_
+2	of	_	ADP	IN	_	3	case	_	_
+3	Operation	_	NOUN	NN	_	1	nmod	_	_
+4	:	_	PUNCT	:	_	1	punct	_	_
+		
+1	Monday	_	PROPN	NNP	_	0	root	_	_
+2	thru	_	ADP	IN	_	3	case	_	_
+3	Friday	_	PROPN	NNP	_	1	nmod	_	_
+		
+1	6:30	_	NUM	CD	_	5	nummod	_	_
+2	am	_	NOUN	NN	_	5	cop	_	_
+3	-	_	SYM	SYM	_	5	mark	_	_
+4	8:00	_	NUM	CD	_	5	nummod	_	_
+5	pm	_	NOUN	NN	_	0	root	_	_
+		
+1	Saturday	_	PROPN	NNP	_	0	root	_	_
+2	&	_	CONJ	CC	_	1	cc	_	_
+3	Sunday	_	PROPN	NNP	_	1	conj	_	_
+		
+1	7:00	_	NUM	CD	_	5	nummod	_	_
+2	am	_	NOUN	NN	_	5	cop	_	_
+3	-	_	SYM	SYM	_	5	mark	_	_
+4	5:00	_	NUM	CD	_	5	nummod	_	_
+5	pm	_	NOUN	NN	_	0	root	_	_
+		
+1	Happy	_	ADJ	JJ	_	2	amod	_	_
+2	Hour	_	NOUN	NN	_	0	root	_	_
+		
+1	Monday	_	PROPN	NNP	_	0	root	_	_
+2	thru	_	ADP	IN	_	3	case	_	_
+3	Friday	_	PROPN	NNP	_	1	nmod	_	_
+		
+1	4:00	_	NUM	CD	_	2	nummod	_	_
+2	pm	_	NOUN	NN	_	0	root	_	_
+3	-	_	SYM	SYM	_	5	case	_	_
+4	6:00	_	NUM	CD	_	5	nummod	_	_
+5	pm	_	NOUN	NN	_	2	nmod	_	_
+		
+1	$	_	SYM	$	_	3	compound	_	_
+2	4	_	NUM	CD	_	1	nummod	_	_
+3	appetizers	_	NOUN	NNS	_	0	root	_	_
+		
+1	$	_	SYM	$	_	3	compound	_	_
+2	4	_	NUM	CD	_	1	nummod	_	_
+3	wine	_	NOUN	NN	_	0	root	_	_
+		
+1	$	_	SYM	$	_	3	compound	_	_
+2	3	_	NUM	CD	_	1	nummod	_	_
+3	Coronas	_	PROPN	NNPS	_	0	root	_	_
+4	&	_	CONJ	CC	_	3	cc	_	_
+5	Heineken	_	PROPN	NNP	_	3	conj	_	_
+		
+1	Unless	_	SCONJ	IN	_	3	mark	_	_
+2	you	_	PRON	PRP	_	3	nsubj	_	_
+3	plan	_	VERB	VBP	_	13	advcl	_	_
+4	on	_	ADP	IN	_	6	mark	_	_
+5	being	_	VERB	VBG	_	6	cop	_	_
+6	late	_	ADJ	JJ	_	3	advcl	_	_
+7	for	_	ADP	IN	_	10	case	_	_
+8	the	_	DET	DT	_	10	det	_	_
+9	bridal	_	ADJ	JJ	_	10	amod	_	_
+10	shower	_	NOUN	NN	_	6	nmod	_	_
+11	you	_	PRON	PRP	_	13	nsubj	_	_
+12	might	_	AUX	MD	_	13	aux	_	_
+13	want	_	VERB	VB	_	0	root	_	_
+14	to	_	PART	TO	_	15	aux	_	_
+15	post	_	VERB	VB	_	13	xcomp	_	_
+16	this	_	DET	DT	_	15	dobj	_	_
+17	again	_	ADV	RB	_	15	advmod	_	_
+18	in	_	ADP	IN	_	21	case	_	_
+19	the	_	DET	DT	_	21	det	_	_
+20	L.A.	_	PROPN	NNP	_	21	compound	_	_
+21	section	_	NOUN	NN	_	15	nmod	_	_
+22	.	_	PUNCT	.	_	13	punct	_	_
+		

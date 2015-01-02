@@ -1,0 +1,53 @@
+1	Checked	_	VERB	VBD	_	0	root	_	_
+2	in	_	ADP	RP	_	1	compound:prt	_	_
+3	real	_	ADV	RB	_	4	advmod	_	_
+4	late	_	ADV	RB	_	1	advmod	_	_
+5	,	_	PUNCT	,	_	1	punct	_	_
+6	but	_	CONJ	CC	_	1	cc	_	_
+7	staff	_	NOUN	NN	_	10	nsubj	_	_
+8	was	_	VERB	VBD	_	10	cop	_	_
+9	very	_	ADV	RB	_	10	advmod	_	_
+10	kind	_	ADJ	JJ	_	1	conj	_	_
+11	and	_	CONJ	CC	_	10	cc	_	_
+12	helpful	_	ADJ	JJ	_	10	conj	_	_
+13	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Rooms	_	NOUN	NNS	_	3	nsubj	_	_
+2	very	_	ADV	RB	_	3	advmod	_	_
+3	clean	_	ADJ	JJ	_	0	root	_	_
+4	and	_	CONJ	CC	_	3	cc	_	_
+5	smelled	_	VERB	VBD	_	3	conj	_	_
+6	very	_	ADV	RB	_	7	advmod	_	_
+7	fresh	_	ADJ	JJ	_	5	xcomp	_	_
+8	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	would	_	AUX	MD	_	3	aux	_	_
+3	recommend	_	VERB	VB	_	0	root	_	_
+4	this	_	DET	DT	_	5	det	_	_
+5	hotel	_	NOUN	NN	_	3	dobj	_	_
+6	to	_	ADP	IN	_	7	case	_	_
+7	anyone	_	NOUN	NN	_	3	nmod	_	_
+8	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	loved	_	VERB	VBD	_	0	root	_	_
+3	my	_	PRON	PRP$	_	4	nmod:poss	_	_
+4	stay	_	NOUN	NN	_	2	dobj	_	_
+5	here	_	ADV	RB	_	4	advmod	_	_
+6	and	_	CONJ	CC	_	2	cc	_	_
+7	if	_	SCONJ	IN	_	8	mark	_	_
+8	ever	_	ADV	RB	_	9	advmod	_	_
+9	back	_	ADV	RB	_	17	advcl	_	_
+10	in	_	ADP	IN	_	12	case	_	_
+11	the	_	DET	DT	_	12	det	_	_
+12	area	_	NOUN	NN	_	8	nmod	_	_
+13	,	_	PUNCT	,	_	17	punct	_	_
+14	I	_	PRON	PRP	_	17	nsubj	_	_
+15	will	_	AUX	MD	_	17	aux	_	_
+16	be	_	AUX	VB	_	17	aux	_	_
+17	staying	_	VERB	VBG	_	2	conj	_	_
+18	here	_	ADV	RB	_	17	advmod	_	_
+19	again	_	ADV	RB	_	17	advmod	_	_
+20	.	_	PUNCT	.	_	2	punct	_	_
+		

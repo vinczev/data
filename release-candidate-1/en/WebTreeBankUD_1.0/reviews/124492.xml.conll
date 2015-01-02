@@ -1,0 +1,15 @@
+1	Great	_	ADJ	JJ	_	2	amod	_	_
+2	product	_	NOUN	NN	_	0	root	_	_
+3	,	_	PUNCT	,	_	2	punct	_	_
+4	great	_	ADJ	JJ	_	5	amod	_	_
+5	service	_	NOUN	NN	_	2	conj	_	_
+6	!!!	_	PUNCT	.	_	2	punct	_	_
+		
+1	Installed	_	VERB	VBD	_	0	root	_	_
+2	Biometrics	_	PROPN	NNP	_	1	dobj	_	_
+3	and	_	CONJ	CC	_	1	cc	_	_
+4	Got	_	VERB	VBD	_	1	conj	_	_
+5	Excellent	_	ADJ	JJ	_	6	amod	_	_
+6	Service	_	NOUN	NN	_	4	dobj	_	_
+7	.	_	PUNCT	.	_	1	punct	_	_
+		

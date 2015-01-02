@@ -1,0 +1,30 @@
+1	Relish	_	PROPN	NNP	_	0	root	_	_
+		
+1	A	_	DET	DT	_	4	det	_	_
+2	Top	_	ADJ	JJ	_	3	amod	_	_
+3	Quality	_	NOUN	NN	_	4	compound	_	_
+4	Sandwich	_	NOUN	NN	_	0	root	_	_
+5	made	_	VERB	VBN	_	4	acl	_	_
+6	to	_	ADP	IN	_	8	case	_	_
+7	artistic	_	ADJ	JJ	_	8	amod	_	_
+8	standards	_	NOUN	NNS	_	5	nmod	_	_
+9	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	The	_	DET	DT	_	2	det	_	_
+2	best	_	ADJ	JJS	_	0	root	_	_
+3	darlington	_	PROPN	NNP	_	4	nsubj	_	_
+4	has	_	VERB	VBZ	_	2	acl:relcl	_	_
+5	to	_	PART	TO	_	6	aux	_	_
+6	offer	_	VERB	VB	_	4	advcl	_	_
+7	in	_	ADP	IN	_	9	case	_	_
+8	contemporary	_	ADJ	JJ	_	9	amod	_	_
+9	sandwicheering	_	NOUN	NN	_	6	nmod	_	_
+10	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Drum	_	NOUN	NN	_	0	root	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	bass	_	NOUN	NN	_	1	conj	_	_
+4	as	_	ADP	IN	_	5	case	_	_
+5	standard	_	NOUN	NN	_	1	nmod	_	_
+6	.	_	PUNCT	.	_	1	punct	_	_
+		

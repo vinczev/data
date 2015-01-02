@@ -1,0 +1,71 @@
+1	The	_	DET	DT	_	2	det	_	_
+2	internet	_	NOUN	NN	_	5	nsubj	_	_
+3	here	_	ADV	RB	_	2	advmod	_	_
+4	is	_	VERB	VBZ	_	5	cop	_	_
+5	terrible	_	ADJ	JJ	_	0	root	_	_
+6	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	Like	_	SCONJ	IN	_	5	mark	_	_
+2	the	_	DET	DT	_	4	det	_	_
+3	previous	_	ADJ	JJ	_	4	amod	_	_
+4	poster	_	NOUN	NN	_	5	nsubj	_	_
+5	said	_	VERB	VBD	_	11	advcl	_	_
+6	,	_	PUNCT	,	_	11	punct	_	_
+7	the	_	DET	DT	_	9	det	_	_
+8	com	_	NOUN	NN	_	9	compound	_	_
+9	lines	_	NOUN	NNS	_	11	nsubjpass	_	_
+10	are	_	AUX	VBP	_	11	auxpass	_	_
+11	split	_	VERB	VBN	_	0	root	_	_
+12	between	_	ADP	IN	_	15	case	_	_
+13	the	_	DET	DT	_	15	det	_	_
+14	entire	_	ADJ	JJ	_	15	amod	_	_
+15	building	_	NOUN	NN	_	11	nmod	_	_
+16	.	_	PUNCT	.	_	11	punct	_	_
+		
+1	That	_	DET	DT	_	5	nsubj	_	_
+2	's	_	VERB	VBZ	_	5	cop	_	_
+3	3	_	NUM	CD	_	4	nummod	_	_
+4	x	_	SYM	SYM	_	5	nmod:npmod	_	_
+5	worse	_	ADJ	JJR	_	0	root	_	_
+6	than	_	ADP	IN	_	12	case	_	_
+7	Qwest	_	PROPN	NNP	_	8	compound	_	_
+8	DSL	_	PROPN	NNP	_	12	nmod:poss	_	_
+9	's	_	PART	POS	_	8	case	_	_
+10	lowest	_	ADJ	JJS	_	11	amod	_	_
+11	speed	_	NOUN	NN	_	12	compound	_	_
+12	offering	_	NOUN	NN	_	5	nmod	_	_
+13	!	_	PUNCT	.	_	5	punct	_	_
+		
+1	The	_	DET	DT	_	3	det	_	_
+2	outward	_	ADJ	JJ	_	3	amod	_	_
+3	appearance	_	NOUN	NN	_	4	nsubj	_	_
+4	makes	_	VERB	VBZ	_	0	root	_	_
+5	you	_	PRON	PRP	_	6	nsubj	_	_
+6	think	_	VERB	VB	_	4	ccomp	_	_
+7	this	_	DET	DT	_	8	det	_	_
+8	place	_	NOUN	NN	_	10	nsubj	_	_
+9	is	_	VERB	VBZ	_	10	cop	_	_
+10	nice	_	ADJ	JJ	_	6	ccomp	_	_
+11	,	_	PUNCT	,	_	4	punct	_	_
+12	but	_	CONJ	CC	_	4	cc	_	_
+13	everything	_	NOUN	NN	_	18	nsubj	_	_
+14	inside	_	ADV	RB	_	13	advmod	_	_
+15	is	_	VERB	VBZ	_	18	cop	_	_
+16	cheap	_	ADJ	JJ	_	18	amod	_	_
+17	cheap	_	ADJ	JJ	_	18	amod	_	_
+18	cheap	_	ADJ	JJ	_	4	conj	_	_
+19	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	Moving	_	VERB	VBG	_	0	root	_	_
+2	out	_	ADV	RB	_	1	advmod	_	_
+3	as	_	ADV	RB	_	4	advmod	_	_
+4	soon	_	ADV	RB	_	1	advmod	_	_
+5	as	_	SCONJ	IN	_	9	mark	_	_
+6	our	_	PRON	PRP$	_	7	nmod:poss	_	_
+7	lease	_	NOUN	NN	_	9	nsubj	_	_
+8	is	_	VERB	VBZ	_	9	cop	_	_
+9	up	_	ADV	RB	_	3	advcl	_	_
+10	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	http://www.speedtest.net/result/1155244347.png	_	X	ADD	_	0	root	_	_
+		

@@ -1,0 +1,27 @@
+1	Inford	_	PROPN	NNP	_	2	compound	_	_
+2	Media	_	PROPN	NNP	_	0	root	_	_
+		
+1	Media	_	NOUN	NN	_	0	root	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+3	Software	_	NOUN	NN	_	1	conj	_	_
+4	,	_	PUNCT	,	_	1	punct	_	_
+5	Fun	_	NOUN	NN	_	1	conj	_	_
+6	and	_	CONJ	CC	_	5	cc	_	_
+7	Games	_	NOUN	NNS	_	5	conj	_	_
+8	,	_	PUNCT	,	_	1	punct	_	_
+9	Website	_	NOUN	NN	_	10	compound	_	_
+10	design	_	NOUN	NN	_	1	conj	_	_
+11	,	_	PUNCT	,	_	1	punct	_	_
+12	Web	_	NOUN	NN	_	13	compound	_	_
+13	Promotion	_	NOUN	NN	_	1	conj	_	_
+14	,	_	PUNCT	,	_	1	punct	_	_
+15	B2B	_	NOUN	NN	_	1	conj	_	_
+16	,	_	PUNCT	,	_	1	punct	_	_
+17	Business	_	NOUN	NN	_	18	compound	_	_
+18	Promotion	_	NOUN	NN	_	1	conj	_	_
+19	,	_	PUNCT	,	_	1	punct	_	_
+20	Search	_	NOUN	NN	_	21	compound	_	_
+21	Engine	_	NOUN	NN	_	22	compound	_	_
+22	Optimization	_	NOUN	NN	_	1	conj	_	_
+23	.	_	PUNCT	.	_	1	punct	_	_
+		

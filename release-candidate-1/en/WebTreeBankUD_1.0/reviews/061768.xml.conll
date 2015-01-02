@@ -1,0 +1,55 @@
+1	Horrible	_	ADJ	JJ	_	3	amod	_	_
+2	customer	_	NOUN	NN	_	3	compound	_	_
+3	service	_	NOUN	NN	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	came	_	VERB	VBD	_	0	root	_	_
+3	in	_	ADV	RB	_	2	advmod	_	_
+4	to	_	PART	TO	_	5	aux	_	_
+5	get	_	VERB	VB	_	2	advcl	_	_
+6	a	_	DET	DT	_	8	det	_	_
+7	nice	_	ADJ	JJ	_	8	amod	_	_
+8	gift	_	NOUN	NN	_	5	dobj	_	_
+9	for	_	ADP	IN	_	11	case	_	_
+10	my	_	PRON	PRP$	_	11	nmod:poss	_	_
+11	wife	_	NOUN	NN	_	5	nmod	_	_
+12	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	The	_	DET	DT	_	3	det	_	_
+2	one	_	NUM	CD	_	3	nummod	_	_
+3	guy	_	NOUN	NN	_	20	nsubj	_	_
+4	who	_	PRON	WP	_	6	nsubj	_	_
+5	was	_	VERB	VBD	_	6	cop	_	_
+6	there	_	ADV	RB	_	3	acl:relcl	_	_
+7	,	_	PUNCT	,	_	10	punct	_	_
+8	I	_	PRON	PRP	_	10	nsubj	_	_
+9	'm	_	AUX	VBP	_	10	aux	_	_
+10	guessing	_	VERB	VBG	_	3	appos	_	_
+11	was	_	VERB	VBD	_	13	cop	_	_
+12	the	_	DET	DT	_	13	det	_	_
+13	owner	_	NOUN	NN	_	10	ccomp	_	_
+14	,	_	PUNCT	,	_	10	punct	_	_
+15	was	_	VERB	VBD	_	20	cop	_	_
+16	probably	_	ADV	RB	_	20	advmod	_	_
+17	the	_	DET	DT	_	20	det	_	_
+18	least	_	ADV	RBS	_	19	advmod	_	_
+19	helpful	_	ADJ	JJ	_	20	amod	_	_
+20	person	_	NOUN	NN	_	0	root	_	_
+21	I	_	PRON	PRP	_	24	nsubj	_	_
+22	've	_	AUX	VBP	_	24	aux	_	_
+23	ever	_	ADV	RB	_	24	advmod	_	_
+24	met	_	VERB	VBN	_	20	acl:relcl	_	_
+25	.	_	PUNCT	.	_	20	punct	_	_
+		
+1	But	_	CONJ	CC	_	2	cc	_	_
+2	thankfully	_	ADV	RB	_	0	root	_	_
+3	there	_	DET	EX	_	2	expl	_	_
+4	are	_	VERB	VBP	_	2	cop	_	_
+5	other	_	ADJ	JJ	_	7	amod	_	_
+6	flowers	_	NOUN	NNS	_	7	compound	_	_
+7	shops	_	NOUN	NNS	_	2	nsubj	_	_
+8	around	_	ADP	IN	_	9	case	_	_
+9	Norman	_	PROPN	NNP	_	7	nmod	_	_
+10	.	_	PUNCT	.	_	2	punct	_	_
+		

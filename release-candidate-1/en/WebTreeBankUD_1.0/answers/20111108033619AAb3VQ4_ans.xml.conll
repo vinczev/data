@@ -1,0 +1,53 @@
+1	Do	_	AUX	VBP	_	6	aux	_	_
+2	people	_	NOUN	NNS	_	6	nsubj	_	_
+3	Bare	_	ADJ	JJ	_	5	amod	_	_
+4	-	_	PUNCT	HYPH	_	5	punct	_	_
+5	knuckle	_	NOUN	NN	_	6	nmod:npmod	_	_
+6	box	_	VERB	VB	_	0	root	_	_
+7	in	_	ADP	IN	_	8	case	_	_
+8	Ireland	_	PROPN	NNP	_	6	nmod	_	_
+9	?	_	PUNCT	.	_	6	punct	_	_
+		
+1	Certain	_	ADJ	JJ	_	2	amod	_	_
+2	elements	_	NOUN	NNS	_	7	nsubj	_	_
+3	of	_	ADP	IN	_	6	case	_	_
+4	the	_	DET	DT	_	6	det	_	_
+5	travelling	_	NOUN	NN	_	6	compound	_	_
+6	community	_	NOUN	NN	_	2	nmod	_	_
+7	engage	_	VERB	VBP	_	0	root	_	_
+8	in	_	ADP	IN	_	10	case	_	_
+9	this	_	DET	DT	_	10	det	_	_
+10	activity	_	NOUN	NN	_	7	nmod	_	_
+11	,	_	PUNCT	,	_	7	punct	_	_
+12	but	_	CONJ	CC	_	7	cc	_	_
+13	overall	_	ADV	RB	_	15	advmod	_	_
+14	no	_	INTJ	UH	_	15	discourse	_	_
+15	not	_	PART	RB	_	7	conj	_	_
+16	really	_	ADV	RB	_	15	dep	_	_
+17	.	_	PUNCT	.	_	7	punct	_	_
+		
+1	Er	_	INTJ	UH	_	3	discourse	_	_
+2	,	_	PUNCT	,	_	3	punct	_	_
+3	no	_	INTJ	UH	_	0	root	_	_
+4	?	_	PUNCT	.	_	3	punct	_	_
+		
+1	some	_	DET	DT	_	2	det	_	_
+2	members	_	NOUN	NNS	_	9	nsubj	_	_
+3	of	_	ADP	IN	_	6	case	_	_
+4	the	_	DET	DT	_	6	det	_	_
+5	traveler	_	NOUN	NN	_	6	compound	_	_
+6	community	_	NOUN	NN	_	2	nmod	_	_
+7	bare	_	ADJ	JJ	_	8	amod	_	_
+8	knuckle	_	NOUN	NN	_	9	nmod:npmod	_	_
+9	box	_	VERB	VBP	_	0	root	_	_
+10	.	_	PUNCT	.	_	9	punct	_	_
+		
+1	other	_	ADV	RB	_	7	advmod	_	_
+2	than	_	ADP	IN	_	3	case	_	_
+3	that	_	DET	DT	_	1	nmod	_	_
+4	i	_	PRON	PRP	_	7	nsubj	_	_
+5	do	_	AUX	VBP	_	7	aux	_	_
+6	n't	_	PART	RB	_	7	neg	_	_
+7	know	_	VERB	VB	_	0	root	_	_
+8	.	_	PUNCT	.	_	7	punct	_	_
+		

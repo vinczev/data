@@ -1,0 +1,19 @@
+1	Clean	_	ADJ	JJ	_	0	root	_	_
+2	&	_	CONJ	CC	_	1	cc	_	_
+3	tidy	_	ADJ	JJ	_	1	conj	_	_
+4	with	_	ADP	IN	_	6	case	_	_
+5	good	_	ADJ	JJ	_	6	amod	_	_
+6	atmosphere	_	NOUN	NN	_	1	nmod	_	_
+7	&	_	CONJ	CC	_	6	cc	_	_
+8	pleasant	_	ADJ	JJ	_	9	amod	_	_
+9	staff	_	NOUN	NNS	_	6	conj	_	_
+10	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Food	_	NOUN	NN	_	3	nsubj	_	_
+2	drastically	_	ADV	RB	_	3	advmod	_	_
+3	let's	_	VERB	VBZ	_	0	root	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	place	_	NOUN	NN	_	3	dobj	_	_
+6	down	_	ADP	RP	_	3	compound:prt	_	_
+7	though	_	ADV	RB	_	3	advmod	_	_
+		

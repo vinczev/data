@@ -1,0 +1,55 @@
+1	teeth	_	NOUN	NNS	_	0	root	_	_
+		
+1	this	_	DET	DT	_	2	det	_	_
+2	dentist	_	NOUN	NN	_	3	nsubj	_	_
+3	want	_	VERB	VBP	_	0	root	_	_
+4	to	_	PART	TO	_	5	aux	_	_
+5	pull	_	VERB	VB	_	3	xcomp	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	tooth	_	NOUN	NN	_	5	dobj	_	_
+8	out	_	ADV	RB	_	5	advmod	_	_
+9	always	_	ADV	RB	_	3	advmod	_	_
+10	..	_	PUNCT	,	_	3	punct	_	_
+11	always	_	ADV	RB	_	12	advmod	_	_
+12	wants	_	VERB	VBZ	_	3	parataxis	_	_
+13	to	_	PART	TO	_	14	aux	_	_
+14	do	_	VERB	VB	_	12	xcomp	_	_
+15	the	_	DET	DT	_	16	det	_	_
+16	cheapest	_	ADJ	JJS	_	14	dobj	_	_
+17	for	_	ADP	IN	_	19	case	_	_
+18	his	_	PRON	PRP$	_	19	nmod:poss	_	_
+19	benefit	_	NOUN	NN	_	14	nmod	_	_
+20	..	_	PUNCT	,	_	21	punct	_	_
+21	not	_	ADV	RB	_	24	dep	_	_
+22	unless	_	SCONJ	IN	_	24	mark	_	_
+23	he	_	PRON	PRP	_	24	nsubj	_	_
+24	knows	_	VERB	VBZ	_	3	parataxis	_	_
+25	you	_	PRON	PRP	_	24	dobj	_	_
+26	.	_	PUNCT	.	_	21	punct	_	_
+		
+1	and	_	CONJ	CC	_	6	cc	_	_
+2	hopefully	_	ADV	RB	_	6	advmod	_	_
+3	you	_	PRON	PRP	_	6	nsubj	_	_
+4	do	_	AUX	VBP	_	6	aux	_	_
+5	not	_	PART	RB	_	6	neg	_	_
+6	know	_	VERB	VB	_	0	root	_	_
+7	the	_	DET	DT	_	9	det	_	_
+8	same	_	ADJ	JJ	_	9	amod	_	_
+9	people	_	NOUN	NNS	_	6	dobj	_	_
+10	because	_	SCONJ	IN	_	12	mark	_	_
+11	he	_	PRON	PRP	_	12	nsubj	_	_
+12	tells	_	VERB	VBZ	_	6	advcl	_	_
+13	others	_	NOUN	NNS	_	12	dobj	_	_
+14	about	_	ADP	IN	_	17	case	_	_
+15	you	_	PRON	PRP$	_	17	nmod:poss	_	_
+16	payment	_	NOUN	NN	_	17	compound	_	_
+17	status	_	NOUN	NN	_	12	nmod	_	_
+18	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	Which	_	DET	WDT	_	6	nsubj	_	_
+2	should	_	AUX	MD	_	6	aux	_	_
+3	be	_	VERB	VB	_	6	cop	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	private	_	ADJ	JJ	_	6	amod	_	_
+6	issue	_	NOUN	NN	_	0	root	_	_
+		

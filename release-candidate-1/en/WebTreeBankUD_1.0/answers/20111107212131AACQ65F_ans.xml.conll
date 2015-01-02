@@ -1,0 +1,257 @@
+1	Traveler	_	NOUN	NN	_	3	nmod:poss	_	_
+2	s	_	PART	POS	_	1	case	_	_
+3	guide	_	NOUN	NN	_	0	root	_	_
+4	-	_	PUNCT	,	_	3	punct	_	_
+5	For	_	ADP	IN	_	7	case	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	young	_	ADJ	JJ	_	3	nmod	_	_
+8	and	_	CONJ	CC	_	7	cc	_	_
+9	unknowledgeable	_	ADJ	JJ	_	7	conj	_	_
+10	?	_	PUNCT	.	_	3	punct	_	_
+		
+1	I	_	PRON	PRP	_	5	nsubj	_	_
+2	am	_	VERB	VBP	_	5	cop	_	_
+3	17	_	NUM	CD	_	4	nummod	_	_
+4	years	_	NOUN	NNS	_	5	nmod:npmod	_	_
+5	old	_	ADJ	JJ	_	0	root	_	_
+6	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	I	_	PRON	PRP	_	4	nsubj	_	_
+2	do	_	AUX	VBP	_	4	aux	_	_
+3	not	_	PART	RB	_	4	neg	_	_
+4	get	_	VERB	VB	_	0	root	_	_
+5	along	_	ADV	RB	_	4	advmod	_	_
+6	with	_	ADP	IN	_	8	case	_	_
+7	my	_	PRON	PRP$	_	8	nmod:poss	_	_
+8	family	_	NOUN	NN	_	4	nmod	_	_
+9	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	dislike	_	VERB	VBP	_	0	root	_	_
+3	this	_	DET	DT	_	5	det	_	_
+4	urban	_	ADJ	JJ	_	5	amod	_	_
+5	society	_	NOUN	NN	_	2	dobj	_	_
+6	and	_	CONJ	CC	_	2	cc	_	_
+7	want	_	VERB	VBP	_	2	conj	_	_
+8	to	_	PART	TO	_	9	aux	_	_
+9	leave	_	VERB	VB	_	7	xcomp	_	_
+10	this	_	DET	DT	_	12	det	_	_
+11	whole	_	ADJ	JJ	_	12	amod	_	_
+12	enviroment	_	NOUN	NN	_	9	dobj	_	_
+13	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	I	_	PRON	PRP	_	4	nsubj	_	_
+2	am	_	VERB	VBP	_	4	cop	_	_
+3	very	_	ADV	RB	_	4	advmod	_	_
+4	unhappy	_	ADJ	JJ	_	0	root	_	_
+5	here	_	ADV	RB	_	4	advmod	_	_
+6	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	I	_	PRON	PRP	_	4	nsubj	_	_
+2	do	_	AUX	VBP	_	4	aux	_	_
+3	n't	_	PART	RB	_	4	neg	_	_
+4	know	_	VERB	VB	_	0	root	_	_
+5	the	_	DET	DT	_	7	det	_	_
+6	best	_	ADJ	JJS	_	7	amod	_	_
+7	way	_	NOUN	NN	_	4	dobj	_	_
+8	of	_	ADP	IN	_	9	mark	_	_
+9	doing	_	VERB	VBG	_	7	acl	_	_
+10	it	_	PRON	PRP	_	9	dobj	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	Would	_	AUX	MD	_	4	aux	_	_
+2	it	_	PRON	PRP	_	4	expl	_	_
+3	be	_	VERB	VB	_	4	cop	_	_
+4	best	_	ADJ	JJS	_	0	root	_	_
+5	for	_	SCONJ	IN	_	8	mark	_	_
+6	me	_	PRON	PRP	_	8	nsubj	_	_
+7	to	_	PART	TO	_	8	aux	_	_
+8	finish	_	VERB	VB	_	4	csubj	_	_
+9	college	_	NOUN	NN	_	8	dobj	_	_
+10	?	_	PUNCT	.	_	4	punct	_	_
+		
+1	wait	_	VERB	VB	_	0	root	_	_
+2	for	_	ADP	IN	_	4	case	_	_
+3	18th	_	ADJ	JJ	_	4	amod	_	_
+4	birthday	_	NOUN	NN	_	1	nmod	_	_
+5	?	_	PUNCT	.	_	1	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	live	_	VERB	VBP	_	0	root	_	_
+3	in	_	ADP	IN	_	4	case	_	_
+4	London	_	PROPN	NNP	_	2	nmod	_	_
+5	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	want	_	VERB	VBP	_	0	root	_	_
+3	to	_	PART	TO	_	4	aux	_	_
+4	go	_	VERB	VB	_	2	xcomp	_	_
+5	travelling	_	VERB	VBG	_	4	advcl	_	_
+6	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	My	_	PRON	PRP$	_	2	nmod:poss	_	_
+2	parents	_	NOUN	NNS	_	5	nsubj	_	_
+3	do	_	AUX	VBP	_	5	aux	_	_
+4	not	_	PART	RB	_	5	neg	_	_
+5	like	_	VERB	VB	_	0	root	_	_
+6	me	_	PRON	PRP	_	5	dobj	_	_
+7	,	_	PUNCT	,	_	5	punct	_	_
+8	They	_	PRON	PRP	_	10	nsubj	_	_
+9	constantly	_	ADV	RB	_	10	advmod	_	_
+10	reassure	_	VERB	VBP	_	5	parataxis	_	_
+11	me	_	PRON	PRP	_	10	dobj	_	_
+12	that	_	SCONJ	IN	_	15	mark	_	_
+13	they	_	PRON	PRP	_	15	nsubj	_	_
+14	will	_	AUX	MD	_	15	aux	_	_
+15	throw	_	VERB	VB	_	10	ccomp	_	_
+16	me	_	PRON	PRP	_	15	dobj	_	_
+17	out	_	ADP	IN	_	19	case	_	_
+18	of	_	ADP	IN	_	19	case	_	_
+19	home	_	NOUN	NN	_	15	nmod	_	_
+20	when	_	ADV	WRB	_	22	advmod	_	_
+21	I	_	PRON	PRP	_	22	nsubj	_	_
+22	turn	_	VERB	VBP	_	15	advcl	_	_
+23	18	_	NUM	CD	_	22	dobj	_	_
+24	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	I	_	PRON	PRP	_	5	nsubj	_	_
+2	do	_	AUX	VBP	_	5	aux	_	_
+3	n't	_	PART	RB	_	5	neg	_	_
+4	particularly	_	ADV	RB	_	5	advmod	_	_
+5	want	_	VERB	VB	_	0	root	_	_
+6	to	_	PART	TO	_	7	aux	_	_
+7	stay	_	VERB	VB	_	5	xcomp	_	_
+8	with	_	ADP	IN	_	9	case	_	_
+9	them	_	PRON	PRP	_	7	nmod	_	_
+10	atm	_	ADV	RB	_	7	advmod	_	_
+11	either	_	ADV	RB	_	7	advmod	_	_
+12	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	But	_	CONJ	CC	_	9	cc	_	_
+2	right	_	ADV	RB	_	3	advmod	_	_
+3	now	_	ADV	RB	_	9	advmod	_	_
+4	it	_	PRON	PRP	_	9	nsubj	_	_
+5	s	_	VERB	VBZ	_	9	cop	_	_
+6	the	_	DET	DT	_	9	det	_	_
+7	most	_	ADV	RBS	_	8	advmod	_	_
+8	convenient	_	ADJ	JJ	_	9	amod	_	_
+9	thing	_	NOUN	NN	_	0	root	_	_
+10	to	_	PART	TO	_	11	aux	_	_
+11	do	_	VERB	VB	_	9	acl	_	_
+12	.	_	PUNCT	.	_	9	punct	_	_
+		
+1	Anyway	_	INTJ	UH	_	2	discourse	_	_
+2	Advice	_	NOUN	NN	_	0	root	_	_
+3	for	_	ADP	IN	_	4	case	_	_
+4	travelling	_	NOUN	NN	_	2	nmod	_	_
+5	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	What	_	PRON	WP	_	0	root	_	_
+2	is	_	VERB	VBZ	_	1	cop	_	_
+3	the	_	DET	DT	_	5	det	_	_
+4	best	_	ADJ	JJS	_	5	amod	_	_
+5	way	_	NOUN	NN	_	1	nsubj	_	_
+6	of	_	ADP	IN	_	7	mark	_	_
+7	doing	_	VERB	VBG	_	5	acl	_	_
+8	it	_	PRON	PRP	_	7	dobj	_	_
+9	?	_	PUNCT	.	_	1	punct	_	_
+		
+1	Hotels	_	NOUN	NNS	_	6	nsubj	_	_
+2	for	_	ADP	IN	_	3	case	_	_
+3	travelling	_	NOUN	NN	_	1	nmod	_	_
+4	will	_	AUX	MD	_	6	aux	_	_
+5	be	_	VERB	VB	_	6	cop	_	_
+6	expensive	_	ADJ	JJ	_	0	root	_	_
+7	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	anybody	_	NOUN	NN	_	3	nsubj	_	_
+2	is	_	VERB	VBZ	_	3	cop	_	_
+3	open	_	ADJ	JJ	_	0	root	_	_
+4	to	_	ADP	IN	_	5	aux	_	_
+5	answers	_	NOUN	NNS	_	3	advcl	_	_
+6	but	_	CONJ	CC	_	3	cc	_	_
+7	I	_	PRON	PRP	_	10	nsubj	_	_
+8	would	_	AUX	MD	_	10	aux	_	_
+9	much	_	ADV	RB	_	10	advmod	_	_
+10	prefere	_	VERB	VB	_	3	conj	_	_
+11	somebody	_	NOUN	NN	_	10	dobj	_	_
+12	with	_	ADP	IN	_	14	case	_	_
+13	traveling	_	NOUN	NN	_	14	compound	_	_
+14	experience	_	NOUN	NN	_	11	nmod	_	_
+15	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	want	_	VERB	VBP	_	0	root	_	_
+3	to	_	PART	TO	_	4	aux	_	_
+4	go	_	VERB	VB	_	2	xcomp	_	_
+5	all	_	ADV	RB	_	6	advmod	_	_
+6	over	_	ADV	RB	_	4	advmod	_	_
+7	:-RRB-	_	SYM	NFP	_	2	discourse	_	_
+8	I	_	PRON	PRP	_	11	nsubj	_	_
+9	do	_	AUX	VBP	_	11	aux	_	_
+10	n't	_	PART	RB	_	11	neg	_	_
+11	have	_	VERB	VB	_	2	parataxis	_	_
+12	a	_	DET	DT	_	14	det	_	_
+13	set	_	VERB	VBN	_	14	amod	_	_
+14	route	_	NOUN	NN	_	11	dobj	_	_
+15	yet	_	ADV	RB	_	11	advmod	_	_
+16	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Get	_	VERB	VB	_	0	root	_	_
+2	a	_	DET	DT	_	4	det	_	_
+3	back	_	NOUN	NN	_	4	compound	_	_
+4	pack	_	NOUN	NN	_	1	dobj	_	_
+5	and	_	CONJ	CC	_	4	cc	_	_
+6	sleeping	_	NOUN	NN	_	7	compound	_	_
+7	bag	_	NOUN	NN	_	4	conj	_	_
+8	or	_	CONJ	CC	_	7	cc	_	_
+9	good	_	ADJ	JJ	_	11	amod	_	_
+10	warm	_	ADJ	JJ	_	11	amod	_	_
+11	blanket	_	NOUN	NN	_	7	conj	_	_
+12	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Wool	_	NOUN	NN	_	3	nsubj	_	_
+2	is	_	VERB	VBZ	_	3	cop	_	_
+3	best	_	ADJ	JJS	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Light	_	ADJ	JJ	_	0	root	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+3	warm	_	ADJ	JJ	_	1	conj	_	_
+4	,	_	PUNCT	,	_	1	punct	_	_
+5	but	_	CONJ	CC	_	1	cc	_	_
+6	also	_	ADV	RB	_	7	advmod	_	_
+7	itchy	_	ADJ	JJ	_	1	conj	_	_
+8	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Hit	_	VERB	VB	_	0	root	_	_
+2	the	_	DET	DT	_	3	det	_	_
+3	road	_	NOUN	NN	_	1	dobj	_	_
+4	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	You	_	PRON	PRP	_	4	nsubj	_	_
+2	can	_	AUX	MD	_	4	aux	_	_
+3	always	_	ADV	RB	_	4	advmod	_	_
+4	beg	_	VERB	VB	_	0	root	_	_
+5	for	_	ADP	IN	_	7	case	_	_
+6	spare	_	ADJ	JJ	_	7	amod	_	_
+7	change	_	NOUN	NN	_	4	nmod	_	_
+8	when	_	ADV	WRB	_	11	advmod	_	_
+9	you	_	PRON	PRP	_	10	dobj	_	_
+10	get	_	VERB	VBP	_	4	advcl	_	_
+11	hungry	_	ADJ	JJ	_	10	xcomp	_	_
+12	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	Should	_	AUX	MD	_	2	aux	_	_
+2	get	_	VERB	VB	_	0	root	_	_
+3	some	_	DET	DT	_	5	det	_	_
+4	survival	_	NOUN	NN	_	5	compound	_	_
+5	skills	_	NOUN	NNS	_	2	dobj	_	_
+6	before	_	ADP	IN	_	7	mark	_	_
+7	setting	_	VERB	VBG	_	2	advcl	_	_
+8	out	_	ADP	RP	_	7	compound:prt	_	_
+9	on	_	ADP	IN	_	11	case	_	_
+10	your	_	PRON	PRP$	_	11	nmod:poss	_	_
+11	own	_	ADJ	JJ	_	7	nmod	_	_
+12	.	_	PUNCT	.	_	2	punct	_	_
+		

@@ -1,0 +1,44 @@
+1	Fantastic	_	ADJ	JJ	_	4	amod	_	_
+2	Nova	_	PROPN	NNP	_	3	compound	_	_
+3	Scotia	_	PROPN	NNP	_	4	compound	_	_
+4	Cottage	_	NOUN	NN	_	0	root	_	_
+		
+1	We	_	PRON	PRP	_	2	nsubj	_	_
+2	had	_	VERB	VBD	_	0	root	_	_
+3	a	_	DET	DT	_	5	det	_	_
+4	fantastic	_	ADJ	JJ	_	5	amod	_	_
+5	time	_	NOUN	NN	_	2	dobj	_	_
+6	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Such	_	DET	PDT	_	4	predet	_	_
+2	a	_	DET	DT	_	4	det	_	_
+3	relaxing	_	ADJ	JJ	_	4	amod	_	_
+4	atmosphere	_	NOUN	NN	_	0	root	_	_
+5	and	_	CONJ	CC	_	4	cc	_	_
+6	inspiring	_	ADJ	JJ	_	7	amod	_	_
+7	architecture	_	NOUN	NN	_	4	conj	_	_
+8	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	Sand	_	PROPN	NNP	_	2	compound	_	_
+2	Hill	_	PROPN	NNP	_	3	compound	_	_
+3	park	_	PROPN	NNP	_	7	nsubj	_	_
+4	was	_	VERB	VBD	_	7	cop	_	_
+5	a	_	DET	DT	_	7	det	_	_
+6	great	_	ADJ	JJ	_	7	amod	_	_
+7	beach	_	NOUN	NN	_	0	root	_	_
+8	...	_	PUNCT	.	_	7	punct	_	_
+		
+1	Nice	_	ADJ	JJ	_	3	amod	_	_
+2	warm	_	ADJ	JJ	_	3	amod	_	_
+3	water	_	NOUN	NN	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Thank	_	VERB	VBP	_	0	root	_	_
+2	-	_	PUNCT	HYPH	_	1	punct	_	_
+3	You	_	PRON	PRP	_	1	dobj	_	_
+4	for	_	ADP	IN	_	5	mark	_	_
+5	sharing	_	VERB	VBG	_	1	advcl	_	_
+6	your	_	PRON	PRP$	_	7	nmod:poss	_	_
+7	cottage	_	NOUN	NN	_	5	dobj	_	_
+8	!	_	PUNCT	.	_	1	punct	_	_
+		

@@ -1,0 +1,158 @@
+1	best	_	ADJ	JJS	_	3	amod	_	_
+2	burger	_	NOUN	NN	_	3	compound	_	_
+3	chain	_	NOUN	NN	_	0	root	_	_
+4	in	_	ADP	IN	_	7	case	_	_
+5	the	_	DET	DT	_	7	det	_	_
+6	Chicago	_	PROPN	NNP	_	7	compound	_	_
+7	area	_	NOUN	NN	_	3	nmod	_	_
+8	?	_	PUNCT	.	_	3	punct	_	_
+		
+1	which	_	DET	WDT	_	0	root	_	_
+2	is	_	VERB	VBZ	_	1	cop	_	_
+3	the	_	DET	DT	_	6	det	_	_
+4	best	_	ADJ	JJS	_	6	amod	_	_
+5	burger	_	NOUN	NN	_	6	compound	_	_
+6	chain	_	NOUN	NN	_	2	nsubj	_	_
+7	in	_	ADP	IN	_	11	case	_	_
+8	the	_	DET	DT	_	11	det	_	_
+9	chicago	_	PROPN	NNP	_	11	compound	_	_
+10	metro	_	ADJ	JJ	_	11	amod	_	_
+11	area	_	NOUN	NN	_	6	nmod	_	_
+12	like	_	INTJ	UH	_	16	case	_	_
+13	for	_	ADP	IN	_	14	case	_	_
+14	example	_	NOUN	NN	_	16	nmod	_	_
+15	burger	_	PROPN	NNP	_	16	compound	_	_
+16	king	_	PROPN	NNP	_	6	nmod	_	_
+17	portillo	_	PROPN	NNP	_	16	conj	_	_
+18	s	_	PART	POS	_	17	case	_	_
+19	white	_	PROPN	NNP	_	20	compound	_	_
+20	castle	_	PROPN	NNP	_	16	conj	_	_
+21	which	_	DET	WDT	_	22	det	_	_
+22	one	_	NOUN	NN	_	24	nsubj	_	_
+23	do	_	AUX	VBP	_	24	aux	_	_
+24	like	_	VERB	VB	_	1	parataxis	_	_
+25	the	_	DET	DT	_	26	det	_	_
+26	best	_	ADV	RBS	_	24	nmod:npmod	_	_
+27	?	_	PUNCT	.	_	2	punct	_	_
+		
+1	Red	_	PROPN	NNP	_	2	compound	_	_
+2	Robin	_	PROPN	NNP	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Onion	_	NOUN	NN	_	2	compound	_	_
+2	Rings	_	NOUN	NNS	_	4	nsubj	_	_
+3	are	_	VERB	VBP	_	4	cop	_	_
+4	great	_	ADJ	JJ	_	0	root	_	_
+5	and	_	CONJ	CC	_	4	cc	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	fries	_	NOUN	NNS	_	9	nsubj	_	_
+8	are	_	VERB	VBP	_	9	cop	_	_
+9	endless	_	ADJ	JJ	_	4	conj	_	_
+10	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	Fudrucker	_	PROPN	NNP	_	0	root	_	_
+2	s	_	PART	POS	_	1	case	_	_
+3	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	idk	_	VERB	VBP	_	3	discourse	_	_
+2	ur	_	PRON	PRP$	_	3	nmod:poss	_	_
+3	choice	_	NOUN	NN	_	0	root	_	_
+		
+1	Chain	_	NOUN	NN	_	0	root	_	_
+2	?	_	PUNCT	.	_	1	punct	_	_
+		
+1	Does	_	AUX	VBZ	_	3	aux	_	_
+2	5	_	NUM	CD	_	3	nsubj	_	_
+3	make	_	VERB	VB	_	0	root	_	_
+4	a	_	DET	DT	_	5	det	_	_
+5	chain	_	NOUN	NN	_	3	dobj	_	_
+6	?	_	PUNCT	.	_	3	punct	_	_
+		
+1	Hackney	_	PROPN	NNP	_	3	nsubj	_	_
+2	's	_	PART	POS	_	1	case	_	_
+3	has	_	VERB	VBZ	_	0	root	_	_
+4	a	_	DET	DT	_	7	det	_	_
+5	great	_	ADJ	JJ	_	7	amod	_	_
+6	burger	_	NOUN	NN	_	7	compound	_	_
+7	formula	_	NOUN	NN	_	3	dobj	_	_
+8	that	_	DET	WDT	_	9	nsubj	_	_
+9	started	_	VERB	VBD	_	7	acl:relcl	_	_
+10	about	_	ADP	IN	_	11	advmod	_	_
+11	80	_	NUM	CD	_	12	nummod	_	_
+12	years	_	NOUN	NNS	_	13	nmod:npmod	_	_
+13	ago	_	ADV	RB	_	9	advmod	_	_
+14	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	There	_	DET	EX	_	3	expl	_	_
+2	are	_	VERB	VBP	_	3	cop	_	_
+3	currently	_	ADV	RB	_	0	root	_	_
+4	5	_	NUM	CD	_	5	nummod	_	_
+5	locations	_	NOUN	NNS	_	3	nsubj	_	_
+6	:	_	PUNCT	:	_	3	punct	_	_
+		
+1	http://www.hackneys.net/	_	X	ADD	_	0	root	_	_
+		
+1	The	_	DET	DT	_	3	det	_	_
+2	latest	_	ADJ	JJS	_	3	amod	_	_
+3	spot	_	NOUN	NN	_	12	nsubj	_	_
+4	for	_	ADP	IN	_	7	case	_	_
+5	a	_	DET	DT	_	7	det	_	_
+6	real	_	ADJ	JJ	_	7	amod	_	_
+7	Hackney	_	PROPN	NNP	_	3	nmod	_	_
+8	's	_	PART	POS	_	7	case	_	_
+9	is	_	VERB	VBZ	_	12	cop	_	_
+10	Printers	_	PROPN	NNPS	_	12	nmod:poss	_	_
+11	'	_	PART	POS	_	10	case	_	_
+12	Row	_	PROPN	NNP	_	0	root	_	_
+13	:	_	PUNCT	:	_	12	punct	_	_
+		
+1	http://www.hackneysprintersrow.net/	_	X	ADD	_	0	root	_	_
+		
+1	See	_	VERB	VB	_	0	root	_	_
+2	what	_	PRON	WP	_	6	dobj	_	_
+3	DD	_	PROPN	NNP	_	6	nsubj	_	_
+4	&	_	CONJ	CC	_	3	cc	_	_
+5	D	_	PROPN	NNP	_	3	conj	_	_
+6	showed	_	VERB	VBD	_	1	ccomp	_	_
+7	at	_	ADP	IN	_	10	case	_	_
+8	the	_	DET	DT	_	10	det	_	_
+9	original	_	ADJ	JJ	_	10	amod	_	_
+10	place	_	NOUN	NN	_	6	nmod	_	_
+11	on	_	ADP	IN	_	13	case	_	_
+12	Harms	_	PROPN	NNP	_	13	compound	_	_
+13	Rd	_	PROPN	NNP	_	10	nmod	_	_
+14	in	_	ADP	IN	_	15	case	_	_
+15	Glenview	_	PROPN	NNP	_	10	nmod	_	_
+16	:	_	PUNCT	:	_	1	punct	_	_
+		
+1	http://www.youtube.com/watch?v=q2lDF0XU3NI	_	X	ADD	_	0	root	_	_
+		
+1	Along	_	ADP	IN	_	5	case	_	_
+2	with	_	ADP	IN	_	5	case	_	_
+3	the	_	DET	DT	_	5	det	_	_
+4	great	_	ADJ	JJ	_	5	amod	_	_
+5	burger	_	NOUN	NN	_	6	nmod	_	_
+6	try	_	VERB	VB	_	0	root	_	_
+7	a	_	DET	DT	_	8	det	_	_
+8	brick	_	NOUN	NN	_	6	dobj	_	_
+9	of	_	ADP	IN	_	11	case	_	_
+10	onion	_	NOUN	NN	_	11	compound	_	_
+11	rings	_	NOUN	NNS	_	8	nmod	_	_
+12	if	_	SCONJ	IN	_	16	mark	_	_
+13	you	_	PRON	PRP	_	16	nsubj	_	_
+14	are	_	VERB	VBP	_	16	cop	_	_
+15	with	_	ADP	IN	_	16	mark	_	_
+16	someone	_	NOUN	NN	_	6	advcl	_	_
+17	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	Otherwise	_	ADV	RB	_	7	advmod	_	_
+2	a	_	DET	DT	_	4	det	_	_
+3	1/2	_	ADJ	JJ	_	4	amod	_	_
+4	brick	_	NOUN	NN	_	7	nsubj	_	_
+5	will	_	AUX	MD	_	7	aux	_	_
+6	be	_	VERB	VB	_	7	cop	_	_
+7	fine	_	ADJ	JJ	_	0	root	_	_
+8	:	_	PUNCT	:	_	7	punct	_	_
+		
+1	http://www.flickr.com/photos/jellybeanjill13/532522805/	_	X	ADD	_	0	root	_	_
+		

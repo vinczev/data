@@ -1,0 +1,14 @@
+1	Nice	_	ADJ	JJ	_	4	amod	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	quiet	_	ADJ	JJ	_	1	conj	_	_
+4	place	_	NOUN	NN	_	0	root	_	_
+5	with	_	ADP	IN	_	8	case	_	_
+6	cosy	_	ADJ	JJ	_	8	amod	_	_
+7	living	_	NOUN	NN	_	8	compound	_	_
+8	room	_	NOUN	NN	_	4	nmod	_	_
+9	just	_	ADV	RB	_	12	advmod	_	_
+10	outside	_	ADP	IN	_	12	case	_	_
+11	the	_	DET	DT	_	12	det	_	_
+12	city	_	NOUN	NN	_	4	nmod	_	_
+13	.	_	PUNCT	.	_	4	punct	_	_
+		

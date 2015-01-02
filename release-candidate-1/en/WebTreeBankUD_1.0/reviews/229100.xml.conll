@@ -1,0 +1,57 @@
+1	Great	_	ADJ	JJ	_	2	amod	_	_
+2	Place	_	NOUN	NN	_	0	root	_	_
+3	!	_	PUNCT	.	_	2	punct	_	_
+		
+1	Love	_	VERB	VBP	_	0	root	_	_
+2	this	_	DET	DT	_	3	det	_	_
+3	place	_	NOUN	NN	_	1	dobj	_	_
+4	!!	_	PUNCT	.	_	1	punct	_	_
+		
+1	Has	_	VERB	VBZ	_	0	root	_	_
+2	another	_	DET	DT	_	3	det	_	_
+3	store	_	NOUN	NN	_	1	dobj	_	_
+4	in	_	ADP	IN	_	8	case	_	_
+5	the	_	DET	DT	_	8	det	_	_
+6	st.	_	PROPN	NNP	_	7	compound	_	_
+7	charles	_	PROPN	NNP	_	8	compound	_	_
+8	mall	_	PROPN	NNP	_	3	nmod	_	_
+9	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Place	_	NOUN	NN	_	3	nsubj	_	_
+2	is	_	VERB	VBZ	_	3	cop	_	_
+3	next	_	ADJ	JJ	_	0	root	_	_
+4	to	_	ADP	IN	_	5	case	_	_
+5	carval	_	PROPN	NNP	_	3	nmod	_	_
+6	and	_	CONJ	CC	_	5	cc	_	_
+7	walmart	_	PROPN	NNP	_	5	conj	_	_
+8	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Do	_	AUX	VB	_	3	aux	_	_
+2	nt	_	PART	RB	_	3	neg	_	_
+3	go	_	VERB	VB	_	0	root	_	_
+4	to	_	ADP	IN	_	6	case	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	one	_	NOUN	NN	_	3	nmod	_	_
+7	by	_	ADP	IN	_	8	case	_	_
+8	pepco	_	PROPN	NNP	_	6	nmod	_	_
+9	,	_	PUNCT	,	_	3	punct	_	_
+10	I	_	PRON	PRP	_	11	nsubj	_	_
+11	got	_	VERB	VBD	_	3	parataxis	_	_
+12	confused	_	ADJ	JJ	_	11	dobj	_	_
+13	!!!	_	PUNCT	.	_	3	punct	_	_
+		
+1	Bad	_	ADJ	JJ	_	2	amod	_	_
+2	place	_	NOUN	NN	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Go	_	VERB	VB	_	0	root	_	_
+2	to	_	ADP	IN	_	4	case	_	_
+3	ATLANTIC	_	PROPN	NNP	_	4	compound	_	_
+4	WIRELESS	_	PROPN	NNP	_	1	nmod	_	_
+5	!!	_	PUNCT	.	_	1	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	love	_	VERB	VBP	_	0	root	_	_
+3	them	_	PRON	PRP	_	2	dobj	_	_
+4	!!!	_	PUNCT	.	_	2	punct	_	_
+		

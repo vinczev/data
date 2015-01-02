@@ -1,0 +1,57 @@
+1	Can	_	AUX	MD	_	3	aux	_	_
+2	police	_	NOUN	NN	_	3	nsubj	_	_
+3	trace	_	VERB	VB	_	0	root	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	cell	_	NOUN	NN	_	6	compound	_	_
+6	phone	_	NOUN	NN	_	3	dobj	_	_
+7	even	_	ADV	RB	_	11	advmod	_	_
+8	if	_	SCONJ	IN	_	11	mark	_	_
+9	it	_	PRON	PRP	_	11	nsubjpass	_	_
+10	is	_	AUX	VBZ	_	11	auxpass	_	_
+11	switched	_	VERB	VBN	_	3	advcl	_	_
+12	off	_	ADP	RP	_	11	compound:prt	_	_
+13	?	_	PUNCT	.	_	3	punct	_	_
+		
+1	Can	_	AUX	MD	_	3	aux	_	_
+2	police	_	NOUN	NN	_	3	nsubj	_	_
+3	trace	_	VERB	VB	_	0	root	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	cell	_	NOUN	NN	_	6	compound	_	_
+6	phone	_	NOUN	NN	_	3	dobj	_	_
+7	even	_	ADV	RB	_	11	advmod	_	_
+8	if	_	SCONJ	IN	_	11	mark	_	_
+9	it	_	PRON	PRP	_	11	nsubjpass	_	_
+10	is	_	AUX	VBZ	_	11	auxpass	_	_
+11	switched	_	VERB	VBN	_	3	advcl	_	_
+12	off	_	ADP	RP	_	11	compound:prt	_	_
+13	?	_	PUNCT	.	_	3	punct	_	_
+		
+1	Yeah	_	INTJ	UH	_	3	discourse	_	_
+2	you	_	PRON	PRP	_	3	nsubj	_	_
+3	got	_	VERB	VBP	_	0	root	_	_
+4	ta	_	PART	TO	_	5	aux	_	_
+5	burn	_	VERB	VB	_	3	xcomp	_	_
+6	it	_	PRON	PRP	_	5	dobj	_	_
+7	..	_	PUNCT	,	_	3	punct	_	_
+8	that	_	DET	DT	_	12	nsubj	_	_
+9	s	_	VERB	VBZ	_	12	cop	_	_
+10	the	_	DET	DT	_	12	det	_	_
+11	only	_	ADJ	JJ	_	12	amod	_	_
+12	way	_	NOUN	NN	_	3	parataxis	_	_
+		
+1	Yes	_	INTJ	UH	_	5	discourse	_	_
+2	,	_	PUNCT	,	_	5	punct	_	_
+3	they	_	PRON	PRP	_	5	nsubj	_	_
+4	all	_	DET	DT	_	3	det	_	_
+5	have	_	VERB	VBP	_	0	root	_	_
+6	secret	_	ADJ	JJ	_	8	amod	_	_
+7	locator	_	NOUN	NN	_	8	compound	_	_
+8	chips	_	NOUN	NNS	_	5	dobj	_	_
+9	,	_	PUNCT	,	_	8	punct	_	_
+10	just	_	ADV	RB	_	12	advmod	_	_
+11	like	_	ADP	IN	_	12	case	_	_
+12	gps	_	NOUN	NN	_	8	nmod	_	_
+		
+1	Yes	_	INTJ	UH	_	0	root	_	_
+2	.	_	PUNCT	.	_	1	punct	_	_
+		

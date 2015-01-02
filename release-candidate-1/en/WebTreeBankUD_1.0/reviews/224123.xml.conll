@@ -1,0 +1,17 @@
+1	ok	_	INTJ	UH	_	0	root	_	_
+		
+1	ca	_	AUX	MD	_	3	aux	_	_
+2	n't	_	PART	RB	_	3	neg	_	_
+3	remember	_	VERB	VB	_	0	root	_	_
+4	good	_	ADJ	JJ	_	3	ccomp	_	_
+5	or	_	CONJ	CC	_	4	cc	_	_
+6	bad	_	ADJ	JJ	_	4	conj	_	_
+7	,	_	PUNCT	,	_	3	punct	_	_
+8	so	_	ADV	RB	_	13	advmod	_	_
+9	it	_	PRON	PRP	_	13	nsubj	_	_
+10	must	_	AUX	MD	_	13	aux	_	_
+11	have	_	AUX	VB	_	13	aux	_	_
+12	been	_	VERB	VBN	_	13	cop	_	_
+13	meh	_	ADJ	JJ	_	3	parataxis	_	_
+14	.	_	PUNCT	.	_	3	punct	_	_
+		

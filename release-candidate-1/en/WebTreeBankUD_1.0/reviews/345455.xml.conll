@@ -1,0 +1,74 @@
+1	First	_	ADJ	JJ	_	3	amod	_	_
+2	Time	_	NOUN	NN	_	3	compound	_	_
+3	Ballerina	_	NOUN	NN	_	0	root	_	_
+		
+1	My	_	PRON	PRP$	_	2	nmod:poss	_	_
+2	daughter	_	NOUN	NN	_	4	nsubj	_	_
+3	is	_	AUX	VBZ	_	4	aux	_	_
+4	starting	_	VERB	VBG	_	0	root	_	_
+5	ballet	_	NOUN	NN	_	4	dobj	_	_
+6	this	_	DET	DT	_	7	det	_	_
+7	year	_	NOUN	NN	_	4	nmod:tmod	_	_
+8	for	_	ADP	IN	_	11	case	_	_
+9	the	_	DET	DT	_	11	det	_	_
+10	first	_	ADJ	JJ	_	11	amod	_	_
+11	time	_	NOUN	NN	_	4	nmod	_	_
+12	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	I	_	PRON	PRP	_	5	nsubj	_	_
+2	'm	_	VERB	VBP	_	5	cop	_	_
+3	a	_	DET	DT	_	5	det	_	_
+4	soccer	_	NOUN	NN	_	5	compound	_	_
+5	mom	_	NOUN	NN	_	0	root	_	_
+6	so	_	ADV	RB	_	10	advmod	_	_
+7	I	_	PRON	PRP	_	10	nsubj	_	_
+8	was	_	VERB	VBD	_	10	cop	_	_
+9	n't	_	PART	RB	_	10	neg	_	_
+10	sure	_	ADJ	JJ	_	5	conj	_	_
+11	what	_	PRON	WP	_	14	nmod	_	_
+12	I	_	PRON	PRP	_	14	nsubj	_	_
+13	was	_	AUX	VBD	_	14	aux	_	_
+14	looking	_	VERB	VBG	_	10	ccomp	_	_
+15	for	_	ADP	IN	_	11	case	_	_
+16	when	_	ADV	WRB	_	18	advmod	_	_
+17	it	_	PRON	PRP	_	18	nsubj	_	_
+18	comes	_	VERB	VBZ	_	14	advcl	_	_
+19	to	_	ADP	IN	_	20	case	_	_
+20	dancewear	_	NOUN	NN	_	18	nmod	_	_
+21	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	The	_	DET	DT	_	2	det	_	_
+2	staff	_	NOUN	NN	_	5	nsubj	_	_
+3	was	_	VERB	VBD	_	5	cop	_	_
+4	very	_	ADV	RB	_	5	advmod	_	_
+5	helpful	_	ADJ	JJ	_	0	root	_	_
+6	and	_	CONJ	CC	_	5	cc	_	_
+7	gave	_	VERB	VBD	_	5	conj	_	_
+8	me	_	PRON	PRP	_	7	dobj	_	_
+9	exactly	_	ADV	RB	_	10	advmod	_	_
+10	what	_	PRON	WP	_	12	dobj	_	_
+11	I	_	PRON	PRP	_	12	nsubj	_	_
+12	needed	_	VERB	VBD	_	8	acl:relcl	_	_
+13	for	_	ADP	IN	_	17	case	_	_
+14	my	_	PRON	PRP$	_	17	nmod:poss	_	_
+15	first	_	ADJ	JJ	_	16	amod	_	_
+16	time	_	NOUN	NN	_	17	compound	_	_
+17	ballerina	_	NOUN	NN	_	12	nmod	_	_
+18	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	The	_	DET	DT	_	2	det	_	_
+2	service	_	NOUN	NN	_	6	nsubj	_	_
+3	at	_	ADP	IN	_	4	case	_	_
+4	Instep	_	PROPN	NNP	_	2	nmod	_	_
+5	was	_	VERB	VBD	_	6	cop	_	_
+6	great	_	ADJ	JJ	_	0	root	_	_
+7	!!	_	PUNCT	.	_	6	punct	_	_
+		
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	would	_	AUX	MD	_	3	aux	_	_
+3	recommend	_	VERB	VB	_	0	root	_	_
+4	them	_	PRON	PRP	_	3	dobj	_	_
+5	to	_	ADP	IN	_	6	case	_	_
+6	anyone	_	NOUN	NN	_	3	nmod	_	_
+7	!	_	PUNCT	.	_	3	punct	_	_
+		

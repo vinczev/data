@@ -1,0 +1,14 @@
+1	Compare	_	VERB	VBN	_	8	advcl	_	_
+2	to	_	ADP	IN	_	4	case	_	_
+3	last	_	ADJ	JJ	_	4	amod	_	_
+4	decade	_	NOUN	NN	_	1	nmod	_	_
+5	this	_	DET	DT	_	6	det	_	_
+6	University	_	PROPN	NNP	_	8	nsubj	_	_
+7	is	_	AUX	VBZ	_	8	aux	_	_
+8	gaining	_	VERB	VBG	_	0	root	_	_
+9	more	_	ADJ	JJR	_	10	amod	_	_
+10	prestige	_	NOUN	NN	_	8	dobj	_	_
+11	in	_	ADP	IN	_	13	case	_	_
+12	International	_	ADJ	JJ	_	13	amod	_	_
+13	level	_	NOUN	NN	_	8	nmod	_	_
+		

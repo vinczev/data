@@ -1,0 +1,18 @@
+1	You	_	PRON	PRP	_	9	nsubj	_	_
+2	are	_	VERB	VBP	_	9	cop	_	_
+3	the	_	DET	DT	_	9	det	_	_
+4	only	_	ADJ	JJ	_	9	amod	_	_
+5	one	_	NUM	CD	_	9	nummod	_	_
+6	auto	_	NOUN	NN	_	7	compound	_	_
+7	glass	_	NOUN	NN	_	8	compound	_	_
+8	repair	_	NOUN	NN	_	9	compound	_	_
+9	shop	_	NOUN	NN	_	0	root	_	_
+10	in	_	ADP	IN	_	12	case	_	_
+11	the	_	DET	DT	_	12	det	_	_
+12	area	_	NOUN	NN	_	9	nmod	_	_
+13	I	_	PRON	PRP	_	15	nsubj	_	_
+14	would	_	AUX	MD	_	15	aux	_	_
+15	count	_	VERB	VB	_	9	acl:relcl	_	_
+16	on	_	ADP	IN	_	15	nmod	_	_
+17	.	_	PUNCT	.	_	9	punct	_	_
+		

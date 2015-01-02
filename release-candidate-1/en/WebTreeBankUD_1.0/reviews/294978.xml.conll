@@ -1,0 +1,36 @@
+1	not	_	PART	RB	_	2	neg	_	_
+2	impressive	_	ADJ	JJ	_	0	root	_	_
+3	enough	_	ADV	RB	_	2	advmod	_	_
+		
+1	It	_	PRON	PRP	_	5	nsubj	_	_
+2	's	_	VERB	VBZ	_	5	cop	_	_
+3	a	_	DET	DT	_	5	det	_	_
+4	fine	_	ADJ	JJ	_	5	amod	_	_
+5	place	_	NOUN	NN	_	0	root	_	_
+6	,	_	PUNCT	,	_	5	punct	_	_
+7	I	_	PRON	PRP	_	12	nsubj	_	_
+8	'm	_	VERB	VBP	_	12	cop	_	_
+9	just	_	ADV	RB	_	12	advmod	_	_
+10	a	_	DET	DT	_	11	det	_	_
+11	little	_	ADJ	JJ	_	12	nmod:npmod	_	_
+12	mystified	_	ADJ	JJ	_	5	parataxis	_	_
+13	about	_	ADP	IN	_	16	case	_	_
+14	the	_	DET	DT	_	16	det	_	_
+15	Michelin	_	PROPN	NNP	_	16	compound	_	_
+16	star	_	NOUN	NN	_	12	nmod	_	_
+17	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	Nothing	_	NOUN	NN	_	0	root	_	_
+2	wrong	_	ADJ	JJ	_	1	amod	_	_
+3	with	_	ADP	IN	_	4	case	_	_
+4	it	_	PRON	PRP	_	2	nmod	_	_
+5	,	_	PUNCT	,	_	1	punct	_	_
+6	just	_	ADV	RB	_	1	cc	_	_
+7	better	_	ADJ	JJR	_	8	amod	_	_
+8	options	_	NOUN	NNS	_	1	parataxis	_	_
+9	at	_	ADP	IN	_	12	case	_	_
+10	this	_	DET	DT	_	12	det	_	_
+11	price	_	NOUN	NN	_	12	compound	_	_
+12	point	_	NOUN	NN	_	8	nmod	_	_
+13	.	_	PUNCT	.	_	1	punct	_	_
+		

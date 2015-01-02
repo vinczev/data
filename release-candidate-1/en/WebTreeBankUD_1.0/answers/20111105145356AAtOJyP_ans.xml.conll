@@ -1,0 +1,54 @@
+1	What	_	PRON	WP	_	0	root	_	_
+2	are	_	VERB	VBP	_	1	cop	_	_
+3	some	_	DET	DT	_	7	det	_	_
+4	GOOD	_	ADJ	JJ	_	7	amod	_	_
+5	18	_	NUM	CD	_	7	compound	_	_
+6	+	_	SYM	SYM	_	5	advmod	_	_
+7	clubs	_	NOUN	NNS	_	2	nsubj	_	_
+8	in	_	ADP	IN	_	11	case	_	_
+9	the	_	DET	DT	_	11	det	_	_
+10	bay	_	PROPN	NNP	_	11	compound	_	_
+11	area	_	PROPN	NNP	_	7	nmod	_	_
+12	?	_	PUNCT	.	_	1	punct	_	_
+		
+1	For	_	ADP	IN	_	2	case	_	_
+2	today	_	NOUN	NN	_	0	root	_	_
+3	saturday	_	PROPN	NNP	_	2	appos	_	_
+4	Nov	_	PROPN	NNP	_	3	appos	_	_
+5	5th	_	NOUN	NN	_	4	nummod	_	_
+6	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	preferably	_	ADV	RB	_	0	root	_	_
+2	in	_	ADP	IN	_	4	case	_	_
+3	San	_	PROPN	NNP	_	4	compound	_	_
+4	Jose	_	PROPN	NNP	_	1	nmod	_	_
+5	,	_	PUNCT	,	_	4	punct	_	_
+6	Palo	_	PROPN	NNP	_	7	compound	_	_
+7	Alto	_	PROPN	NNP	_	4	conj	_	_
+8	,	_	PUNCT	,	_	4	punct	_	_
+9	San	_	PROPN	NNP	_	10	compound	_	_
+10	Francisco	_	PROPN	NNP	_	4	conj	_	_
+11	..	_	PUNCT	,	_	1	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	want	_	VERB	VBP	_	0	root	_	_
+3	to	_	PART	TO	_	4	aux	_	_
+4	party	_	VERB	VB	_	2	xcomp	_	_
+5	hardy	_	ADV	RB	_	4	advmod	_	_
+6	for	_	ADP	IN	_	8	case	_	_
+7	my	_	PRON	PRP$	_	8	nmod:poss	_	_
+8	birthday	_	NOUN	NN	_	4	nmod	_	_
+9	:-RRB-	_	SYM	NFP	_	2	discourse	_	_
+		
+1	when	_	ADV	WRB	_	3	advmod	_	_
+2	you	_	PRON	PRP	_	3	nsubj	_	_
+3	turn	_	VERB	VBP	_	7	advcl	_	_
+4	21	_	NUM	CD	_	3	dobj	_	_
+5	you	_	PRON	PRP	_	7	nsubj	_	_
+6	can	_	AUX	MD	_	7	aux	_	_
+7	party	_	VERB	VB	_	0	root	_	_
+8	any	_	X	GW	_	9	goeswith	_	_
+9	were	_	ADV	RB	_	7	advmod	_	_
+10	you	_	PRON	PRP	_	11	nsubj	_	_
+11	want	_	AUX	VBP	_	9	acl:relcl	_	_
+		

@@ -1,0 +1,61 @@
+1	Average	_	ADJ	JJ	_	2	amod	_	_
+2	food	_	NOUN	NN	_	0	root	_	_
+3	and	_	CONJ	CC	_	2	cc	_	_
+4	deathly	_	ADV	RB	_	5	advmod	_	_
+5	slow	_	ADJ	JJ	_	6	amod	_	_
+6	service	_	NOUN	NN	_	2	conj	_	_
+		
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	have	_	AUX	VBP	_	3	aux	_	_
+3	eaten	_	VERB	VBN	_	0	root	_	_
+4	here	_	ADV	RB	_	3	advmod	_	_
+5	several	_	ADJ	JJ	_	6	amod	_	_
+6	times	_	NOUN	NNS	_	3	nmod:tmod	_	_
+7	and	_	CONJ	CC	_	3	cc	_	_
+8	every	_	DET	DT	_	9	det	_	_
+9	time	_	NOUN	NN	_	13	nmod:tmod	_	_
+10	the	_	DET	DT	_	11	det	_	_
+11	service	_	NOUN	NN	_	13	nsubj	_	_
+12	is	_	VERB	VBZ	_	13	cop	_	_
+13	slower	_	ADJ	JJR	_	3	conj	_	_
+14	than	_	ADP	IN	_	15	case	_	_
+15	slow	_	ADJ	JJ	_	13	nmod	_	_
+16	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	One	_	NUM	CD	_	2	nummod	_	_
+2	time	_	NOUN	NN	_	5	nmod:tmod	_	_
+3	we	_	PRON	PRP	_	5	nsubj	_	_
+4	even	_	ADV	RB	_	5	advmod	_	_
+5	left	_	VERB	VBD	_	0	root	_	_
+6	after	_	ADP	IN	_	7	mark	_	_
+7	sitting	_	VERB	VBG	_	5	advcl	_	_
+8	at	_	ADP	IN	_	10	case	_	_
+9	the	_	DET	DT	_	10	det	_	_
+10	table	_	NOUN	NN	_	7	nmod	_	_
+11	for	_	ADP	IN	_	13	case	_	_
+12	20	_	NUM	CD	_	13	nummod	_	_
+13	minutes	_	NOUN	NNS	_	7	nmod	_	_
+14	and	_	CONJ	CC	_	7	cc	_	_
+15	not	_	PART	RB	_	17	neg	_	_
+16	being	_	AUX	VBG	_	17	auxpass	_	_
+17	greeted	_	VERB	VBN	_	7	conj	_	_
+18	with	_	ADP	IN	_	21	case	_	_
+19	a	_	DET	DT	_	21	det	_	_
+20	drink	_	NOUN	NN	_	21	compound	_	_
+21	order	_	NOUN	NN	_	17	nmod	_	_
+22	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	Ridiculous	_	ADJ	JJ	_	0	root	_	_
+2	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	There	_	DET	EX	_	7	expl	_	_
+2	must	_	AUX	MD	_	7	aux	_	_
+3	be	_	VERB	VB	_	7	cop	_	_
+4	a	_	DET	DT	_	7	det	_	_
+5	better	_	ADJ	JJR	_	7	amod	_	_
+6	mexican	_	ADJ	JJ	_	7	amod	_	_
+7	place	_	NOUN	NN	_	0	root	_	_
+8	in	_	ADP	IN	_	9	case	_	_
+9	Rockland	_	PROPN	NNP	_	7	nmod	_	_
+10	.	_	PUNCT	.	_	7	punct	_	_
+		

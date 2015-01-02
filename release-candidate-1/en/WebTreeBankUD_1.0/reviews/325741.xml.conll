@@ -1,0 +1,55 @@
+1	Class	_	NOUN	NN	_	2	compound	_	_
+2	act	_	NOUN	NN	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	It	_	PRON	PRP	_	3	nsubj	_	_
+2	was	_	VERB	VBD	_	3	cop	_	_
+3	late	_	ADJ	JJ	_	0	root	_	_
+4	in	_	ADP	IN	_	6	case	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	day	_	NOUN	NN	_	3	nmod	_	_
+7	and	_	CONJ	CC	_	3	cc	_	_
+8	I	_	PRON	PRP	_	10	nsubj	_	_
+9	was	_	VERB	VBD	_	10	cop	_	_
+10	worried	_	ADJ	JJ	_	3	conj	_	_
+11	I	_	PRON	PRP	_	14	nsubjpass	_	_
+12	would	_	AUX	MD	_	14	aux	_	_
+13	get	_	AUX	VB	_	14	auxpass	_	_
+14	charged	_	VERB	VBN	_	10	ccomp	_	_
+15	an	_	DET	DT	_	16	det	_	_
+16	arm	_	NOUN	NN	_	14	dobj	_	_
+17	and	_	CONJ	CC	_	16	cc	_	_
+18	a	_	DET	DT	_	19	det	_	_
+19	leg	_	NOUN	NN	_	16	conj	_	_
+20	and	_	CONJ	CC	_	14	cc	_	_
+21	have	_	VERB	VB	_	14	conj	_	_
+22	to	_	PART	TO	_	23	aux	_	_
+23	wait	_	VERB	VB	_	21	xcomp	_	_
+24	forever	_	ADV	RB	_	23	advmod	_	_
+25	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	They	_	PRON	PRP	_	2	nsubj	_	_
+2	picked	_	VERB	VBD	_	0	root	_	_
+3	my	_	PRON	PRP$	_	4	nmod:poss	_	_
+4	car	_	NOUN	NN	_	2	dobj	_	_
+5	up	_	ADP	RP	_	2	compound:prt	_	_
+6	in	_	ADP	IN	_	7	case	_	_
+7	Yarmouth	_	PROPN	NNP	_	2	nmod	_	_
+8	and	_	CONJ	CC	_	2	cc	_	_
+9	towed	_	VERB	VBD	_	2	conj	_	_
+10	to	_	ADP	IN	_	11	case	_	_
+11	Bath	_	PROPN	NNP	_	9	nmod	_	_
+12	for	_	ADP	IN	_	15	case	_	_
+13	a	_	DET	DT	_	15	det	_	_
+14	great	_	ADJ	JJ	_	15	amod	_	_
+15	price	_	NOUN	NN	_	9	nmod	_	_
+16	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Would	_	AUX	MD	_	2	aux	_	_
+2	do	_	VERB	VB	_	0	root	_	_
+3	business	_	NOUN	NN	_	2	dobj	_	_
+4	with	_	ADP	IN	_	5	case	_	_
+5	them	_	PRON	PRP	_	3	nmod	_	_
+6	again	_	ADV	RB	_	2	advmod	_	_
+7	.	_	PUNCT	.	_	2	punct	_	_
+		

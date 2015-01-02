@@ -1,0 +1,39 @@
+1	Terrible	_	ADJ	JJ	_	3	amod	_	_
+2	customer	_	NOUN	NN	_	3	compound	_	_
+3	service	_	NOUN	NN	_	0	root	_	_
+		
+1	Fried	_	VERB	VBN	_	2	amod	_	_
+2	rice	_	NOUN	NN	_	3	nsubj	_	_
+3	has	_	VERB	VBZ	_	0	root	_	_
+4	NO	_	DET	DT	_	5	neg	_	_
+5	flavor	_	NOUN	NN	_	3	dobj	_	_
+6	,	_	PUNCT	,	_	3	punct	_	_
+7	it	_	PRON	PRP	_	9	nsubj	_	_
+8	literally	_	ADV	RB	_	9	advmod	_	_
+9	taste	_	VERB	VBP	_	3	parataxis	_	_
+10	like	_	ADP	IN	_	11	case	_	_
+11	water	_	NOUN	NN	_	9	nmod	_	_
+12	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	When	_	ADV	WRB	_	3	advmod	_	_
+2	I	_	PRON	PRP	_	3	nsubj	_	_
+3	tried	_	VERB	VBD	_	8	advcl	_	_
+4	to	_	PART	TO	_	5	aux	_	_
+5	return	_	VERB	VB	_	3	xcomp	_	_
+6	it	_	PRON	PRP	_	5	dobj	_	_
+7	they	_	PRON	PRP	_	8	nsubj	_	_
+8	refused	_	VERB	VBD	_	0	root	_	_
+9	,	_	PUNCT	,	_	8	punct	_	_
+10	so	_	ADV	RB	_	12	advmod	_	_
+11	I	_	PRON	PRP	_	12	nsubj	_	_
+12	had	_	VERB	VBD	_	8	parataxis	_	_
+13	to	_	PART	TO	_	14	aux	_	_
+14	leave	_	VERB	VB	_	12	xcomp	_	_
+15	without	_	ADP	IN	_	17	case	_	_
+16	a	_	DET	DT	_	17	det	_	_
+17	refund	_	NOUN	NN	_	14	nmod	_	_
+18	and	_	CONJ	CC	_	17	cc	_	_
+19	still	_	ADV	RB	_	20	advmod	_	_
+20	hungry	_	ADJ	JJ	_	17	conj	_	_
+21	.	_	PUNCT	.	_	8	punct	_	_
+		

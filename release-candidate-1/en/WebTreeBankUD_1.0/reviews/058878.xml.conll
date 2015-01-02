@@ -1,0 +1,18 @@
+1	Nice	_	ADJ	JJ	_	6	amod	_	_
+2	little	_	ADJ	JJ	_	6	amod	_	_
+3	locally	_	ADV	RB	_	4	advmod	_	_
+4	owned	_	VERB	VBN	_	6	amod	_	_
+5	greek	_	ADJ	JJ	_	6	amod	_	_
+6	bar	_	NOUN	NN	_	0	root	_	_
+7	and	_	CONJ	CC	_	6	cc	_	_
+8	grill	_	NOUN	NN	_	6	conj	_	_
+9	.	_	PUNCT	.	_	8	punct	_	_
+		
+1	Good	_	ADJ	JJ	_	2	amod	_	_
+2	food	_	NOUN	NN	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Great	_	ADJ	JJ	_	2	amod	_	_
+2	wings	_	NOUN	NNS	_	0	root	_	_
+3	!	_	PUNCT	.	_	2	punct	_	_
+		

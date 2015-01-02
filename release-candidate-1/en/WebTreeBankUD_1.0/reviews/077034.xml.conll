@@ -1,0 +1,42 @@
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	loved	_	VERB	VBD	_	0	root	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	atmosphere	_	NOUN	NN	_	2	dobj	_	_
+5	here	_	ADV	RB	_	4	advmod	_	_
+6	and	_	CONJ	CC	_	2	cc	_	_
+7	the	_	DET	DT	_	8	det	_	_
+8	food	_	NOUN	NN	_	10	nsubj	_	_
+9	is	_	VERB	VBZ	_	10	cop	_	_
+10	good	_	ADJ	JJ	_	2	conj	_	_
+11	,	_	PUNCT	,	_	2	punct	_	_
+12	however	_	ADV	RB	_	18	advmod	_	_
+13	the	_	DET	DT	_	14	det	_	_
+14	tables	_	NOUN	NNS	_	18	nsubj	_	_
+15	are	_	VERB	VBP	_	18	cop	_	_
+16	so	_	ADV	RB	_	18	advmod	_	_
+17	close	_	ADJ	JJ	_	18	amod	_	_
+18	together	_	ADJ	JJ	_	2	parataxis	_	_
+19	that	_	SCONJ	IN	_	21	mark	_	_
+20	it	_	PRON	PRP	_	21	nsubj	_	_
+21	feels	_	VERB	VBZ	_	16	advcl	_	_
+22	very	_	ADV	RB	_	23	advmod	_	_
+23	cramped	_	ADJ	JJ	_	21	xcomp	_	_
+24	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	We	_	PRON	PRP	_	3	nsubjpass	_	_
+2	were	_	AUX	VBD	_	3	auxpass	_	_
+3	made	_	VERB	VBN	_	0	root	_	_
+4	to	_	PART	TO	_	5	aux	_	_
+5	feel	_	VERB	VB	_	3	xcomp	_	_
+6	very	_	ADV	RB	_	7	advmod	_	_
+7	welcome	_	ADJ	JJ	_	5	xcomp	_	_
+8	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Well	_	ADV	RB	_	2	advmod	_	_
+2	worth	_	ADJ	JJ	_	0	root	_	_
+3	a	_	DET	DT	_	4	det	_	_
+4	visit	_	NOUN	NN	_	2	dobj	_	_
+5	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	http://cambridgefoodfrivolity.blogspot.com/	_	X	ADD	_	0	root	_	_
+		

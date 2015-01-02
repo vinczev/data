@@ -1,0 +1,67 @@
+1	A	_	NOUN	NN	_	0	root	_	_
+2	+	_	SYM	SYM	_	1	compound	_	_
+		
+1	Excellent	_	ADJ	JJ	_	3	amod	_	_
+2	customer	_	NOUN	NN	_	3	compound	_	_
+3	service	_	NOUN	NN	_	0	root	_	_
+4	and	_	CONJ	CC	_	3	cc	_	_
+5	honest	_	ADJ	JJ	_	6	amod	_	_
+6	feedback	_	NOUN	NN	_	3	conj	_	_
+7	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	The	_	DET	DT	_	2	det	_	_
+2	team	_	NOUN	NN	_	6	nsubj	_	_
+3	at	_	ADP	IN	_	5	case	_	_
+4	Bradley	_	PROPN	NNP	_	5	compound	_	_
+5	Chevron	_	PROPN	NNP	_	2	nmod	_	_
+6	kept	_	VERB	VBD	_	0	root	_	_
+7	my	_	PRON	PRP$	_	8	nmod:poss	_	_
+8	car	_	NOUN	NN	_	6	dobj	_	_
+9	running	_	VERB	VBG	_	6	advcl	_	_
+10	for	_	ADP	IN	_	15	case	_	_
+11	well	_	ADV	RB	_	12	advmod	_	_
+12	past	_	ADP	IN	_	15	case	_	_
+13	its	_	PRON	PRP$	_	15	nmod:poss	_	_
+14	expected	_	VERB	VBN	_	15	amod	_	_
+15	death	_	NOUN	NN	_	9	nmod	_	_
+16	!	_	PUNCT	.	_	6	punct	_	_
+		
+1	They	_	PRON	PRP	_	3	nsubj	_	_
+2	are	_	VERB	VBP	_	3	cop	_	_
+3	honest	_	ADJ	JJ	_	0	root	_	_
+4	about	_	ADP	IN	_	8	case	_	_
+5	'	_	PUNCT	``	_	8	punct	_	_
+6	immediate	_	ADJ	JJ	_	8	amod	_	_
+7	'	_	PUNCT	''	_	8	punct	_	_
+8	concerns	_	NOUN	NNS	_	3	nmod	_	_
+9	versus	_	ADP	IN	_	13	case	_	_
+10	'	_	PUNCT	``	_	13	punct	_	_
+11	recommended	_	VERB	VBN	_	13	amod	_	_
+12	'	_	PUNCT	''	_	13	punct	_	_
+13	repairs	_	NOUN	NNS	_	8	nmod	_	_
+14	and	_	CONJ	CC	_	3	cc	_	_
+15	have	_	VERB	VBP	_	3	conj	_	_
+16	very	_	ADV	RB	_	17	advmod	_	_
+17	fair	_	ADJ	JJ	_	18	amod	_	_
+18	prices	_	NOUN	NNS	_	15	dobj	_	_
+19	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Such	_	DET	PDT	_	4	predet	_	_
+2	a	_	DET	DT	_	4	det	_	_
+3	convenient	_	ADJ	JJ	_	4	amod	_	_
+4	location	_	NOUN	NN	_	0	root	_	_
+5	as	_	ADV	RB	_	4	advmod	_	_
+6	well	_	ADV	RB	_	5	mwe	_	_
+7	with	_	SCONJ	IN	_	9	case	_	_
+8	coffee	_	NOUN	NN	_	9	compound	_	_
+9	shop	_	NOUN	NN	_	4	nmod	_	_
+10	and	_	CONJ	CC	_	9	cc	_	_
+11	bradley	_	PROPN	NNP	_	12	compound	_	_
+12	food	_	PROPN	NNP	_	9	conj	_	_
+13	and	_	CONJ	CC	_	12	cc	_	_
+14	beverage	_	PROPN	NNP	_	12	conj	_	_
+15	right	_	ADV	RB	_	17	advmod	_	_
+16	around	_	ADP	IN	_	17	case	_	_
+17	corner	_	NOUN	NN	_	9	nmod	_	_
+18	.	_	PUNCT	.	_	4	punct	_	_
+		

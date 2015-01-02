@@ -1,0 +1,49 @@
+1	Rubbish	_	NOUN	NN	_	0	root	_	_
+		
+1	Took	_	VERB	VBD	_	0	root	_	_
+2	1	_	NUM	CD	_	4	nummod	_	_
+3	+	_	SYM	SYM	_	2	advmod	_	_
+4	hour	_	NOUN	NN	_	1	dobj	_	_
+5	to	_	PART	TO	_	6	aux	_	_
+6	deliver	_	VERB	VB	_	1	csubj	_	_
+7	to	_	ADP	IN	_	8	case	_	_
+8	Chatham	_	PROPN	NNP	_	6	nmod	_	_
+9	,	_	PUNCT	,	_	10	punct	_	_
+10	hair	_	NOUN	NN	_	1	parataxis	_	_
+11	in	_	ADP	IN	_	12	case	_	_
+12	food	_	NOUN	NN	_	10	nmod	_	_
+13	,	_	PUNCT	,	_	10	punct	_	_
+14	driver	_	NOUN	NN	_	17	nsubj	_	_
+15	did	_	AUX	VBD	_	17	aux	_	_
+16	n't	_	PART	RB	_	17	neg	_	_
+17	know	_	VERB	VB	_	1	parataxis	_	_
+18	area	_	NOUN	NN	_	17	dobj	_	_
+19	.	_	PUNCT	.	_	10	punct	_	_
+		
+1	Noticed	_	VERB	VBD	_	0	root	_	_
+2	a	_	DET	DT	_	3	det	_	_
+3	few	_	NOUN	NN	_	1	dobj	_	_
+4	of	_	ADP	IN	_	8	case	_	_
+5	these	_	DET	DT	_	8	det	_	_
+6	Cookie	_	NOUN	NN	_	7	compound	_	_
+7	cutter	_	NOUN	NN	_	8	compound	_	_
+8	places	_	NOUN	NNS	_	3	nmod	_	_
+9	opening	_	VERB	VBG	_	3	acl	_	_
+10	in	_	ADP	IN	_	11	case	_	_
+11	Summit	_	PROPN	NNP	_	9	nmod	_	_
+12	and	_	CONJ	CC	_	11	cc	_	_
+13	New	_	PROPN	NNP	_	14	compound	_	_
+14	Providence	_	PROPN	NNP	_	11	conj	_	_
+15	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Stick	_	VERB	VB	_	0	root	_	_
+2	to	_	ADP	IN	_	4	case	_	_
+3	Hop	_	PROPN	NNP	_	4	compound	_	_
+4	Hing	_	PROPN	NNP	_	1	nmod	_	_
+5	,	_	PUNCT	,	_	4	punct	_	_
+6	20	_	NUM	CD	_	7	nummod	_	_
+7	year	_	NOUN	NN	_	9	compound	_	_
+8	+	_	SYM	SYM	_	7	advmod	_	_
+9	resident	_	NOUN	NN	_	4	appos	_	_
+10	.	_	PUNCT	.	_	1	punct	_	_
+		

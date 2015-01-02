@@ -1,0 +1,42 @@
+1	Besides	_	ADP	IN	_	2	mark	_	_
+2	eating	_	VERB	VBG	_	10	advcl	_	_
+3	good	_	ADJ	JJ	_	4	amod	_	_
+4	foods	_	NOUN	NNS	_	2	dobj	_	_
+5	,	_	PUNCT	,	_	10	punct	_	_
+6	what	_	PRON	WP	_	10	dobj	_	_
+7	else	_	ADV	RB	_	6	advmod	_	_
+8	do	_	AUX	VBP	_	10	aux	_	_
+9	people	_	NOUN	NNS	_	10	nsubj	_	_
+10	do	_	VERB	VB	_	0	root	_	_
+11	in	_	ADP	IN	_	12	case	_	_
+12	Miramar	_	PROPN	NNP	_	10	nmod	_	_
+13	?	_	PUNCT	.	_	10	punct	_	_
+		
+1	Well	_	INTJ	UH	_	4	discourse	_	_
+2	,	_	PUNCT	,	_	4	punct	_	_
+3	they	_	PRON	PRP	_	4	nsubj	_	_
+4	have	_	VERB	VBP	_	0	root	_	_
+5	a	_	DET	DT	_	6	det	_	_
+6	variety	_	NOUN	NN	_	4	dobj	_	_
+7	of	_	ADP	IN	_	8	case	_	_
+8	sports	_	NOUN	NN	_	6	nmod	_	_
+9	that	_	DET	WDT	_	11	dobj	_	_
+10	they	_	PRON	PRP	_	11	nsubj	_	_
+11	play	_	VERB	VBP	_	6	acl:relcl	_	_
+12	like	_	ADP	IN	_	13	case	_	_
+13	basketball	_	NOUN	NN	_	6	nmod	_	_
+14	,	_	PUNCT	,	_	13	punct	_	_
+15	soccer	_	NOUN	NN	_	13	conj	_	_
+16	,	_	PUNCT	,	_	13	punct	_	_
+17	etc	_	X	FW	_	13	conj	_	_
+18	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	Well	_	INTJ	UH	_	3	discourse	_	_
+2	they	_	PRON	PRP	_	3	nsubj	_	_
+3	play	_	VERB	VBP	_	0	root	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	Wii	_	PROPN	NNP	_	3	dobj	_	_
+6	like	_	ADP	IN	_	7	case	_	_
+7	me	_	PRON	PRP	_	3	nmod	_	_
+8	:-RRB-	_	SYM	NFP	_	3	discourse	_	_
+		

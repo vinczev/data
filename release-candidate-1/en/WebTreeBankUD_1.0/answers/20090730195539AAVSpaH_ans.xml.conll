@@ -1,0 +1,54 @@
+1	Do	_	AUX	VBP	_	3	aux	_	_
+2	you	_	PRON	PRP	_	3	nsubj	_	_
+3	prefer	_	VERB	VB	_	0	root	_	_
+4	ham	_	NOUN	NN	_	3	dobj	_	_
+5	,	_	PUNCT	,	_	4	punct	_	_
+6	bacon	_	NOUN	NN	_	4	conj	_	_
+7	or	_	CONJ	CC	_	4	cc	_	_
+8	sausages	_	NOUN	NNS	_	4	conj	_	_
+9	with	_	ADP	IN	_	11	case	_	_
+10	your	_	PRON	PRP$	_	11	nmod:poss	_	_
+11	breakfast	_	NOUN	NN	_	3	nmod	_	_
+12	?	_	PUNCT	.	_	3	punct	_	_
+		
+1	Without	_	ADP	IN	_	3	case	_	_
+2	a	_	DET	DT	_	3	det	_	_
+3	doubt	_	NOUN	NN	_	5	nmod	_	_
+4	.....	_	PUNCT	,	_	5	punct	_	_
+5	bacon	_	NOUN	NN	_	0	root	_	_
+6	!	_	PUNCT	.	_	5	punct	_	_
+7	:-RRB-	_	SYM	NFP	_	5	discourse	_	_
+		
+1	thick	_	ADV	RB	_	2	advmod	_	_
+2	cut	_	VERB	VBN	_	3	amod	_	_
+3	bacon	_	NOUN	NN	_	0	root	_	_
+4	or	_	CONJ	CC	_	3	cc	_	_
+5	really	_	ADV	RB	_	6	advmod	_	_
+6	good	_	ADJ	JJ	_	7	amod	_	_
+7	sausages	_	NOUN	NNS	_	3	conj	_	_
+		
+1	with	_	ADP	IN	_	3	case	_	_
+2	my	_	PRON	PRP$	_	3	nmod:poss	_	_
+3	breakfast	_	NOUN	NN	_	5	nmod	_	_
+4	I	_	PRON	PRP	_	5	nsubj	_	_
+5	like	_	VERB	VBP	_	0	root	_	_
+6	bacon	_	NOUN	NN	_	5	dobj	_	_
+7	and	_	CONJ	CC	_	6	cc	_	_
+8	sausage	_	NOUN	NN	_	6	conj	_	_
+9	when	_	ADV	WRB	_	11	advmod	_	_
+10	I	_	PRON	PRP	_	11	nsubj	_	_
+11	having	_	VERB	VBP	_	5	advcl	_	_
+12	a	_	DET	DT	_	14	det	_	_
+13	big	_	ADJ	JJ	_	14	amod	_	_
+14	breakfast	_	NOUN	NN	_	11	dobj	_	_
+15	like	_	ADP	IN	_	18	case	_	_
+16	a	_	DET	DT	_	18	det	_	_
+17	grand	_	ADJ	JJ	_	18	amod	_	_
+18	slam	_	NOUN	NN	_	14	nmod	_	_
+19	with	_	ADP	IN	_	20	case	_	_
+20	pancakes	_	NOUN	NNS	_	18	nmod	_	_
+21	and	_	CONJ	CC	_	20	cc	_	_
+22	the	_	DET	DT	_	23	det	_	_
+23	works	_	NOUN	NNS	_	20	conj	_	_
+24	.	_	PUNCT	.	_	5	punct	_	_
+		

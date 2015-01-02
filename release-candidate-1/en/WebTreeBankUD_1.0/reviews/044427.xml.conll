@@ -1,0 +1,66 @@
+1	Good	_	ADJ	JJ	_	0	root	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	Bad	_	ADJ	JJ	_	1	conj	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	had	_	VERB	VBD	_	0	root	_	_
+3	to	_	PART	TO	_	4	aux	_	_
+4	take	_	VERB	VB	_	2	xcomp	_	_
+5	care	_	NOUN	NN	_	4	dobj	_	_
+6	of	_	ADP	IN	_	8	case	_	_
+7	the	_	DET	DT	_	8	det	_	_
+8	ants	_	NOUN	NNS	_	4	nmod	_	_
+9	myself	_	PRON	PRP	_	4	nmod:npmod	_	_
+10	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	But	_	CONJ	CC	_	3	cc	_	_
+2	I	_	PRON	PRP	_	3	nsubj	_	_
+3	found	_	VERB	VBD	_	0	root	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	location	_	NOUN	NN	_	3	dobj	_	_
+6	wonderful	_	ADJ	JJ	_	3	xcomp	_	_
+7	and	_	CONJ	CC	_	6	cc	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	neighbors	_	NOUN	NNS	_	5	remnant	_	_
+10	very	_	ADV	RB	_	11	advmod	_	_
+11	kind	_	ADJ	JJ	_	6	remnant	_	_
+12	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Never	_	ADV	RB	_	2	neg	_	_
+2	had	_	VERB	VBD	_	0	root	_	_
+3	a	_	DET	DT	_	4	det	_	_
+4	problem	_	NOUN	NN	_	2	dobj	_	_
+5	with	_	ADP	IN	_	7	case	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	staff	_	NOUN	NN	_	4	nmod	_	_
+8	and	_	CONJ	CC	_	2	cc	_	_
+9	found	_	VERB	VBD	_	2	conj	_	_
+10	them	_	PRON	PRP	_	9	dobj	_	_
+11	very	_	ADV	RB	_	12	advmod	_	_
+12	helpful	_	ADJ	JJ	_	9	xcomp	_	_
+13	when	_	ADV	WRB	_	9	advmod	_	_
+14	something	_	NOUN	NN	_	15	nsubj	_	_
+15	went	_	VERB	VBD	_	13	acl:relcl	_	_
+16	wrong	_	ADJ	JJ	_	15	xcomp	_	_
+17	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Loved	_	VERB	VBD	_	0	root	_	_
+2	the	_	DET	DT	_	3	det	_	_
+3	pool	_	NOUN	NN	_	1	dobj	_	_
+4	and	_	CONJ	CC	_	3	cc	_	_
+5	BBQ	_	NOUN	NN	_	3	conj	_	_
+6	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Because	_	ADP	IN	_	4	case	_	_
+2	of	_	ADP	IN	_	1	mwe	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	ants	_	NOUN	NNS	_	6	nmod	_	_
+5	I	_	PRON	PRP	_	6	nsubj	_	_
+6	dropped	_	VERB	VBD	_	0	root	_	_
+7	them	_	PRON	PRP	_	6	dobj	_	_
+8	to	_	ADP	IN	_	11	case	_	_
+9	a	_	DET	DT	_	11	det	_	_
+10	3	_	NUM	CD	_	11	compound	_	_
+11	star	_	NOUN	NN	_	6	nmod	_	_
+12	.	_	PUNCT	.	_	6	punct	_	_
+		

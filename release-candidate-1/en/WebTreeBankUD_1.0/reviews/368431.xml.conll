@@ -1,0 +1,46 @@
+1	Ray	_	PROPN	NNP	_	3	nmod:poss	_	_
+2	's	_	PART	POS	_	1	case	_	_
+3	pizza	_	PROPN	NNP	_	0	root	_	_
+4	:	_	PUNCT	:	_	3	punct	_	_
+5	my	_	PRON	PRP$	_	6	nmod:poss	_	_
+6	favorite	_	NOUN	NN	_	3	appos	_	_
+		
+1	Ray	_	PROPN	NNP	_	3	nmod:poss	_	_
+2	's	_	PART	POS	_	1	case	_	_
+3	Pizza	_	PROPN	NNP	_	7	nsubj	_	_
+4	is	_	VERB	VBZ	_	7	cop	_	_
+5	just	_	ADV	RB	_	7	advmod	_	_
+6	too	_	ADV	RB	_	7	advmod	_	_
+7	good	_	ADJ	JJ	_	0	root	_	_
+8	.	_	PUNCT	.	_	7	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	wish	_	VERB	VBP	_	0	root	_	_
+3	I	_	PRON	PRP	_	5	nsubj	_	_
+4	could	_	AUX	MD	_	5	aux	_	_
+5	have	_	VERB	VB	_	2	ccomp	_	_
+6	a	_	DET	DT	_	7	det	_	_
+7	slice	_	NOUN	NN	_	5	dobj	_	_
+8	for	_	ADP	IN	_	11	case	_	_
+9	every	_	DET	DT	_	11	det	_	_
+10	single	_	ADJ	JJ	_	11	amod	_	_
+11	meal	_	NOUN	NN	_	5	nmod	_	_
+12	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Luckily	_	ADV	RB	_	3	advmod	_	_
+2	I	_	PRON	PRP	_	3	nsubj	_	_
+3	live	_	VERB	VBP	_	0	root	_	_
+4	very	_	ADV	RB	_	5	advmod	_	_
+5	close	_	ADV	RB	_	3	advmod	_	_
+6	,	_	PUNCT	,	_	3	punct	_	_
+7	so	_	ADV	RB	_	10	advmod	_	_
+8	I	_	PRON	PRP	_	10	nsubj	_	_
+9	can	_	AUX	MD	_	10	aux	_	_
+10	abuse	_	VERB	VB	_	3	parataxis	_	_
+11	it	_	PRON	PRP	_	10	dobj	_	_
+12	during	_	ADP	IN	_	15	case	_	_
+13	week	_	NOUN	NN	_	15	compound	_	_
+14	-	_	PUNCT	HYPH	_	15	punct	_	_
+15	ends	_	NOUN	NNS	_	10	nmod	_	_
+16	...	_	PUNCT	.	_	3	punct	_	_
+		

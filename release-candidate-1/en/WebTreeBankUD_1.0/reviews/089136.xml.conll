@@ -1,0 +1,21 @@
+1	AWESOME	_	ADJ	JJ	_	2	amod	_	_
+2	food	_	NOUN	NN	_	0	root	_	_
+3	!	_	PUNCT	.	_	2	punct	_	_
+		
+1	Make	_	VERB	VB	_	0	root	_	_
+2	sure	_	ADJ	JJ	_	4	xcomp	_	_
+3	to	_	PART	TO	_	4	aux	_	_
+4	put	_	VERB	VB	_	1	xcomp	_	_
+5	OILY	_	ADJ	JJ	_	6	amod	_	_
+6	sauces	_	NOUN	NNS	_	4	dobj	_	_
+7	on	_	ADP	IN	_	9	case	_	_
+8	your	_	PRON	PRP$	_	9	nmod:poss	_	_
+9	food	_	NOUN	NN	_	4	nmod	_	_
+10	to	_	PART	TO	_	11	aux	_	_
+11	make	_	VERB	VB	_	4	advcl	_	_
+12	it	_	PRON	PRP	_	11	dobj	_	_
+13	moist	_	ADJ	JJ	_	11	xcomp	_	_
+14	!	_	PUNCT	.	_	1	punct	_	_
+		
+1	YUM	_	INTJ	UH	_	0	root	_	_
+		

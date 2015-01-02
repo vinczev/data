@@ -1,0 +1,41 @@
+1	Fresh	_	ADJ	JJ	_	0	root	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	unic	_	ADJ	JJ	_	1	conj	_	_
+4	!	_	PUNCT	.	_	1	punct	_	_
+		
+1	Very	_	ADV	RB	_	2	advmod	_	_
+2	professional	_	ADJ	JJ	_	9	amod	_	_
+3	,	_	PUNCT	,	_	2	punct	_	_
+4	talented	_	ADJ	JJ	_	2	conj	_	_
+5	,	_	PUNCT	,	_	2	punct	_	_
+6	unic	_	ADJ	JJ	_	2	conj	_	_
+7	and	_	CONJ	CC	_	2	cc	_	_
+8	fresh	_	ADJ	JJ	_	2	conj	_	_
+9	work	_	NOUN	NN	_	0	root	_	_
+10	.	_	PUNCT	.	_	9	punct	_	_
+		
+1	Paula	_	PROPN	NNP	_	2	nsubj	_	_
+2	has	_	VERB	VBZ	_	0	root	_	_
+3	an	_	DET	DT	_	5	det	_	_
+4	amazing	_	ADJ	JJ	_	5	amod	_	_
+5	gift	_	NOUN	NN	_	2	dobj	_	_
+6	for	_	ADP	IN	_	7	case	_	_
+7	creativity	_	NOUN	NN	_	5	nmod	_	_
+8	,	_	PUNCT	,	_	5	punct	_	_
+9	vision	_	NOUN	NN	_	5	conj	_	_
+10	and	_	CONJ	CC	_	5	cc	_	_
+11	the	_	DET	DT	_	12	det	_	_
+12	ability	_	NOUN	NN	_	5	conj	_	_
+13	to	_	PART	TO	_	14	aux	_	_
+14	combine	_	VERB	VB	_	12	xcomp	_	_
+15	art	_	NOUN	NN	_	14	dobj	_	_
+16	to	_	ADP	IN	_	20	case	_	_
+17	/	_	PUNCT	HYPH	_	18	cc	_	_
+18	with	_	ADP	IN	_	20	conj	_	_
+19	commercial	_	ADJ	JJ	_	20	amod	_	_
+20	purpose	_	NOUN	NN	_	14	nmod	_	_
+21	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Bravo	_	INTJ	UH	_	0	root	_	_
+2	!	_	PUNCT	.	_	1	punct	_	_
+		

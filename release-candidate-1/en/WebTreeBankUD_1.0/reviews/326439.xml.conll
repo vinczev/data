@@ -1,0 +1,114 @@
+1	HEAVEN	_	NOUN	NN	_	0	root	_	_
+2	ON	_	ADP	IN	_	3	case	_	_
+3	EARTHHHHHHH	_	PROPN	NNP	_	1	nmod	_	_
+4	!!!!	_	PUNCT	.	_	1	punct	_	_
+		
+1	MUST	_	AUX	MD	_	2	aux	_	_
+2	TRY	_	VERB	VB	_	0	root	_	_
+3	!!!	_	PUNCT	.	_	2	punct	_	_
+		
+1	A	_	DET	DT	_	0	root	_	_
+2	+++	_	SYM	SYM	_	1	compound	_	_
+		
+1	THIS	_	DET	DT	_	2	det	_	_
+2	PLACE	_	NOUN	NN	_	5	nsubj	_	_
+3	IS	_	VERB	VBZ	_	5	cop	_	_
+4	THE	_	DET	DT	_	5	det	_	_
+5	BEST	_	ADJ	JJS	_	0	root	_	_
+6	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	HATED	_	VERB	VBD	_	0	root	_	_
+3	SUSHI	_	NOUN	NN	_	2	dobj	_	_
+4	BEFORE	_	ADV	RB	_	2	advmod	_	_
+5	BUT	_	CONJ	CC	_	2	cc	_	_
+6	NOW	_	ADV	RB	_	10	advmod	_	_
+7	I	_	PRON	PRP	_	10	nsubj	_	_
+8	CA	_	AUX	MD	_	10	aux	_	_
+9	NT	_	PART	RB	_	10	neg	_	_
+10	STOP	_	VERB	VB	_	2	conj	_	_
+11	EATTING	_	VERB	VBG	_	10	xcomp	_	_
+12	IT	_	PRON	PRP	_	11	dobj	_	_
+13	!!!!!!!	_	PUNCT	.	_	2	punct	_	_
+		
+1	NICE	_	ADJ	JJ	_	2	amod	_	_
+2	SERVICE	_	PROPN	NNP	_	0	root	_	_
+3	,	_	PUNCT	,	_	2	punct	_	_
+4	AND	_	CONJ	CC	_	2	cc	_	_
+5	EXCELLENT	_	ADJ	JJ	_	6	amod	_	_
+6	FOOD	_	NOUN	NN	_	2	conj	_	_
+7	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	EVERYTHING	_	NOUN	NN	_	4	nsubj	_	_
+2	IN	_	ADP	IN	_	3	case	_	_
+3	HERE	_	ADV	RB	_	1	nmod	_	_
+4	SEEMS	_	VERB	VBZ	_	0	root	_	_
+5	TO	_	PART	TO	_	6	aux	_	_
+6	AMAZE	_	VERB	VB	_	4	xcomp	_	_
+7	ME	_	PRON	PRP	_	6	dobj	_	_
+8	!!!	_	PUNCT	.	_	4	punct	_	_
+		
+1	THEIR	_	PRON	PRP$	_	3	nmod:poss	_	_
+2	GRILL	_	NOUN	NN	_	3	compound	_	_
+3	DISHES	_	NOUN	NNS	_	8	nsubj	_	_
+4	ARE	_	VERB	VBP	_	8	cop	_	_
+5	OUT	_	ADP	IN	_	8	mark	_	_
+6	TA	_	ADP	IN	_	8	mark	_	_
+7	THIS	_	DET	DT	_	8	det	_	_
+8	WORLD	_	NOUN	NN	_	0	root	_	_
+9	AND	_	CONJ	CC	_	8	cc	_	_
+10	SUSHI	_	NOUN	NN	_	13	nsubj	_	_
+11	IS	_	VERB	VBZ	_	13	cop	_	_
+12	JUST	_	ADV	RB	_	13	advmod	_	_
+13	FABULOUS	_	ADJ	JJ	_	8	conj	_	_
+14	!!!!	_	PUNCT	.	_	8	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	EAT	_	VERB	VBP	_	0	root	_	_
+3	HERE	_	ADV	RB	_	2	advmod	_	_
+4	AT	_	ADV	RB	_	5	case	_	_
+5	LEAST	_	ADV	RBS	_	6	nmod	_	_
+6	5	_	NUM	CD	_	7	nummod	_	_
+7	DAYS	_	NOUN	NNS	_	2	nmod:tmod	_	_
+8	A	_	DET	DT	_	9	det	_	_
+9	WEEK	_	NOUN	NN	_	7	nmod:npmod	_	_
+10	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	THEY	_	PRON	PRP	_	2	nsubj	_	_
+2	HAVE	_	VERB	VBP	_	0	root	_	_
+3	EXCELLENT	_	ADJ	JJ	_	7	amod	_	_
+4	SUSHI	_	NOUN	NN	_	5	compound	_	_
+5	CHEF	_	NOUN	NN	_	7	compound	_	_
+6	SPECIAL	_	ADJ	JJ	_	7	amod	_	_
+7	ROLLS	_	NOUN	NNS	_	2	dobj	_	_
+8	FOR	_	ADP	IN	_	11	case	_	_
+9	A	_	DET	DT	_	11	det	_	_
+10	FAIR	_	ADJ	JJ	_	11	amod	_	_
+11	PRICE	_	NOUN	NN	_	2	nmod	_	_
+12	AND	_	CONJ	CC	_	2	cc	_	_
+13	SO	_	ADV	RB	_	2	conj	_	_
+14	IS	_	VERB	VBZ	_	13	cop	_	_
+15	THE	_	DET	DT	_	17	det	_	_
+16	GRILL	_	NOUN	NN	_	17	compound	_	_
+17	ORDERS	_	NOUN	NNS	_	13	nsubj	_	_
+18	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	A	_	NOUN	NN	_	0	root	_	_
+2	++++	_	SYM	SYM	_	1	compound	_	_
+3	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	_	PUNCT	.	_	1	punct	_	_
+		
+1	JUNO	_	PROPN	NNP	_	5	vocative	_	_
+2	AND	_	CONJ	CC	_	1	cc	_	_
+3	OPEN	_	PROPN	NNP	_	1	conj	_	_
+4	I	_	PRON	PRP	_	5	nsubj	_	_
+5	LOVE	_	VERB	VBP	_	0	root	_	_
+6	YOU	_	PRON	PRP	_	5	dobj	_	_
+7	GUYS	_	PROPN	NNP	_	6	compound	_	_
+8	!!!!!!!!!!!!!!	_	PUNCT	.	_	5	punct	_	_
+		
+1	[	_	PUNCT	-LRB-	_	3	punct	_	_
+2	no	_	DET	DT	_	3	det	_	_
+3	homo	_	NOUN	NN	_	0	root	_	_
+4	]	_	PUNCT	-RRB-	_	3	punct	_	_
+5	:D	_	SYM	NFP	_	3	discourse	_	_
+		

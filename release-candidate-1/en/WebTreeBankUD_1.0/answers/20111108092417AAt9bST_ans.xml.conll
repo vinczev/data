@@ -1,0 +1,47 @@
+1	What	_	PRON	WP	_	0	root	_	_
+2	is	_	VERB	VBZ	_	1	cop	_	_
+3	the	_	DET	DT	_	6	det	_	_
+4	nearest	_	ADJ	JJS	_	6	amod	_	_
+5	National	_	PROPN	NNP	_	6	compound	_	_
+6	Park	_	PROPN	NNP	_	1	nsubj	_	_
+7	to	_	ADP	IN	_	8	case	_	_
+8	Birmingham	_	PROPN	NNP	_	6	nmod	_	_
+9	,	_	PUNCT	,	_	8	punct	_	_
+10	UK	_	PROPN	NNP	_	8	appos	_	_
+11	?	_	PUNCT	.	_	1	punct	_	_
+		
+1	The	_	DET	DT	_	3	det	_	_
+2	Peak	_	PROPN	NNP	_	3	compound	_	_
+3	District	_	PROPN	NNP	_	9	nsubj	_	_
+4	-LRB-	_	PUNCT	-LRB-	_	5	punct	_	_
+5	Derbyshire	_	PROPN	NNP	_	3	appos	_	_
+6	-RRB-	_	PUNCT	-RRB-	_	5	punct	_	_
+7	is	_	VERB	VBZ	_	9	cop	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	closest	_	ADJ	JJS	_	0	root	_	_
+10	.	_	PUNCT	.	_	9	punct	_	_
+		
+1	The	_	DET	DT	_	4	det	_	_
+2	South	_	PROPN	NNP	_	3	compound	_	_
+3	Shropshire	_	PROPN	NNP	_	4	compound	_	_
+4	Hills	_	PROPN	NNPS	_	7	nsubj	_	_
+5	are	_	VERB	VBP	_	7	cop	_	_
+6	far	_	ADV	RB	_	7	advmod	_	_
+7	closer	_	ADJ	JJR	_	0	root	_	_
+8	.	_	PUNCT	.	_	7	punct	_	_
+		
+1	They	_	PRON	PRP	_	6	nsubj	_	_
+2	are	_	VERB	VBP	_	6	cop	_	_
+3	not	_	PART	RB	_	6	neg	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	national	_	ADJ	JJ	_	6	amod	_	_
+6	park	_	NOUN	NN	_	0	root	_	_
+7	,	_	PUNCT	,	_	6	punct	_	_
+8	but	_	CONJ	CC	_	6	cc	_	_
+9	are	_	VERB	VBP	_	11	cop	_	_
+10	extremely	_	ADV	RB	_	11	advmod	_	_
+11	beautiful	_	ADJ	JJ	_	6	conj	_	_
+12	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	www.visitsouthshropshire.co.uk	_	X	ADD	_	0	root	_	_
+		

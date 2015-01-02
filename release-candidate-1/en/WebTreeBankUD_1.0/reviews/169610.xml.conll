@@ -1,0 +1,33 @@
+1	house	_	NOUN	NN	_	2	compound	_	_
+2	closing	_	NOUN	NN	_	0	root	_	_
+		
+1	Mrs.	_	PROPN	NNP	_	2	compound	_	_
+2	Tolchin	_	PROPN	NNP	_	3	nsubj	_	_
+3	provided	_	VERB	VBD	_	0	root	_	_
+4	us	_	PRON	PRP	_	3	dobj	_	_
+5	with	_	ADP	IN	_	7	case	_	_
+6	excellent	_	ADJ	JJ	_	7	amod	_	_
+7	service	_	NOUN	NN	_	3	nmod	_	_
+8	and	_	CONJ	CC	_	3	cc	_	_
+9	came	_	VERB	VBD	_	3	conj	_	_
+10	with	_	ADP	IN	_	13	case	_	_
+11	a	_	DET	DT	_	13	det	_	_
+12	great	_	ADJ	JJ	_	13	amod	_	_
+13	deal	_	NOUN	NN	_	9	nmod	_	_
+14	of	_	ADP	IN	_	15	case	_	_
+15	knowledge	_	NOUN	NN	_	13	nmod	_	_
+16	and	_	CONJ	CC	_	15	cc	_	_
+17	professionalism	_	NOUN	NN	_	15	conj	_	_
+18	!	_	PUNCT	.	_	3	punct	_	_
+		
+1	Her	_	PRON	PRP$	_	2	nmod:poss	_	_
+2	flexibility	_	NOUN	NN	_	5	nsubj	_	_
+3	and	_	CONJ	CC	_	2	cc	_	_
+4	accessibility	_	NOUN	NN	_	2	conj	_	_
+5	made	_	VERB	VBD	_	0	root	_	_
+6	for	_	ADP	IN	_	9	case	_	_
+7	an	_	DET	DT	_	9	det	_	_
+8	easy	_	ADJ	JJ	_	9	amod	_	_
+9	closing	_	NOUN	NN	_	5	nmod	_	_
+10	.	_	PUNCT	.	_	5	punct	_	_
+		

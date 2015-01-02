@@ -1,0 +1,47 @@
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	took	_	VERB	VBD	_	0	root	_	_
+3	a	_	DET	DT	_	4	det	_	_
+4	tip	_	NOUN	NN	_	2	dobj	_	_
+5	from	_	ADP	IN	_	6	case	_	_
+6	Carri	_	PROPN	NNP	_	2	nmod	_	_
+7	and	_	CONJ	CC	_	2	cc	_	_
+8	looked	_	VERB	VBD	_	2	conj	_	_
+9	up	_	ADP	RP	_	8	compound:prt	_	_
+10	Rat	_	NOUN	NN	_	11	compound	_	_
+11	ASCII's	_	NOUN	NNS	_	8	dobj	_	_
+12	on	_	ADP	IN	_	13	case	_	_
+13	Google	_	PROPN	NNP	_	8	nmod	_	_
+14	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Check	_	VERB	VB	_	0	root	_	_
+2	these	_	DET	DT	_	1	dobj	_	_
+3	out	_	ADP	RP	_	1	compound:prt	_	_
+4	:	_	PUNCT	:	_	1	punct	_	_
+		
+1	"	_	PUNCT	``	_	4	punct	_	_
+2	...	_	PUNCT	,	_	4	punct	_	_
+3	there	_	DET	EX	_	4	expl	_	_
+4	is	_	VERB	VBZ	_	0	root	_	_
+5	no	_	DET	DT	_	6	det	_	_
+6	companion	_	NOUN	NN	_	4	nsubj	_	_
+7	quite	_	ADV	RB	_	9	advmod	_	_
+8	so	_	ADV	RB	_	9	advmod	_	_
+9	devoted	_	ADJ	JJ	_	6	amod	_	_
+10	,	_	PUNCT	,	_	9	punct	_	_
+11	so	_	ADV	RB	_	12	advmod	_	_
+12	communicative	_	ADJ	JJ	_	9	conj	_	_
+13	,	_	PUNCT	,	_	9	punct	_	_
+14	so	_	ADV	RB	_	15	advmod	_	_
+15	loving	_	ADJ	JJ	_	9	conj	_	_
+16	and	_	CONJ	CC	_	9	cc	_	_
+17	so	_	ADV	RB	_	18	advmod	_	_
+18	mesmerizing	_	ADJ	JJ	_	9	conj	_	_
+19	as	_	ADP	IN	_	21	case	_	_
+20	a	_	DET	DT	_	21	det	_	_
+21	rat	_	NOUN	NN	_	9	nmod	_	_
+22	.	_	PUNCT	.	_	4	punct	_	_
+23	"	_	PUNCT	''	_	4	punct	_	_
+		
+1	~	_	PUNCT	NFP	_	2	punct	_	_
+2	CGoehring	_	PROPN	NNP	_	0	root	_	_
+		

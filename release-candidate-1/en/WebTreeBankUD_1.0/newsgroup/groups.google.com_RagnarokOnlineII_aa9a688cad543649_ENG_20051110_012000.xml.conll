@@ -1,0 +1,34 @@
+1	Email	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	1	punct	_	_
+3	franz371...@gmail.com	_	X	ADD	_	1	appos	_	_
+		
+1	Site	_	NOUN	NN	_	2	nsubj	_	_
+2	made	_	VERB	VBN	_	0	root	_	_
+3	!	_	PUNCT	.	_	2	punct	_	_
+		
+1	and	_	CONJ	CC	_	3	cc	_	_
+2	it	_	PRON	PRP	_	3	expl	_	_
+3	seems	_	VERB	VBZ	_	0	root	_	_
+4	this	_	DET	DT	_	8	nsubj	_	_
+5	is	_	VERB	VBZ	_	8	cop	_	_
+6	the	_	DET	DT	_	8	det	_	_
+7	FIRST	_	ADJ	JJ	_	8	amod	_	_
+8	site	_	NOUN	NN	_	3	csubj	_	_
+9	of	_	ADP	IN	_	11	case	_	_
+10	ragnarok	_	PROPN	NNP	_	11	compound	_	_
+11	2	_	PROPN	NNP	_	8	nmod	_	_
+12	hahaha	_	INTJ	UH	_	3	discourse	_	_
+13	since	_	SCONJ	IN	_	17	mark	_	_
+14	the	_	DET	DT	_	15	det	_	_
+15	site	_	NOUN	NN	_	17	nsubj	_	_
+16	is	_	VERB	VBZ	_	17	cop	_	_
+17	new	_	ADJ	JJ	_	18	advcl	_	_
+18	send	_	VERB	VB	_	3	parataxis	_	_
+19	me	_	PRON	PRP	_	18	iobj	_	_
+20	your	_	PRON	PRP$	_	21	nmod:poss	_	_
+21	suggestions	_	NOUN	NNS	_	18	dobj	_	_
+22	and	_	CONJ	CC	_	21	cc	_	_
+23	comments	_	NOUN	NNS	_	21	conj	_	_
+		
+1	Reply	_	VERB	VB	_	0	root	_	_
+		

@@ -1,0 +1,44 @@
+1	Out	_	ADP	IN	_	3	case	_	_
+2	of	_	ADP	IN	_	3	case	_	_
+3	business	_	NOUN	NN	_	0	root	_	_
+4	?	_	PUNCT	.	_	3	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	think	_	VERB	VBP	_	0	root	_	_
+3	this	_	DET	DT	_	4	det	_	_
+4	location	_	NOUN	NN	_	7	nsubj	_	_
+5	is	_	VERB	VBZ	_	7	cop	_	_
+6	no	_	ADV	RB	_	7	neg	_	_
+7	longer	_	ADV	RBR	_	2	ccomp	_	_
+8	in	_	ADP	IN	_	9	case	_	_
+9	business	_	NOUN	NN	_	7	nmod	_	_
+10	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	If	_	SCONJ	IN	_	3	mark	_	_
+2	you	_	PRON	PRP	_	3	nsubj	_	_
+3	check	_	VERB	VBP	_	9	advcl	_	_
+4	RecWarehouse.com	_	X	ADD	_	3	dobj	_	_
+5	,	_	PUNCT	,	_	9	punct	_	_
+6	they	_	PRON	PRP	_	9	nsubj	_	_
+7	do	_	AUX	VBP	_	9	aux	_	_
+8	n't	_	PART	RB	_	9	neg	_	_
+9	list	_	VERB	VB	_	0	root	_	_
+10	this	_	DET	DT	_	9	dobj	_	_
+11	as	_	ADP	IN	_	13	case	_	_
+12	a	_	DET	DT	_	13	det	_	_
+13	location	_	NOUN	NN	_	9	nmod	_	_
+14	.	_	PUNCT	.	_	9	punct	_	_
+		
+1	You	_	PRON	PRP	_	3	nsubj	_	_
+2	'll	_	AUX	MD	_	3	aux	_	_
+3	have	_	VERB	VB	_	0	root	_	_
+4	to	_	PART	TO	_	5	aux	_	_
+5	drive	_	VERB	VB	_	3	xcomp	_	_
+6	10	_	NUM	CD	_	7	nummod	_	_
+7	miles	_	NOUN	NNS	_	9	nmod:npmod	_	_
+8	down	_	ADP	IN	_	9	case	_	_
+9	75	_	NUM	CD	_	5	nmod	_	_
+10	to	_	ADP	IN	_	11	case	_	_
+11	Allen	_	PROPN	NNP	_	5	nmod	_	_
+12	.	_	PUNCT	.	_	3	punct	_	_
+		

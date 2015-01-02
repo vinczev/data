@@ -1,0 +1,27 @@
+1	$	_	SYM	$	_	0	root	_	_
+2	9.62	_	NUM	CD	_	1	nummod	_	_
+3	excluding	_	VERB	VBG	_	4	case	_	_
+4	tip	_	NOUN	NN	_	1	nmod	_	_
+5	with	_	ADP	IN	_	6	case	_	_
+6	water	_	NOUN	NN	_	1	nmod	_	_
+7	to	_	PART	TO	_	8	aux	_	_
+8	drink	_	VERB	VB	_	6	acl	_	_
+9	for	_	ADP	IN	_	11	case	_	_
+10	the	_	DET	DT	_	11	det	_	_
+11	buffet	_	NOUN	NN	_	1	nmod	_	_
+12	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Worst	_	ADJ	JJS	_	3	amod	_	_
+2	buffet	_	NOUN	NN	_	3	compound	_	_
+3	period	_	NOUN	NN	_	0	root	_	_
+4	by	_	ADP	IN	_	5	case	_	_
+5	far	_	ADV	RB	_	3	nmod	_	_
+6	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	want	_	VERB	VBP	_	0	root	_	_
+3	my	_	PRON	PRP$	_	4	nmod:poss	_	_
+4	money	_	NOUN	NN	_	2	dobj	_	_
+5	back	_	ADV	RB	_	2	advmod	_	_
+6	!	_	PUNCT	.	_	2	punct	_	_
+		

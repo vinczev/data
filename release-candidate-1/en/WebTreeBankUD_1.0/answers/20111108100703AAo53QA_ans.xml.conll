@@ -1,0 +1,92 @@
+1	Studying	_	VERB	VBG	_	0	root	_	_
+2	in	_	ADP	IN	_	3	case	_	_
+3	Quebec	_	PROPN	NNP	_	1	nmod	_	_
+4	,	_	PUNCT	,	_	3	punct	_	_
+5	Canada	_	PROPN	NNP	_	3	appos	_	_
+6	?	_	PUNCT	.	_	1	punct	_	_
+		
+1	If	_	SCONJ	IN	_	3	mark	_	_
+2	I	_	PRON	PRP	_	3	nsubj	_	_
+3	went	_	VERB	VBD	_	0	root	_	_
+4	into	_	ADP	IN	_	9	case	_	_
+5	the	_	DET	DT	_	9	det	_	_
+6	"	_	PUNCT	``	_	7	punct	_	_
+7	pre-university	_	ADJ	JJ	_	9	amod	_	_
+8	"	_	PUNCT	''	_	7	punct	_	_
+9	direction	_	NOUN	NN	_	3	nmod	_	_
+10	with	_	SCONJ	IN	_	14	mark	_	_
+11	business	_	NOUN	NN	_	12	compound	_	_
+12	administration	_	NOUN	NN	_	14	nsubj	_	_
+13	in	_	ADP	IN	_	14	case	_	_
+14	mind	_	NOUN	NN	_	3	advcl	_	_
+15	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Say	_	VERB	VB	_	0	root	_	_
+2	after	_	SCONJ	IN	_	4	mark	_	_
+3	I	_	PRON	PRP	_	4	nsubj	_	_
+4	finished	_	VERB	VBD	_	1	ccomp	_	_
+5	those	_	DET	DT	_	7	det	_	_
+6	2	_	NUM	CD	_	7	nummod	_	_
+7	years	_	NOUN	NNS	_	4	dobj	_	_
+8	and	_	CONJ	CC	_	4	cc	_	_
+9	I	_	PRON	PRP	_	10	nsubj	_	_
+10	found	_	VERB	VBD	_	4	conj	_	_
+11	a	_	DET	DT	_	12	det	_	_
+12	job	_	NOUN	NN	_	10	dobj	_	_
+13	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	would	_	AUX	MD	_	4	aux	_	_
+2	I	_	PRON	PRP	_	4	nsubj	_	_
+3	be	_	VERB	VB	_	4	cop	_	_
+4	able	_	ADJ	JJ	_	0	root	_	_
+5	to	_	PART	TO	_	6	aux	_	_
+6	go	_	VERB	VB	_	4	xcomp	_	_
+7	back	_	ADV	RB	_	6	advmod	_	_
+8	to	_	ADP	IN	_	9	case	_	_
+9	school	_	NOUN	NN	_	7	nmod	_	_
+10	after	_	ADP	IN	_	13	case	_	_
+11	a	_	DET	DT	_	13	det	_	_
+12	year	_	NOUN	NN	_	13	compound	_	_
+13	break	_	NOUN	NN	_	6	nmod	_	_
+14	at	_	ADP	IN	_	16	case	_	_
+15	a	_	DET	DT	_	16	det	_	_
+16	university	_	NOUN	NN	_	13	nmod	_	_
+17	to	_	PART	TO	_	18	aux	_	_
+18	get	_	VERB	VB	_	6	advcl	_	_
+19	a	_	DET	DT	_	22	det	_	_
+20	Bachelor	_	PROPN	NNP	_	22	nmod:poss	_	_
+21	s	_	PART	POS	_	20	case	_	_
+22	degree	_	NOUN	NN	_	18	dobj	_	_
+23	in	_	ADP	IN	_	25	case	_	_
+24	business	_	NOUN	NN	_	25	compound	_	_
+25	administration	_	NOUN	NN	_	22	nmod	_	_
+26	?	_	PUNCT	.	_	4	punct	_	_
+		
+1	Any	_	DET	DT	_	2	det	_	_
+2	information	_	NOUN	NN	_	4	nsubj	_	_
+3	would	_	AUX	MD	_	4	aux	_	_
+4	help	_	VERB	VB	_	0	root	_	_
+5	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	Thank	_	VERB	VBP	_	0	root	_	_
+2	you	_	PRON	PRP	_	1	dobj	_	_
+		
+1	You	_	PRON	PRP	_	4	nsubj	_	_
+2	should	_	AUX	MD	_	4	aux	_	_
+3	be	_	VERB	VB	_	4	cop	_	_
+4	able	_	ADJ	JJ	_	0	root	_	_
+5	to	_	PART	TO	_	4	xcomp	_	_
+6	no	_	DET	DT	_	7	det	_	_
+7	problem	_	NOUN	NN	_	4	nmod:npmod	_	_
+8	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	Universities	_	NOUN	NNS	_	3	nsubj	_	_
+2	will	_	AUX	MD	_	3	aux	_	_
+3	take	_	VERB	VB	_	0	root	_	_
+4	you	_	PRON	PRP	_	3	dobj	_	_
+5	whatever	_	DET	WDT	_	6	det	_	_
+6	age	_	NOUN	NN	_	3	nmod:npmod	_	_
+7	you	_	PRON	PRP	_	8	nsubj	_	_
+8	are	_	VERB	VBP	_	6	acl:relcl	_	_
+9	.	_	PUNCT	.	_	3	punct	_	_
+		

@@ -1,0 +1,35 @@
+1	Best	_	ADJ	JJS	_	2	amod	_	_
+2	Pizzas	_	NOUN	NNS	_	0	root	_	_
+3	and	_	CONJ	CC	_	2	cc	_	_
+4	Calzones	_	NOUN	NNS	_	2	conj	_	_
+5	in	_	ADP	IN	_	7	case	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	City	_	NOUN	NN	_	2	nmod	_	_
+8	!	_	PUNCT	.	_	2	punct	_	_
+		
+1	What	_	DET	WDT	_	4	det	_	_
+2	a	_	DET	DT	_	4	det	_	_
+3	hidden	_	ADJ	JJ	_	4	amod	_	_
+4	gem	_	NOUN	NN	_	0	root	_	_
+5	!	_	PUNCT	.	_	4	punct	_	_
+		
+1	The	_	DET	DT	_	2	det	_	_
+2	food	_	NOUN	NN	_	4	nsubj	_	_
+3	is	_	VERB	VBZ	_	4	cop	_	_
+4	superb	_	ADJ	JJ	_	0	root	_	_
+5	and	_	CONJ	CC	_	4	cc	_	_
+6	they	_	PRON	PRP	_	8	nsubjpass	_	_
+7	were	_	AUX	VBD	_	8	auxpass	_	_
+8	delivered	_	VERB	VBN	_	4	conj	_	_
+9	nice	_	ADJ	JJ	_	7	acl	_	_
+10	and	_	CONJ	CC	_	9	cc	_	_
+11	hot	_	ADJ	JJ	_	9	conj	_	_
+12	!	_	PUNCT	.	_	4	punct	_	_
+		
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	highly	_	ADV	RB	_	3	advmod	_	_
+3	recommend	_	VERB	VBP	_	0	root	_	_
+4	this	_	DET	DT	_	5	det	_	_
+5	place	_	NOUN	NN	_	3	dobj	_	_
+6	!	_	PUNCT	.	_	3	punct	_	_
+		

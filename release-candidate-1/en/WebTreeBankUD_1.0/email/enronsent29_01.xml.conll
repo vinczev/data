@@ -1,0 +1,730 @@
+1	"	_	PUNCT	``	_	4	punct	_	_
+2	McGilloway	_	PROPN	NNP	_	4	compound	_	_
+3	,	_	PUNCT	,	_	4	punct	_	_
+4	Vangie	_	PROPN	NNP	_	0	root	_	_
+5	"	_	PUNCT	''	_	4	punct	_	_
+6	<	_	PUNCT	-LRB-	_	7	punct	_	_
+7	Vangie.McGilloway@powersrc.com	_	X	ADD	_	4	list	_	_
+8	>	_	PUNCT	-RRB-	_	7	punct	_	_
+		
+1	03/23/2001	_	NUM	CD	_	0	root	_	_
+2	10:13	_	NUM	CD	_	3	nummod	_	_
+3	AM	_	NOUN	NN	_	1	nmod:tmod	_	_
+		
+1	Good	_	ADJ	JJ	_	2	amod	_	_
+2	Morning	_	NOUN	NN	_	0	root	_	_
+3	Debra	_	PROPN	NNP	_	2	vocative	_	_
+4	-	_	PUNCT	,	_	1	punct	_	_
+		
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	have	_	AUX	VBP	_	3	aux	_	_
+3	attached	_	VERB	VBN	_	0	root	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	revised	_	VERB	VBN	_	6	amod	_	_
+6	copy	_	NOUN	NN	_	3	dobj	_	_
+7	of	_	ADP	IN	_	10	case	_	_
+8	the	_	DET	DT	_	10	det	_	_
+9	GISB	_	NOUN	NN	_	10	compound	_	_
+10	Agreement	_	NOUN	NN	_	6	nmod	_	_
+11	and	_	CONJ	CC	_	10	cc	_	_
+12	Special	_	ADJ	JJ	_	13	amod	_	_
+13	Provisions	_	NOUN	NNS	_	10	conj	_	_
+14	for	_	ADP	IN	_	16	case	_	_
+15	your	_	PRON	PRP$	_	16	nmod:poss	_	_
+16	review	_	NOUN	NN	_	3	nmod	_	_
+17	and	_	CONJ	CC	_	16	cc	_	_
+18	consideration	_	NOUN	NN	_	16	conj	_	_
+19	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	anticipate	_	AUX	VBP	_	0	root	_	_
+3	completing	_	VERB	VBG	_	2	xcomp	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	review	_	NOUN	NN	_	3	dobj	_	_
+6	of	_	ADP	IN	_	10	case	_	_
+7	the	_	DET	DT	_	10	det	_	_
+8	Master	_	NOUN	NN	_	9	compound	_	_
+9	Agreement	_	NOUN	NN	_	10	compound	_	_
+10	form	_	NOUN	NN	_	5	nmod	_	_
+11	and	_	CONJ	CC	_	3	cc	_	_
+12	submitting	_	VERB	VBG	_	3	conj	_	_
+13	comments	_	NOUN	NNS	_	12	dobj	_	_
+14	to	_	ADP	IN	_	15	case	_	_
+15	you	_	PRON	PRP	_	12	nmod	_	_
+16	by	_	ADP	IN	_	17	case	_	_
+17	Monday	_	PROPN	NNP	_	12	nmod	_	_
+18	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	In	_	ADP	IN	_	2	case	_	_
+2	addition	_	NOUN	NN	_	5	nmod	_	_
+3	,	_	PUNCT	,	_	5	punct	_	_
+4	I	_	PRON	PRP	_	5	nsubj	_	_
+5	received	_	VERB	VBD	_	0	root	_	_
+6	feedback	_	NOUN	NN	_	5	dobj	_	_
+7	from	_	ADP	IN	_	10	case	_	_
+8	our	_	PRON	PRP$	_	10	nmod:poss	_	_
+9	Gas	_	NOUN	NN	_	10	compound	_	_
+10	Desk	_	NOUN	NN	_	5	nmod	_	_
+11	that	_	SCONJ	IN	_	24	mark	_	_
+12	the	_	DET	DT	_	13	det	_	_
+13	access	_	NOUN	NN	_	24	nsubjpass	_	_
+14	to	_	ADP	IN	_	17	case	_	_
+15	the	_	DET	DT	_	17	det	_	_
+16	Gas	_	NOUN	NN	_	17	compound	_	_
+17	segment	_	NOUN	NN	_	13	nmod	_	_
+18	of	_	ADP	IN	_	19	case	_	_
+19	Enron	_	PROPN	NNP	_	17	nmod	_	_
+20	On	_	ADP	IN	_	22	case	_	_
+21	-	_	PUNCT	HYPH	_	22	punct	_	_
+22	Line	_	PROPN	NNP	_	19	nmod	_	_
+23	was	_	AUX	VBD	_	24	auxpass	_	_
+24	cut	_	VERB	VBN	_	5	parataxis	_	_
+25	off	_	ADP	RP	_	24	compound:prt	_	_
+26	to	_	ADP	IN	_	27	case	_	_
+27	CPS	_	NOUN	NN	_	24	nmod	_	_
+28	---	_	PUNCT	,	_	5	punct	_	_
+29	do	_	AUX	VBP	_	31	aux	_	_
+30	you	_	PRON	PRP	_	31	nsubj	_	_
+31	know	_	VERB	VB	_	5	parataxis	_	_
+32	who	_	PRON	WP	_	34	nsubj	_	_
+33	would	_	AUX	MD	_	34	aux	_	_
+34	handle	_	VERB	VB	_	31	ccomp	_	_
+35	this	_	DET	DT	_	34	dobj	_	_
+36	at	_	ADP	IN	_	37	case	_	_
+37	Enron	_	PROPN	NNP	_	34	nmod	_	_
+38	that	_	DET	WDT	_	41	nmod	_	_
+39	we	_	PRON	PRP	_	41	nsubj	_	_
+40	can	_	AUX	MD	_	41	aux	_	_
+41	speak	_	VERB	VB	_	34	acl:relcl	_	_
+42	to	_	ADP	IN	_	38	case	_	_
+43	?	_	PUNCT	.	_	5	punct	_	_
+		
+1	Greatly	_	ADV	RB	_	2	advmod	_	_
+2	appreciate	_	VERB	VBP	_	0	root	_	_
+3	your	_	PRON	PRP$	_	5	nmod:poss	_	_
+4	prompt	_	ADJ	JJ	_	5	amod	_	_
+5	feedback	_	NOUN	NN	_	2	dobj	_	_
+6	to	_	ADP	IN	_	8	case	_	_
+7	this	_	DET	DT	_	8	det	_	_
+8	inquiry	_	NOUN	NN	_	5	nmod	_	_
+9	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	look	_	VERB	VBP	_	0	root	_	_
+3	forward	_	ADV	RB	_	2	advmod	_	_
+4	to	_	ADP	IN	_	6	case	_	_
+5	your	_	PRON	PRP$	_	6	nmod:poss	_	_
+6	feedback	_	NOUN	NN	_	2	nmod	_	_
+7	on	_	ADP	IN	_	9	case	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	GISB	_	NOUN	NN	_	6	nmod	_	_
+10	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Regards	_	NOUN	NNS	_	0	root	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+		
+1	Vangie	_	PROPN	NNP	_	2	compound	_	_
+2	McGilloway	_	PROPN	NNP	_	0	root	_	_
+3	Constellation	_	PROPN	NNP	_	7	compound	_	_
+4	Power	_	PROPN	NNP	_	7	compound	_	_
+5	Source	_	PROPN	NNP	_	7	compound	_	_
+6	,	_	PUNCT	,	_	7	punct	_	_
+7	Inc.	_	PROPN	NNP	_	2	list	_	_
+8	-LRB-	_	PUNCT	-LRB-	_	10	punct	_	_
+9	"	_	PUNCT	``	_	10	punct	_	_
+10	CPS	_	PROPN	NNP	_	7	appos	_	_
+11	"	_	PUNCT	''	_	10	punct	_	_
+12	-RRB-	_	PUNCT	-RRB-	_	10	punct	_	_
+13	111	_	NUM	CD	_	15	nummod	_	_
+14	Market	_	PROPN	NNP	_	15	compound	_	_
+15	Place	_	PROPN	NNP	_	2	list	_	_
+16	Ste	_	NOUN	NN	_	2	dep	_	_
+17	500	_	NUM	CD	_	16	nummod	_	_
+18	Baltimore	_	PROPN	NNP	_	16	appos	_	_
+19	,	_	PUNCT	,	_	18	punct	_	_
+20	MD	_	PROPN	NNP	_	18	appos	_	_
+21	21202	_	NUM	CD	_	16	appos	_	_
+22	Phone	_	NOUN	NN	_	2	list	_	_
+23	410-468-3798	_	NUM	CD	_	22	appos	_	_
+24	Fax	_	NOUN	NN	_	2	list	_	_
+25	410-468-3499	_	NUM	CD	_	24	appos	_	_
+26	Email	_	NOUN	NN	_	2	list	_	_
+27	vangie.mcgilloway@powersrc.com	_	X	ADD	_	26	appos	_	_
+		
+1	PS	_	NOUN	NN	_	0	root	_	_
+2	-	_	PUNCT	,	_	1	punct	_	_
+3	Were	_	AUX	VBD	_	5	aux	_	_
+4	you	_	PRON	PRP	_	5	nsubj	_	_
+5	having	_	VERB	VBG	_	1	dep	_	_
+6	phone	_	NOUN	NN	_	7	compound	_	_
+7	system	_	NOUN	NN	_	8	compound	_	_
+8	problems	_	NOUN	NNS	_	5	dobj	_	_
+9	this	_	DET	DT	_	10	det	_	_
+10	morning	_	NOUN	NN	_	5	nmod:tmod	_	_
+11	?	_	PUNCT	.	_	1	punct	_	_
+		
+1	Myself	_	PRON	PRP	_	5	nsubj	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	Credit	_	NOUN	NN	_	1	conj	_	_
+4	were	_	AUX	VBD	_	5	aux	_	_
+5	calling	_	VERB	VBG	_	0	root	_	_
+6	in	_	ADV	RB	_	5	advmod	_	_
+7	and	_	CONJ	CC	_	5	cc	_	_
+8	none	_	NOUN	NN	_	12	nsubj	_	_
+9	of	_	ADP	IN	_	11	case	_	_
+10	the	_	DET	DT	_	11	det	_	_
+11	calls	_	NOUN	NNS	_	8	nmod	_	_
+12	rolled	_	VERB	VBD	_	5	conj	_	_
+13	into	_	ADP	IN	_	15	case	_	_
+14	voice	_	NOUN	NN	_	15	compound	_	_
+15	mail	_	NOUN	NN	_	12	nmod	_	_
+16	-LRB-	_	PUNCT	-LRB-	_	5	punct	_	_
+17	?	_	PUNCT	.	_	5	punct	_	_
+18	-RRB-	_	PUNCT	-RRB-	_	5	punct	_	_
+19	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	Further	_	ADV	RB	_	7	advmod	_	_
+2	to	_	ADP	IN	_	4	case	_	_
+3	our	_	PRON	PRP$	_	4	nmod:poss	_	_
+4	conversation	_	NOUN	NN	_	1	nmod	_	_
+5	,	_	PUNCT	,	_	7	punct	_	_
+6	please	_	INTJ	UH	_	7	discourse	_	_
+7	see	_	VERB	VB	_	0	root	_	_
+8	attached	_	VERB	VBN	_	10	amod	_	_
+9	sample	_	NOUN	NN	_	10	compound	_	_
+10	agreements	_	NOUN	NNS	_	7	dobj	_	_
+11	.	_	PUNCT	.	_	7	punct	_	_
+		
+1	Upon	_	ADP	IN	_	3	case	_	_
+2	your	_	PRON	PRP$	_	3	nmod:poss	_	_
+3	review	_	NOUN	NN	_	6	nmod	_	_
+4	,	_	PUNCT	,	_	6	punct	_	_
+5	please	_	INTJ	UH	_	6	discourse	_	_
+6	give	_	VERB	VB	_	0	root	_	_
+7	me	_	PRON	PRP	_	6	iobj	_	_
+8	a	_	DET	DT	_	9	det	_	_
+9	call	_	NOUN	NN	_	6	dobj	_	_
+10	to	_	PART	TO	_	11	aux	_	_
+11	discuss	_	VERB	VB	_	6	xcomp	_	_
+12	any	_	DET	DT	_	13	det	_	_
+13	questionsand	_	NOUN	NNS	_	11	dobj	_	_
+14	or	_	CONJ	CC	_	13	cc	_	_
+15	issues	_	NOUN	NNS	_	13	conj	_	_
+16	you	_	PRON	PRP	_	18	nsubj	_	_
+17	may	_	AUX	MD	_	18	aux	_	_
+18	have	_	VERB	VB	_	13	acl:relcl	_	_
+19	regarding	_	VERB	VBG	_	21	case	_	_
+20	this	_	DET	DT	_	21	det	_	_
+21	matter	_	NOUN	NN	_	13	nmod	_	_
+22	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	-LRB-	_	PUNCT	-LRB-	_	2	punct	_	_
+2	See	_	VERB	VB	_	0	root	_	_
+3	attached	_	ADJ	JJ	_	4	amod	_	_
+4	file	_	NOUN	NN	_	2	dobj	_	_
+5	:	_	PUNCT	:	_	4	punct	_	_
+6	Constellation	_	X	GW	_	12	goeswith	_	_
+7	Power	_	X	GW	_	12	goeswith	_	_
+8	-LRB-	_	X	GW	_	12	goeswith	_	_
+9	GISB	_	X	GW	_	12	goeswith	_	_
+10	draft	_	X	GW	_	12	goeswith	_	_
+11	-RRB-	_	X	GW	_	12	goeswith	_	_
+12	.doc	_	NOUN	NN	_	4	appos	_	_
+13	-RRB-	_	PUNCT	-RRB-	_	2	punct	_	_
+14	-LRB-	_	PUNCT	-LRB-	_	15	punct	_	_
+15	See	_	VERB	VB	_	2	parataxis	_	_
+16	attached	_	VERB	VBN	_	17	amod	_	_
+17	file	_	NOUN	NN	_	15	dobj	_	_
+18	:	_	PUNCT	:	_	17	punct	_	_
+19	Sam3102.doc	_	NOUN	NN	_	17	appos	_	_
+20	-RRB-	_	PUNCT	-RRB-	_	15	punct	_	_
+		
+1	Regards	_	NOUN	NNS	_	0	root	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+		
+1	Debra	_	PROPN	NNP	_	2	compound	_	_
+2	Perlingiere	_	PROPN	NNP	_	0	root	_	_
+		
+1	-	_	PUNCT	NFP	_	7	punct	_	_
+2	ENRON-CPS	_	X	GW	_	7	goeswith	_	_
+3	-LRB-	_	X	GW	_	7	goeswith	_	_
+4	GISB	_	X	GW	_	7	goeswith	_	_
+5	rev1	_	X	GW	_	7	goeswith	_	_
+6	-RRB-	_	X	GW	_	7	goeswith	_	_
+7	.doc	_	NOUN	NN	_	0	root	_	_
+		
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	have	_	AUX	VBP	_	3	aux	_	_
+3	sent	_	VERB	VBN	_	0	root	_	_
+4	your	_	PRON	PRP$	_	5	nmod:poss	_	_
+5	question	_	NOUN	NN	_	3	dobj	_	_
+6	re	_	ADP	IN	_	9	case	_	_
+7	on	_	ADP	IN	_	8	case	_	_
+8	line	_	NOUN	NN	_	9	compound	_	_
+9	trading	_	NOUN	NN	_	5	nmod	_	_
+10	to	_	ADP	IN	_	12	case	_	_
+11	that	_	DET	DT	_	12	det	_	_
+12	area	_	NOUN	NN	_	3	nmod	_	_
+13	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	They	_	PRON	PRP	_	3	nsubj	_	_
+2	will	_	AUX	MD	_	3	aux	_	_
+3	contact	_	VERB	VB	_	0	root	_	_
+4	you	_	PRON	PRP	_	3	dobj	_	_
+5	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	I	_	PRON	PRP	_	5	nsubj	_	_
+2	am	_	VERB	VBP	_	5	cop	_	_
+3	in	_	ADP	IN	_	5	mark	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	process	_	NOUN	NN	_	0	root	_	_
+6	of	_	ADP	IN	_	7	mark	_	_
+7	reviewing	_	VERB	VBG	_	5	advcl	_	_
+8	your	_	PRON	PRP$	_	10	nmod:poss	_	_
+9	special	_	ADJ	JJ	_	10	amod	_	_
+10	provisions	_	NOUN	NNS	_	7	dobj	_	_
+11	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	Best	_	ADJ	JJS	_	2	amod	_	_
+2	regards	_	NOUN	NNS	_	0	root	_	_
+3	,	_	PUNCT	,	_	2	punct	_	_
+		
+1	Debra	_	PROPN	NNP	_	2	compound	_	_
+2	Perlingiere	_	PROPN	NNP	_	0	root	_	_
+		
+1	Jackie	_	PROPN	NNP	_	2	compound	_	_
+2	Taylor	_	PROPN	NNP	_	0	root	_	_
+3	-	_	PUNCT	,	_	2	punct	_	_
+4	she	_	PRON	PRP	_	6	nsubjpass	_	_
+5	is	_	AUX	VBZ	_	6	auxpass	_	_
+6	located	_	VERB	VBN	_	2	parataxis	_	_
+7	at	_	ADP	IN	_	10	case	_	_
+8	Court	_	PROPN	NNP	_	9	compound	_	_
+9	House	_	PROPN	NNP	_	10	compound	_	_
+10	Concessionaire	_	PROPN	NNP	_	6	nmod	_	_
+11	and	_	CONJ	CC	_	10	cc	_	_
+12	under	_	ADP	IN	_	14	case	_	_
+13	her	_	PRON	PRP$	_	14	nmod:poss	_	_
+14	name	_	NOUN	NN	_	10	conj	_	_
+15	in	_	ADP	IN	_	17	case	_	_
+16	the	_	DET	DT	_	17	det	_	_
+17	directory	_	NOUN	NN	_	14	nmod	_	_
+18	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Debra	_	PROPN	NNP	_	2	compound	_	_
+2	Perlingiere	_	PROPN	NNP	_	0	root	_	_
+		
+1	Please	_	INTJ	UH	_	2	discourse	_	_
+2	clarify	_	VERB	VB	_	0	root	_	_
+3	"	_	PUNCT	``	_	4	punct	_	_
+4	all	_	NOUN	NN	_	2	dobj	_	_
+5	"	_	PUNCT	''	_	4	punct	_	_
+6	do	_	AUX	VBP	_	8	aux	_	_
+7	you	_	PRON	PRP	_	8	nsubj	_	_
+8	intend	_	VERB	VB	_	2	parataxis	_	_
+9	10MM	_	NOUN	NN	_	8	dobj	_	_
+10	for	_	ADP	IN	_	11	case	_	_
+11	ENA	_	PROPN	NNP	_	8	nmod	_	_
+12	as	_	ADV	RB	_	8	advmod	_	_
+13	well	_	ADV	RB	_	12	mwe	_	_
+14	?	_	PUNCT	.	_	2	punct	_	_
+		
+1	Thx	_	NOUN	NN	_	0	root	_	_
+		
+1	dp	_	PROPN	NNP	_	0	root	_	_
+		
+1	Debra	_	PROPN	NNP	_	2	compound	_	_
+2	Perlingiere	_	PROPN	NNP	_	0	root	_	_
+		
+1	Revised	_	VERB	VBN	_	2	amod	_	_
+2	Article	_	NOUN	NN	_	0	root	_	_
+3	4.6	_	NUM	CD	_	2	nummod	_	_
+		
+1	Debra	_	PROPN	NNP	_	2	compound	_	_
+2	Perlingiere	_	PROPN	NNP	_	0	root	_	_
+		
+1	The	_	DET	DT	_	3	det	_	_
+2	only	_	ADJ	JJ	_	3	amod	_	_
+3	agreement	_	NOUN	NN	_	11	nsubj	_	_
+4	I	_	PRON	PRP	_	6	nsubj	_	_
+5	can	_	AUX	MD	_	6	aux	_	_
+6	find	_	VERB	VB	_	3	acl:relcl	_	_
+7	is	_	VERB	VBZ	_	11	cop	_	_
+8	a	_	DET	DT	_	11	det	_	_
+9	Master	_	NOUN	NN	_	10	compound	_	_
+10	Sale	_	NOUN	NN	_	11	compound	_	_
+11	Spot	_	NOUN	NN	_	0	root	_	_
+12	w	_	ADP	IN	_	14	case	_	_
+13	/	_	PUNCT	,	_	14	punct	_	_
+14	City	_	NOUN	NN	_	11	nmod	_	_
+15	of	_	ADP	IN	_	16	case	_	_
+16	Springfield	_	PROPN	NNP	_	14	nmod	_	_
+17	.	_	PUNCT	.	_	11	punct	_	_
+		
+1	Please	_	INTJ	UH	_	2	discourse	_	_
+2	let	_	VERB	VB	_	0	root	_	_
+3	me	_	PRON	PRP	_	4	nsubj	_	_
+4	know	_	VERB	VB	_	2	ccomp	_	_
+5	if	_	SCONJ	IN	_	7	mark	_	_
+6	you	_	PRON	PRP	_	7	nsubj	_	_
+7	need	_	VERB	VBP	_	4	advcl	_	_
+8	anything	_	NOUN	NN	_	7	dobj	_	_
+9	else	_	ADJ	JJ	_	8	amod	_	_
+10	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	dp	_	PROPN	NNP	_	0	root	_	_
+		
+1	Debra	_	PROPN	NNP	_	2	compound	_	_
+2	Perlingiere	_	PROPN	NNP	_	0	root	_	_
+		
+1	Tammi	_	PROPN	NNP	_	0	root	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+		
+1	Attached	_	VERB	VBN	_	0	root	_	_
+2	is	_	VERB	VBZ	_	1	auxpass	_	_
+3	an	_	DET	DT	_	4	det	_	_
+4	image	_	NOUN	NN	_	1	nsubjpass	_	_
+5	of	_	ADP	IN	_	7	case	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	GISB	_	NOUN	NN	_	4	nmod	_	_
+8	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	As	_	SCONJ	IN	_	3	mark	_	_
+2	you	_	PRON	PRP	_	3	nsubj	_	_
+3	see	_	VERB	VBP	_	6	advcl	_	_
+4	it	_	PRON	PRP	_	6	nsubj	_	_
+5	was	_	VERB	VBD	_	6	cop	_	_
+6	CES	_	NOUN	NN	_	0	root	_	_
+7	acquired	_	VERB	VBN	_	6	acl	_	_
+8	by	_	ADP	IN	_	9	case	_	_
+9	ENA	_	PROPN	NNP	_	7	nmod	_	_
+10	in	_	ADP	IN	_	12	case	_	_
+11	asset	_	NOUN	NN	_	12	compound	_	_
+12	purchase	_	NOUN	NN	_	7	nmod	_	_
+13	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	Please	_	INTJ	UH	_	2	discourse	_	_
+2	let	_	VERB	VB	_	0	root	_	_
+3	me	_	PRON	PRP	_	4	nsubj	_	_
+4	know	_	VERB	VB	_	2	ccomp	_	_
+5	how	_	ADV	WRB	_	8	advmod	_	_
+6	you	_	PRON	PRP	_	8	nsubj	_	_
+7	would	_	AUX	MD	_	8	aux	_	_
+8	like	_	VERB	VB	_	4	ccomp	_	_
+9	to	_	PART	TO	_	10	aux	_	_
+10	proceed	_	VERB	VB	_	8	xcomp	_	_
+11	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Best	_	ADJ	JJS	_	2	amod	_	_
+2	regards	_	NOUN	NNS	_	0	root	_	_
+3	,	_	PUNCT	,	_	2	punct	_	_
+		
+1	Debra	_	PROPN	NNP	_	2	compound	_	_
+2	Perlingiere	_	PROPN	NNP	_	0	root	_	_
+		
+1	Debra	_	PROPN	NNP	_	2	compound	_	_
+2	Perlingiere	_	PROPN	NNP	_	0	root	_	_
+		
+1	Priscilla	_	PROPN	NNP	_	0	root	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+		
+1	I	_	PRON	PRP	_	4	nsubj	_	_
+2	do	_	AUX	VBP	_	4	aux	_	_
+3	not	_	PART	RB	_	4	neg	_	_
+4	find	_	VERB	VB	_	0	root	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	term	_	NOUN	NN	_	4	dobj	_	_
+7	"	_	PUNCT	``	_	10	punct	_	_
+8	Alternate	_	ADJ	JJ	_	10	amod	_	_
+9	Transporter	_	NOUN	NN	_	10	compound	_	_
+10	Imbalance	_	NOUN	NN	_	6	appos	_	_
+11	"	_	PUNCT	''	_	10	punct	_	_
+12	in	_	ADP	IN	_	14	case	_	_
+13	our	_	PRON	PRP$	_	14	nmod:poss	_	_
+14	agreement	_	NOUN	NN	_	4	nmod	_	_
+15	..	_	PUNCT	.	_	4	punct	_	_
+		
+1	The	_	DET	DT	_	2	det	_	_
+2	term	_	NOUN	NN	_	9	nsubjpass	_	_
+3	"	_	PUNCT	``	_	6	punct	_	_
+4	Aggregate	_	ADJ	JJ	_	6	amod	_	_
+5	Transporter	_	NOUN	NN	_	6	compound	_	_
+6	Imbalance	_	NOUN	NN	_	2	appos	_	_
+7	"	_	PUNCT	''	_	6	punct	_	_
+8	is	_	AUX	VBZ	_	9	auxpass	_	_
+9	located	_	VERB	VBN	_	0	root	_	_
+10	in	_	ADP	IN	_	12	case	_	_
+11	several	_	ADJ	JJ	_	12	amod	_	_
+12	sections	_	NOUN	NNS	_	9	nmod	_	_
+13	.	_	PUNCT	.	_	9	punct	_	_
+		
+1	Could	_	AUX	MD	_	3	aux	_	_
+2	this	_	DET	DT	_	3	nsubj	_	_
+3	be	_	VERB	VB	_	0	root	_	_
+4	what	_	PRON	WP	_	7	dobj	_	_
+5	you	_	PRON	PRP	_	7	nsubj	_	_
+6	r	_	AUX	VBP	_	7	aux	_	_
+7	referencing	_	VERB	VBG	_	3	ccomp	_	_
+8	?	_	PUNCT	.	_	3	punct	_	_
+		
+1	Regards	_	NOUN	NNS	_	0	root	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+		
+1	Debra	_	PROPN	NNP	_	2	compound	_	_
+2	Perlingiere	_	PROPN	NNP	_	0	root	_	_
+		
+1	See	_	VERB	VB	_	0	root	_	_
+2	attached	_	VERB	VBN	_	6	amod	_	_
+3	revised	_	VERB	VBN	_	6	amod	_	_
+4	Article	_	NOUN	NN	_	6	compound	_	_
+5	4.6	_	NUM	CD	_	4	nummod	_	_
+6	Masters	_	NOUN	NNS	_	1	dobj	_	_
+7	below	_	ADV	RB	_	1	advmod	_	_
+8	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Dp	_	PROPN	NNP	_	0	root	_	_
+		
+1	Debra	_	PROPN	NNP	_	2	compound	_	_
+2	Perlingiere	_	PROPN	NNP	_	0	root	_	_
+		
+1	Gerald	_	PROPN	NNP	_	2	compound	_	_
+2	Nemec	_	PROPN	NNP	_	0	root	_	_
+		
+1	These	_	DET	DT	_	2	nsubj	_	_
+2	look	_	VERB	VBP	_	0	root	_	_
+3	fine	_	ADJ	JJ	_	2	xcomp	_	_
+4	to	_	ADP	IN	_	5	case	_	_
+5	me	_	PRON	PRP	_	2	nmod	_	_
+6	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Go	_	VERB	VB	_	0	root	_	_
+2	ahead	_	ADV	RB	_	1	advmod	_	_
+3	and	_	CONJ	CC	_	1	cc	_	_
+4	forward	_	VERB	VB	_	1	conj	_	_
+5	to	_	ADP	IN	_	6	case	_	_
+6	Brant	_	PROPN	NNP	_	4	nmod	_	_
+7	if	_	SCONJ	IN	_	10	mark	_	_
+8	you	_	PRON	PRP	_	10	nsubj	_	_
+9	are	_	VERB	VBP	_	10	cop	_	_
+10	ready	_	ADJ	JJ	_	4	advcl	_	_
+11	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Debra	_	PROPN	NNP	_	2	compound	_	_
+2	Perlingiere	_	PROPN	NNP	_	0	root	_	_
+		
+1	03/27/2001	_	NUM	CD	_	0	root	_	_
+2	01:58	_	NUM	CD	_	3	nummod	_	_
+3	PM	_	NOUN	NN	_	1	nmod:tmod	_	_
+		
+1	Revised	_	VERB	VBN	_	2	amod	_	_
+2	Article	_	NOUN	NN	_	0	root	_	_
+3	4.6	_	NUM	CD	_	2	nummod	_	_
+		
+1	Debra	_	PROPN	NNP	_	2	compound	_	_
+2	Perlingiere	_	PROPN	NNP	_	0	root	_	_
+		
+1	Kathleen	_	PROPN	NNP	_	0	root	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+		
+1	You	_	PRON	PRP	_	3	nsubj	_	_
+2	are	_	VERB	VBP	_	3	cop	_	_
+3	correct	_	ADJ	JJ	_	0	root	_	_
+4	,	_	PUNCT	,	_	3	punct	_	_
+5	I	_	PRON	PRP	_	7	nsubj	_	_
+6	will	_	AUX	MD	_	7	aux	_	_
+7	make	_	VERB	VB	_	3	parataxis	_	_
+8	the	_	DET	DT	_	10	det	_	_
+9	appropriate	_	ADJ	JJ	_	10	amod	_	_
+10	changes	_	NOUN	NNS	_	7	dobj	_	_
+11	and	_	CONJ	CC	_	7	cc	_	_
+12	give	_	VERB	VB	_	7	conj	_	_
+13	you	_	PRON	PRP	_	12	iobj	_	_
+14	another	_	DET	DT	_	15	det	_	_
+15	review	_	NOUN	NN	_	12	dobj	_	_
+16	before	_	ADP	IN	_	17	mark	_	_
+17	sending	_	VERB	VBG	_	12	advcl	_	_
+18	execution	_	NOUN	NN	_	19	compound	_	_
+19	papers	_	NOUN	NNS	_	17	dobj	_	_
+20	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Best	_	ADJ	JJS	_	2	amod	_	_
+2	regards	_	NOUN	NNS	_	0	root	_	_
+3	,	_	PUNCT	,	_	2	punct	_	_
+		
+1	Debra	_	PROPN	NNP	_	2	compound	_	_
+2	Perlingiere	_	PROPN	NNP	_	0	root	_	_
+		
+1	4105SF	_	NOUN	NN	_	0	root	_	_
+		
+1	Debra	_	PROPN	NNP	_	2	compound	_	_
+2	Perlingiere	_	PROPN	NNP	_	0	root	_	_
+		
+1	Jill	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	1	punct	_	_
+		
+1	As	_	SCONJ	IN	_	2	mark	_	_
+2	discussed	_	VERB	VBN	_	4	advcl	_	_
+3	,	_	PUNCT	,	_	4	punct	_	_
+4	attached	_	VERB	VBN	_	0	root	_	_
+5	is	_	VERB	VBZ	_	4	auxpass	_	_
+6	a	_	DET	DT	_	8	det	_	_
+7	GISB	_	NOUN	NN	_	8	compound	_	_
+8	draft	_	NOUN	NN	_	4	nsubjpass	_	_
+9	for	_	ADP	IN	_	10	case	_	_
+10	Pioneer	_	PROPN	NNP	_	8	nmod	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	As	_	SCONJ	IN	_	4	mark	_	_
+2	you	_	PRON	PRP	_	4	nsubj	_	_
+3	can	_	AUX	MD	_	4	aux	_	_
+4	see	_	VERB	VB	_	6	advcl	_	_
+5	there	_	DET	EX	_	6	expl	_	_
+6	are	_	VERB	VBP	_	0	root	_	_
+7	several	_	ADJ	JJ	_	8	amod	_	_
+8	blanks	_	NOUN	NNS	_	6	nsubj	_	_
+9	concerning	_	VERB	VBG	_	11	case	_	_
+10	administrative	_	ADJ	JJ	_	11	amod	_	_
+11	information	_	NOUN	NN	_	8	nmod	_	_
+12	for	_	ADP	IN	_	14	case	_	_
+13	ENA	_	PROPN	NNP	_	14	compound	_	_
+14	Upstream	_	PROPN	NNP	_	11	nmod	_	_
+15	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	was	_	VERB	VBD	_	3	cop	_	_
+3	able	_	ADJ	JJ	_	0	root	_	_
+4	to	_	PART	TO	_	5	aux	_	_
+5	secure	_	VERB	VB	_	3	xcomp	_	_
+6	a	_	DET	DT	_	8	det	_	_
+7	Duns	_	PROPN	NNP	_	8	compound	_	_
+8	#	_	NOUN	NN	_	5	dobj	_	_
+9	and	_	CONJ	CC	_	8	cc	_	_
+10	Fed	_	ADJ	JJ	_	12	amod	_	_
+11	Tax	_	NOUN	NN	_	12	compound	_	_
+12	ID	_	NOUN	NN	_	8	conj	_	_
+13	however	_	ADV	RB	_	17	advmod	_	_
+14	,	_	PUNCT	,	_	17	punct	_	_
+15	I	_	PRON	PRP	_	17	nsubj	_	_
+16	am	_	AUX	VBP	_	17	aux	_	_
+17	lacking	_	VERB	VBG	_	3	ccomp	_	_
+18	Fax	_	NOUN	NN	_	22	compound	_	_
+19	and	_	CONJ	CC	_	18	cc	_	_
+20	bank	_	NOUN	NN	_	21	compound	_	_
+21	account	_	NOUN	NN	_	18	conj	_	_
+22	numbers	_	NOUN	NNS	_	17	dobj	_	_
+23	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Do	_	AUX	VBP	_	3	aux	_	_
+2	you	_	PRON	PRP	_	3	nsubj	_	_
+3	have	_	VERB	VB	_	0	root	_	_
+4	this	_	DET	DT	_	5	det	_	_
+5	information	_	NOUN	NN	_	3	dobj	_	_
+6	?	_	PUNCT	.	_	3	punct	_	_
+		
+1	Dp	_	PROPN	NNP	_	0	root	_	_
+		
+1	Debra	_	PROPN	NNP	_	2	compound	_	_
+2	Perlingiere	_	PROPN	NNP	_	0	root	_	_
+		
+1	Debra	_	PROPN	NNP	_	2	compound	_	_
+2	Perlingiere	_	PROPN	NNP	_	0	root	_	_
+		
+1	Jeffrey	_	PROPN	NNP	_	3	compound	_	_
+2	T	_	PROPN	NNP	_	3	compound	_	_
+3	Hodge	_	PROPN	NNP	_	0	root	_	_
+		
+1	03/29/2001	_	NUM	CD	_	0	root	_	_
+2	09:01	_	NUM	CD	_	3	nummod	_	_
+3	AM	_	NOUN	NN	_	1	nmod:tmod	_	_
+		
+1	Rudwell	_	PROPN	NNP	_	2	compound	_	_
+2	Johnson	_	PROPN	NNP	_	0	root	_	_
+3	/	_	PUNCT	,	_	2	punct	_	_
+4	ENRON@enronXgate	_	X	ADD	_	2	dep	_	_
+		
+1	03/28/2001	_	NUM	CD	_	0	root	_	_
+2	05:09	_	NUM	CD	_	3	nummod	_	_
+3	PM	_	NOUN	NN	_	1	nmod:tmod	_	_
+		
+1	Jeff	_	PROPN	NNP	_	0	root	_	_
+2	!	_	PUNCT	.	_	1	punct	_	_
+		
+1	Please	_	INTJ	UH	_	2	discourse	_	_
+2	find	_	VERB	VB	_	0	root	_	_
+3	attached	_	VERB	VBN	_	2	dep	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	credit	_	NOUN	NN	_	6	compound	_	_
+6	worksheet	_	NOUN	NN	_	2	dobj	_	_
+7	for	_	ADP	IN	_	11	case	_	_
+8	a	_	DET	DT	_	11	det	_	_
+9	Master	_	NOUN	NN	_	10	compound	_	_
+10	Firm	_	NOUN	NN	_	11	compound	_	_
+11	contract	_	NOUN	NN	_	6	nmod	_	_
+12	for	_	ADP	IN	_	16	case	_	_
+13	the	_	DET	DT	_	16	det	_	_
+14	above	_	ADV	RB	_	15	advmod	_	_
+15	mentioned	_	VERB	VBN	_	16	amod	_	_
+16	counterparty	_	NOUN	NN	_	11	nmod	_	_
+17	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Please	_	INTJ	UH	_	2	discourse	_	_
+2	complete	_	VERB	VB	_	0	root	_	_
+3	agreement	_	NOUN	NN	_	2	dobj	_	_
+4	and	_	CONJ	CC	_	2	cc	_	_
+5	forward	_	VERB	VB	_	2	conj	_	_
+6	to	_	ADP	IN	_	7	case	_	_
+7	counterparty	_	NOUN	NN	_	5	nmod	_	_
+8	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Thanks	_	NOUN	NN	_	0	root	_	_
+		
+1	Rudwell	_	PROPN	NNP	_	0	root	_	_
+2	53596	_	NUM	CD	_	1	dep	_	_
+3	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Cindy	_	PROPN	NNP	_	0	root	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+		
+1	Please	_	INTJ	UH	_	2	discourse	_	_
+2	forward	_	VERB	VB	_	0	root	_	_
+3	a	_	DET	DT	_	4	det	_	_
+4	copy	_	NOUN	NN	_	2	dobj	_	_
+5	of	_	ADP	IN	_	10	case	_	_
+6	the	_	DET	DT	_	10	det	_	_
+7	J.M.	_	PROPN	NNP	_	8	compound	_	_
+8	Huber	_	PROPN	NNP	_	9	compound	_	_
+9	Corporation	_	PROPN	NNP	_	10	compound	_	_
+10	Guaranty	_	NOUN	NN	_	4	nmod	_	_
+11	to	_	ADP	IN	_	13	case	_	_
+12	my	_	PRON	PRP$	_	13	nmod:poss	_	_
+13	attention	_	NOUN	NN	_	2	nmod	_	_
+14	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	The	_	DET	DT	_	2	det	_	_
+2	Guaranty	_	NOUN	NN	_	4	nsubjpass	_	_
+3	is	_	AUX	VBZ	_	4	auxpass	_	_
+4	dated	_	VERB	VBN	_	0	root	_	_
+5	August	_	PROPN	NNP	_	4	xcomp	_	_
+6	1	_	NUM	CD	_	5	nummod	_	_
+7	,	_	PUNCT	,	_	5	punct	_	_
+8	2000	_	NUM	CD	_	5	nmod:tmod	_	_
+9	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	Thanks	_	NOUN	NN	_	0	root	_	_
+2	!!	_	PUNCT	.	_	1	punct	_	_
+		
+1	Debra	_	PROPN	NNP	_	2	compound	_	_
+2	Perlingiere	_	PROPN	NNP	_	0	root	_	_
+		
+1	They	_	PRON	PRP	_	3	nsubj	_	_
+2	are	_	AUX	VBP	_	3	aux	_	_
+3	taking	_	VERB	VBG	_	0	root	_	_
+4	delivery	_	NOUN	NN	_	3	dobj	_	_
+5	in	_	ADP	IN	_	7	case	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	U.S	_	PROPN	NNP	_	3	nmod	_	_
+8	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Debra	_	PROPN	NNP	_	2	compound	_	_
+2	Perlingiere	_	PROPN	NNP	_	0	root	_	_
+		

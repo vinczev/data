@@ -1,0 +1,50 @@
+1	ONe	_	NUM	CD	_	0	root	_	_
+2	of	_	ADP	IN	_	4	case	_	_
+3	a	_	DET	DT	_	4	det	_	_
+4	few	_	ADJ	JJ	_	1	nmod	_	_
+5	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Hancocks	_	PROPN	NNP	_	3	nsubj	_	_
+2	is	_	VERB	VBZ	_	3	cop	_	_
+3	one	_	NUM	CD	_	0	root	_	_
+4	of	_	ADP	IN	_	7	case	_	_
+5	four	_	NUM	CD	_	7	nummod	_	_
+6	fabric	_	ADJ	JJ	_	7	amod	_	_
+7	stores	_	NOUN	NNS	_	3	nmod	_	_
+8	in	_	ADP	IN	_	10	case	_	_
+9	Fort	_	PROPN	NNP	_	10	compound	_	_
+10	Smith	_	PROPN	NNP	_	7	nmod	_	_
+11	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	We	_	PRON	PRP	_	2	nsubj	_	_
+2	have	_	VERB	VBP	_	0	root	_	_
+3	Hobby	_	PROPN	NNP	_	4	compound	_	_
+4	Lobby	_	PROPN	NNP	_	2	dobj	_	_
+5	,	_	PUNCT	,	_	4	punct	_	_
+6	Just	_	ADV	RB	_	8	advmod	_	_
+7	for	_	ADP	IN	_	8	case	_	_
+8	Fun	_	PROPN	NNP	_	9	compound	_	_
+9	Fabrics	_	PROPN	NNPS	_	4	conj	_	_
+10	,	_	PUNCT	,	_	4	punct	_	_
+11	Walmart	_	PROPN	NNP	_	4	conj	_	_
+12	,	_	PUNCT	,	_	4	punct	_	_
+13	and	_	CONJ	CC	_	4	cc	_	_
+14	Interior	_	PROPN	NNP	_	15	compound	_	_
+15	Mall	_	PROPN	NNP	_	4	conj	_	_
+16	just	_	ADV	RB	_	18	advmod	_	_
+17	inside	_	ADP	IN	_	18	case	_	_
+18	Barling	_	PROPN	NNP	_	2	nmod	_	_
+19	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	They	_	PRON	PRP	_	3	nsubj	_	_
+2	do	_	AUX	VBP	_	3	aux	_	_
+3	have	_	VERB	VB	_	0	root	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	good	_	ADJ	JJ	_	6	amod	_	_
+6	selection	_	NOUN	NN	_	3	dobj	_	_
+7	of	_	ADP	IN	_	8	case	_	_
+8	fabric	_	NOUN	NN	_	6	nmod	_	_
+9	and	_	CONJ	CC	_	8	cc	_	_
+10	notions	_	NOUN	NNS	_	8	conj	_	_
+11	.	_	PUNCT	.	_	3	punct	_	_
+		

@@ -1,0 +1,67 @@
+1	Great	_	ADJ	JJ	_	2	amod	_	_
+2	Doctor	_	NOUN	NN	_	0	root	_	_
+3	!	_	PUNCT	.	_	2	punct	_	_
+		
+1	Dr.	_	PROPN	NNP	_	2	compound	_	_
+2	Faris	_	PROPN	NNP	_	6	nsubj	_	_
+3	is	_	VERB	VBZ	_	6	cop	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	great	_	ADJ	JJ	_	6	amod	_	_
+6	doctor	_	NOUN	NN	_	0	root	_	_
+7	!	_	PUNCT	.	_	6	punct	_	_
+		
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	would	_	AUX	MD	_	3	aux	_	_
+3	recommend	_	VERB	VB	_	0	root	_	_
+4	him	_	PRON	PRP	_	3	dobj	_	_
+5	to	_	ADP	IN	_	6	case	_	_
+6	anyone	_	NOUN	NN	_	3	nmod	_	_
+7	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	was	_	AUX	VBD	_	3	aux	_	_
+3	experiencing	_	VERB	VBG	_	0	root	_	_
+4	severe	_	ADJ	JJ	_	6	amod	_	_
+5	back	_	NOUN	NN	_	6	compound	_	_
+6	pain	_	NOUN	NN	_	3	dobj	_	_
+7	to	_	ADP	IN	_	9	case	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	point	_	NOUN	NN	_	3	nmod	_	_
+10	I	_	PRON	PRP	_	13	nsubj	_	_
+11	could	_	AUX	MD	_	13	aux	_	_
+12	barely	_	ADV	RB	_	13	advmod	_	_
+13	walk	_	VERB	VB	_	9	acl:relcl	_	_
+14	or	_	CONJ	CC	_	13	cc	_	_
+15	even	_	ADV	RB	_	16	advmod	_	_
+16	bare	_	VERB	VB	_	13	conj	_	_
+17	to	_	PART	TO	_	18	aux	_	_
+18	sit	_	VERB	VB	_	16	xcomp	_	_
+19	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	went	_	VERB	VBD	_	0	root	_	_
+3	from	_	ADP	IN	_	6	case	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	pain	_	NOUN	NN	_	6	compound	_	_
+6	scale	_	NOUN	NN	_	2	nmod	_	_
+7	of	_	ADP	IN	_	8	case	_	_
+8	8	_	NUM	CD	_	6	nmod	_	_
+9	-	_	SYM	SYM	_	10	case	_	_
+10	9	_	NUM	CD	_	8	nmod	_	_
+11	to	_	ADP	IN	_	12	case	_	_
+12	0	_	NUM	CD	_	2	nmod	_	_
+13	and	_	CONJ	CC	_	2	cc	_	_
+14	I	_	PRON	PRP	_	16	nsubj	_	_
+15	was	_	VERB	VBD	_	16	cop	_	_
+16	able	_	ADJ	JJ	_	2	conj	_	_
+17	to	_	PART	TO	_	18	aux	_	_
+18	run	_	VERB	VB	_	16	xcomp	_	_
+19	in	_	ADP	IN	_	21	case	_	_
+20	the	_	DET	DT	_	21	det	_	_
+21	Crim	_	PROPN	NNP	_	18	nmod	_	_
+22	just	_	ADV	RB	_	24	advmod	_	_
+23	a	_	DET	DT	_	24	det	_	_
+24	week	_	NOUN	NN	_	25	nmod:npmod	_	_
+25	later	_	ADV	RBR	_	18	advmod	_	_
+26	!!	_	PUNCT	.	_	2	punct	_	_
+		

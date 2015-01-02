@@ -1,0 +1,27 @@
+1	A	_	DET	DT	_	4	det	_	_
+2	thoroughly	_	ADV	RB	_	3	advmod	_	_
+3	comprehensive	_	ADJ	JJ	_	4	amod	_	_
+4	service	_	NOUN	NN	_	0	root	_	_
+5	;	_	PUNCT	,	_	4	punct	_	_
+6	excellent	_	ADJ	JJ	_	7	amod	_	_
+7	communication	_	NOUN	NN	_	4	parataxis	_	_
+8	and	_	CONJ	CC	_	7	cc	_	_
+9	best	_	ADV	RBS	_	13	advmod	_	_
+10	of	_	ADP	IN	_	9	nmod	_	_
+11	they	_	PRON	PRP	_	13	nsubj	_	_
+12	are	_	VERB	VBP	_	13	cop	_	_
+13	transparent	_	ADJ	JJ	_	7	conj	_	_
+14	with	_	ADP	IN	_	16	case	_	_
+15	their	_	PRON	PRP$	_	16	nmod:poss	_	_
+16	fee	_	NOUN	NN	_	13	nmod	_	_
+17	-LRB-	_	PUNCT	-LRB-	_	22	punct	_	_
+18	ie	_	X	FW	_	22	advmod	_	_
+19	nothing	_	NOUN	NN	_	22	nsubjpass	_	_
+20	is	_	AUX	VBZ	_	22	auxpass	_	_
+21	simply	_	ADV	RB	_	22	advmod	_	_
+22	implied	_	VERB	VBN	_	13	parataxis	_	_
+23	or	_	CONJ	CC	_	22	cc	_	_
+24	assumed	_	VERB	VBN	_	22	conj	_	_
+25	-RRB-	_	PUNCT	-RRB-	_	22	punct	_	_
+26	.	_	PUNCT	.	_	4	punct	_	_
+		

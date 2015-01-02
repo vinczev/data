@@ -1,0 +1,34 @@
+1	What	_	DET	WDT	_	3	predet	_	_
+2	a	_	DET	DT	_	3	det	_	_
+3	Preschool	_	NOUN	NN	_	0	root	_	_
+4	!	_	PUNCT	.	_	3	punct	_	_
+		
+1	If	_	SCONJ	IN	_	3	mark	_	_
+2	you	_	PRON	PRP	_	3	nsubj	_	_
+3	want	_	VERB	VBP	_	12	advcl	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	best	_	ADJ	JJS	_	3	dobj	_	_
+6	for	_	ADP	IN	_	8	case	_	_
+7	your	_	PRON	PRP$	_	8	nmod:poss	_	_
+8	child	_	NOUN	NN	_	5	nmod	_	_
+9	,	_	PUNCT	,	_	12	punct	_	_
+10	do	_	AUX	VB	_	12	aux	_	_
+11	n't	_	PART	RB	_	12	neg	_	_
+12	hesitate	_	VERB	VB	_	0	root	_	_
+13	in	_	ADP	IN	_	14	mark	_	_
+14	visiting	_	VERB	VBG	_	12	advcl	_	_
+15	this	_	DET	DT	_	17	det	_	_
+16	wornderful	_	ADJ	JJ	_	17	amod	_	_
+17	school	_	NOUN	NN	_	14	dobj	_	_
+18	.	_	PUNCT	.	_	12	punct	_	_
+		
+1	This	_	DET	DT	_	5	nsubj	_	_
+2	is	_	VERB	VBZ	_	5	cop	_	_
+3	the	_	DET	DT	_	5	det	_	_
+4	very	_	ADV	RB	_	5	advmod	_	_
+5	best	_	ADJ	JJS	_	0	root	_	_
+6	in	_	ADP	IN	_	8	case	_	_
+7	the	_	DET	DT	_	8	det	_	_
+8	Gables	_	PROPN	NNP	_	5	nmod	_	_
+9	.	_	PUNCT	.	_	5	punct	_	_
+		

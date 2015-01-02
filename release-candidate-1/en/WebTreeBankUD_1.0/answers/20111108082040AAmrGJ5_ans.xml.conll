@@ -1,0 +1,39 @@
+1	Any	_	DET	DT	_	2	det	_	_
+2	information	_	NOUN	NN	_	0	root	_	_
+3	about	_	ADP	IN	_	6	case	_	_
+4	CRAZY	_	PROPN	NNP	_	5	compound	_	_
+5	HORSE	_	PROPN	NNP	_	6	compound	_	_
+6	SCULPTURE	_	NOUN	NN	_	2	nmod	_	_
+7	?	_	PUNCT	.	_	2	punct	_	_
+		
+1	any	_	DET	DT	_	0	root	_	_
+2	?	_	PUNCT	.	_	1	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	assume	_	VERB	VBP	_	0	root	_	_
+3	you	_	PRON	PRP	_	4	nsubj	_	_
+4	mean	_	VERB	VBP	_	2	ccomp	_	_
+5	the	_	DET	DT	_	8	det	_	_
+6	crazy	_	PROPN	NNP	_	7	compound	_	_
+7	horse	_	PROPN	NNP	_	8	compound	_	_
+8	memorial	_	NOUN	NN	_	4	dobj	_	_
+9	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	they	_	PRON	PRP	_	2	nsubj	_	_
+2	have	_	VERB	VBP	_	0	root	_	_
+3	their	_	PRON	PRP$	_	5	nmod:poss	_	_
+4	own	_	ADJ	JJ	_	5	amod	_	_
+5	website	_	NOUN	NN	_	2	dobj	_	_
+6	which	_	DET	WDT	_	10	dobj	_	_
+7	you	_	PRON	PRP	_	10	nsubj	_	_
+8	can	_	AUX	MD	_	10	aux	_	_
+9	easily	_	ADV	RB	_	10	advmod	_	_
+10	find	_	VERB	VB	_	5	acl:relcl	_	_
+11	using	_	VERB	VBG	_	10	advcl	_	_
+12	any	_	DET	DT	_	14	det	_	_
+13	search	_	NOUN	NN	_	14	compound	_	_
+14	engine	_	NOUN	NN	_	11	dobj	_	_
+15	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	http://www.google.com/search?aq=0&oq=crazy+horse+mem&gcx=w&sourceid=chrome&ie=UTF-8&q=crazy+horse+memorial	_	X	ADD	_	0	root	_	_
+		

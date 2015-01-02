@@ -1,0 +1,14 @@
+1	VINGAS	_	PROPN	NNP	_	0	root	_	_
+		
+1	VISAKHA	_	PROPN	NNP	_	5	compound	_	_
+2	INDUSTRIAL	_	PROPN	NNP	_	5	compound	_	_
+3	GASES	_	PROPN	NNPS	_	5	compound	_	_
+4	PVT.	_	PROPN	NNP	_	5	compound	_	_
+5	LTD.	_	PROPN	NNP	_	0	root	_	_
+6	,	_	PUNCT	,	_	5	punct	_	_
+7	location	_	NOUN	NN	_	5	parataxis	_	_
+8	at	_	ADP	IN	_	10	case	_	_
+9	google	_	PROPN	NNP	_	10	compound	_	_
+10	maps	_	PROPN	NNPS	_	7	nmod	_	_
+11	.	_	PUNCT	.	_	5	punct	_	_
+		

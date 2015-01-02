@@ -1,0 +1,46 @@
+1	no	_	DET	DT	_	2	det	_	_
+2	feathers	_	NOUN	NNS	_	0	root	_	_
+3	in	_	ADP	IN	_	4	case	_	_
+4	stock	_	NOUN	NN	_	2	nmod	_	_
+5	!!!!	_	PUNCT	.	_	2	punct	_	_
+		
+1	I	_	PRON	PRP	_	4	nsubj	_	_
+2	was	_	VERB	VBD	_	4	cop	_	_
+3	very	_	ADV	RB	_	4	advmod	_	_
+4	upset	_	ADJ	JJ	_	0	root	_	_
+5	when	_	ADV	WRB	_	7	advmod	_	_
+6	I	_	PRON	PRP	_	7	nsubj	_	_
+7	went	_	VERB	VBD	_	4	advcl	_	_
+8	to	_	ADP	IN	_	10	case	_	_
+9	Mother	_	PROPN	NNP	_	10	compound	_	_
+10	Plucker	_	PROPN	NNP	_	7	nmod	_	_
+11	,	_	PUNCT	,	_	4	punct	_	_
+12	they	_	PRON	PRP	_	13	nsubj	_	_
+13	had	_	VERB	VBD	_	4	conj	_	_
+14	NO	_	DET	DT	_	15	det	_	_
+15	FEATHERS	_	NOUN	NNS	_	13	dobj	_	_
+16	and	_	CONJ	CC	_	4	cc	_	_
+17	the	_	DET	DT	_	18	det	_	_
+18	quality	_	NOUN	NN	_	20	nsubj	_	_
+19	is	_	VERB	VBZ	_	20	cop	_	_
+20	TERRIBLE	_	ADJ	JJ	_	4	conj	_	_
+21	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	had	_	VERB	VBD	_	0	root	_	_
+3	to	_	PART	TO	_	4	aux	_	_
+4	dig	_	VERB	VB	_	2	xcomp	_	_
+5	in	_	ADP	IN	_	7	case	_	_
+6	a	_	DET	DT	_	7	det	_	_
+7	bag	_	NOUN	NN	_	4	nmod	_	_
+8	to	_	PART	TO	_	9	aux	_	_
+9	find	_	VERB	VB	_	4	advcl	_	_
+10	one	_	NUM	CD	_	12	nummod	_	_
+11	nice	_	ADJ	JJ	_	12	amod	_	_
+12	feather	_	NOUN	NN	_	9	dobj	_	_
+13	,	_	PUNCT	,	_	2	punct	_	_
+14	what	_	PRON	WP	_	16	det	_	_
+15	a	_	DET	DT	_	16	det	_	_
+16	joke	_	NOUN	NN	_	2	parataxis	_	_
+17	!	_	PUNCT	.	_	2	punct	_	_
+		

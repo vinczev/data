@@ -1,0 +1,22 @@
+1	You	_	PRON	PRP	_	2	det	_	_
+2	guys	_	NOUN	NNS	_	3	nsubjpass	_	_
+3	do	_	VERB	VBP	_	0	root	_	_
+4	everything	_	NOUN	NN	_	3	dobj	_	_
+5	wonderful	_	ADV	RB	_	3	advmod	_	_
+6	!	_	PUNCT	.	_	3	punct	_	_
+		
+1	We	_	PRON	PRP	_	5	nsubj	_	_
+2	honestly	_	ADV	RB	_	5	advmod	_	_
+3	can	_	AUX	MD	_	5	aux	_	_
+4	not	_	PART	RB	_	5	neg	_	_
+5	think	_	VERB	VB	_	0	root	_	_
+6	of	_	ADP	IN	_	9	case	_	_
+7	even	_	ADV	RB	_	9	advmod	_	_
+8	1	_	NUM	CD	_	9	nummod	_	_
+9	thing	_	NOUN	NN	_	5	nmod	_	_
+10	we	_	PRON	PRP	_	13	nsubj	_	_
+11	did	_	AUX	VBD	_	13	aux	_	_
+12	n't	_	PART	RB	_	13	neg	_	_
+13	like	_	VERB	VB	_	9	acl:relcl	_	_
+14	!	_	PUNCT	.	_	5	punct	_	_
+		

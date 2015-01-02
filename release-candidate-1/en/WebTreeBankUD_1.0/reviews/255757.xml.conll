@@ -1,0 +1,11 @@
+1	they	_	PRON	PRP	_	2	nsubj	_	_
+2	recovered	_	VERB	VBD	_	0	root	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	pics	_	NOUN	NNS	_	2	dobj	_	_
+5	geeksquad	_	PROPN	NNP	_	6	nsubj	_	_
+6	deleted	_	VERB	VBD	_	4	acl:relcl	_	_
+7	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	many	_	ADJ	JJ	_	2	amod	_	_
+2	thanks	_	NOUN	NNS	_	0	root	_	_
+		

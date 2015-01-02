@@ -1,0 +1,38 @@
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	won	_	VERB	VBD	_	0	root	_	_
+3	a	_	DET	DT	_	6	det	_	_
+4	golf	_	NOUN	NN	_	5	compound	_	_
+5	lesson	_	NOUN	NN	_	6	compound	_	_
+6	certificate	_	NOUN	NN	_	2	dobj	_	_
+7	with	_	ADP	IN	_	8	case	_	_
+8	Adz	_	PROPN	NNP	_	6	nmod	_	_
+9	through	_	ADP	IN	_	12	case	_	_
+10	a	_	DET	DT	_	12	det	_	_
+11	charity	_	NOUN	NN	_	12	compound	_	_
+12	auction	_	NOUN	NN	_	2	nmod	_	_
+13	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	The	_	DET	DT	_	2	det	_	_
+2	lesson	_	NOUN	NN	_	4	nsubjpass	_	_
+3	was	_	AUX	VBD	_	4	auxpass	_	_
+4	donated	_	VERB	VBN	_	0	root	_	_
+5	by	_	ADP	IN	_	7	case	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	teacher	_	NOUN	NN	_	4	nmod	_	_
+8	Adz	_	PROPN	NNP	_	7	appos	_	_
+9	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	So	_	ADV	RB	_	3	advmod	_	_
+2	i	_	PRON	PRP	_	3	nsubj	_	_
+3	booked	_	VERB	VBD	_	0	root	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	lesson	_	NOUN	NN	_	3	dobj	_	_
+6	and	_	CONJ	CC	_	3	cc	_	_
+7	loved	_	VERB	VBD	_	3	conj	_	_
+8	it	_	PRON	PRP	_	7	dobj	_	_
+9	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Great	_	ADJ	JJ	_	2	amod	_	_
+2	teacher	_	NOUN	NN	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+		

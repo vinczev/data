@@ -1,0 +1,46 @@
+1	for	_	ADP	IN	_	2	case	_	_
+2	Books	_	NOUN	NNS	_	0	root	_	_
+3	that	_	DET	WDT	_	4	nsubj	_	_
+4	Speak	_	VERB	VBP	_	2	acl:relcl	_	_
+5	for	_	ADP	IN	_	6	case	_	_
+6	Themselves	_	PRON	PRP	_	4	nmod	_	_
+7	....	_	PUNCT	,	_	2	punct	_	_
+		
+1	Interested	_	ADJ	JJ	_	0	root	_	_
+2	in	_	ADP	IN	_	3	case	_	_
+3	audiobooks	_	NOUN	NNS	_	1	nmod	_	_
+4	?	_	PUNCT	.	_	1	punct	_	_
+		
+1	Come	_	VERB	VB	_	0	root	_	_
+2	visit	_	VERB	VB	_	1	xcomp	_	_
+3	irc	_	NOUN	NN	_	4	compound	_	_
+4	server	_	NOUN	NN	_	2	dobj	_	_
+5	:	_	PUNCT	:	_	4	punct	_	_
+6	irc.yankeedot.net	_	X	ADD	_	4	appos	_	_
+7	and	_	CONJ	CC	_	1	cc	_	_
+8	join	_	VERB	VB	_	1	conj	_	_
+9	#	_	NOUN	NN	_	10	compound	_	_
+10	audiobooks	_	NOUN	NNS	_	8	dobj	_	_
+11	for	_	ADP	IN	_	12	case	_	_
+12	sharing	_	NOUN	NN	_	8	nmod	_	_
+13	,	_	PUNCT	,	_	12	punct	_	_
+14	discussion	_	NOUN	NN	_	12	conj	_	_
+15	and	_	CONJ	CC	_	12	cc	_	_
+16	a	_	DET	DT	_	19	det	_	_
+17	great	_	ADJ	JJ	_	19	amod	_	_
+18	trivia	_	NOUN	NN	_	19	compound	_	_
+19	game	_	NOUN	NN	_	12	conj	_	_
+20	!	_	PUNCT	.	_	1	punct	_	_
+		
+1	large	_	ADJ	JJ	_	2	amod	_	_
+2	selection	_	NOUN	NN	_	0	root	_	_
+3	of	_	ADP	IN	_	4	case	_	_
+4	fiction	_	NOUN	NN	_	2	nmod	_	_
+5	,	_	PUNCT	,	_	4	punct	_	_
+6	science	_	NOUN	NN	_	7	compound	_	_
+7	fiction	_	NOUN	NN	_	4	conj	_	_
+8	and	_	CONJ	CC	_	4	cc	_	_
+9	best	_	ADJ	JJS	_	10	amod	_	_
+10	sellers	_	NOUN	NNS	_	4	conj	_	_
+11	.	_	PUNCT	.	_	2	punct	_	_
+		

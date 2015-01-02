@@ -1,0 +1,45 @@
+1	Is	_	AUX	VBZ	_	4	cop	_	_
+2	Hank	_	PROPN	NNP	_	3	compound	_	_
+3	Green	_	PROPN	NNP	_	4	nsubj	_	_
+4	Awesome	_	ADJ	JJ	_	0	root	_	_
+5	?	_	PUNCT	.	_	4	punct	_	_
+		
+1	The	_	DET	DT	_	3	det	_	_
+2	Hank	_	PROPN	NNP	_	3	compound	_	_
+3	Green	_	PROPN	NNP	_	8	nsubj	_	_
+4	I	_	PRON	PRP	_	5	nsubj	_	_
+5	know	_	VERB	VBP	_	3	acl:relcl	_	_
+6	is	_	VERB	VBZ	_	8	cop	_	_
+7	hardly	_	ADV	RB	_	8	advmod	_	_
+8	awesome	_	ADJ	JJ	_	0	root	_	_
+9	.	_	PUNCT	.	_	8	punct	_	_
+		
+1	He	_	PRON	PRP	_	2	nsubj	_	_
+2	needs	_	VERB	VBZ	_	0	root	_	_
+3	a	_	DET	DT	_	4	det	_	_
+4	shower	_	NOUN	NN	_	2	dobj	_	_
+5	,	_	PUNCT	,	_	2	punct	_	_
+6	and	_	CONJ	CC	_	2	cc	_	_
+7	he	_	PRON	PRP	_	8	nsubj	_	_
+8	picks	_	VERB	VBZ	_	2	conj	_	_
+9	his	_	PRON	PRP$	_	10	nmod:poss	_	_
+10	nose	_	NOUN	NN	_	8	dobj	_	_
+11	all	_	DET	PDT	_	13	predet	_	_
+12	the	_	DET	DT	_	13	det	_	_
+13	time	_	NOUN	NN	_	8	nmod:tmod	_	_
+14	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	He	_	PRON	PRP	_	5	nsubj	_	_
+2	is	_	VERB	VBZ	_	5	cop	_	_
+3	at	_	ADP	IN	_	5	mark	_	_
+4	his	_	PRON	PRP$	_	5	nmod:poss	_	_
+5	best	_	ADJ	JJS	_	0	root	_	_
+6	when	_	ADV	WRB	_	9	advmod	_	_
+7	he	_	PRON	PRP	_	9	nsubj	_	_
+8	is	_	AUX	VBZ	_	9	aux	_	_
+9	doing	_	VERB	VBG	_	5	advcl	_	_
+10	his	_	PRON	PRP$	_	12	nmod:poss	_	_
+11	Nerd	_	NOUN	NN	_	12	compound	_	_
+12	impression	_	NOUN	NN	_	9	dobj	_	_
+13	...	_	PUNCT	.	_	5	punct	_	_
+		

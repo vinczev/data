@@ -1,0 +1,78 @@
+1	Awesome	_	ADJ	JJ	_	0	root	_	_
+2	!!!!	_	PUNCT	.	_	1	punct	_	_
+		
+1	Yes	_	INTJ	UH	_	8	discourse	_	_
+2	my	_	PRON	PRP$	_	5	nmod:poss	_	_
+3	G	_	NOUN	NN	_	5	compound	_	_
+4	1	_	NUM	CD	_	3	nummod	_	_
+5	screen	_	NOUN	NN	_	8	nsubj	_	_
+6	is	_	AUX	VBZ	_	8	aux	_	_
+7	back	_	ADV	RB	_	8	advmod	_	_
+8	working	_	VERB	VBG	_	0	root	_	_
+9	.	_	PUNCT	.	_	8	punct	_	_
+		
+1	They	_	PRON	PRP	_	3	nsubj	_	_
+2	was	_	VERB	VBD	_	3	cop	_	_
+3	about	_	ADJ	JJ	_	0	root	_	_
+4	to	_	PART	TO	_	5	aux	_	_
+5	Charge	_	VERB	VB	_	3	xcomp	_	_
+6	me	_	PRON	PRP	_	5	iobj	_	_
+7	$	_	SYM	$	_	5	dobj	_	_
+8	129	_	NUM	CD	_	7	nummod	_	_
+9	...	_	PUNCT	.	_	3	punct	_	_
+		
+1	But	_	CONJ	CC	_	3	cc	_	_
+2	i	_	PRON	PRP	_	3	nsubj	_	_
+3	paid	_	VERB	VBD	_	0	root	_	_
+4	$	_	SYM	$	_	3	dobj	_	_
+5	100	_	NUM	CD	_	4	nummod	_	_
+6	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	they	_	PRON	PRP	_	2	nsubj	_	_
+2	save	_	VERB	VBD	_	0	root	_	_
+3	me	_	PRON	PRP	_	2	dobj	_	_
+4	from	_	ADP	IN	_	5	mark	_	_
+5	having	_	VERB	VBG	_	2	advcl	_	_
+6	to	_	PART	TO	_	7	aux	_	_
+7	deal	_	VERB	VB	_	5	xcomp	_	_
+8	with	_	ADP	IN	_	9	case	_	_
+9	Tmobile	_	PROPN	NNP	_	7	nmod	_	_
+10	...	_	PUNCT	.	_	2	punct	_	_
+		
+1	Tmobile	_	PROPN	NNP	_	2	nsubj	_	_
+2	want	_	VERB	VBZ	_	0	root	_	_
+3	to	_	PART	TO	_	4	aux	_	_
+4	Send	_	VERB	VB	_	2	xcomp	_	_
+5	of	_	ADP	RP	_	4	compound:prt	_	_
+6	my	_	PRON	PRP$	_	7	nmod:poss	_	_
+7	phone	_	NOUN	NN	_	4	dobj	_	_
+8	and	_	CONJ	CC	_	2	cc	_	_
+9	i	_	PRON	PRP	_	12	nsubj	_	_
+10	did	_	AUX	VBD	_	12	aux	_	_
+11	n't	_	PART	RB	_	12	neg	_	_
+12	want	_	VERB	VB	_	2	conj	_	_
+13	to	_	PART	TO	_	14	aux	_	_
+14	go	_	VERB	VB	_	12	xcomp	_	_
+15	thru	_	ADP	IN	_	16	case	_	_
+16	that	_	DET	DT	_	14	nmod	_	_
+17	...	_	PUNCT	.	_	2	punct	_	_
+		
+1	3	_	NUM	CD	_	2	nummod	_	_
+2	Days	_	NOUN	NNS	_	0	root	_	_
+3	For	_	X	GW	_	4	goeswith	_	_
+4	get	_	VERB	VB	_	2	parataxis	_	_
+5	that	_	DET	DT	_	4	dobj	_	_
+6	...	_	PUNCT	.	_	2	punct	_	_
+		
+1	Great	_	ADJ	JJ	_	2	amod	_	_
+2	service	_	NOUN	NN	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	would	_	AUX	MD	_	3	aux	_	_
+3	recommend	_	VERB	VB	_	0	root	_	_
+4	them	_	PRON	PRP	_	3	dobj	_	_
+5	to	_	ADP	IN	_	6	case	_	_
+6	anyone	_	NOUN	NN	_	3	nmod	_	_
+7	..	_	PUNCT	.	_	3	punct	_	_
+		

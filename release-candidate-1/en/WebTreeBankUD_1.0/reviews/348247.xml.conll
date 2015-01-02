@@ -1,0 +1,69 @@
+1	happy	_	ADJ	JJ	_	2	amod	_	_
+2	customer	_	NOUN	NN	_	0	root	_	_
+		
+1	Mr.	_	PROPN	NNP	_	2	compound	_	_
+2	Squeege	_	PROPN	NNP	_	5	nsubj	_	_
+3	is	_	VERB	VBZ	_	5	cop	_	_
+4	THE	_	DET	DT	_	5	det	_	_
+5	BEST	_	ADJ	JJS	_	0	root	_	_
+6	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	Prompt	_	ADJ	JJ	_	4	amod	_	_
+2	,	_	PUNCT	,	_	4	punct	_	_
+3	Clean	_	ADJ	JJ	_	4	amod	_	_
+4	Windows	_	NOUN	NNS	_	0	root	_	_
+5	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	Affordable	_	ADJ	JJ	_	2	amod	_	_
+2	pricing	_	NOUN	NN	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Friendly	_	ADJ	JJ	_	2	amod	_	_
+2	responses	_	NOUN	NNS	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	How	_	ADV	WRB	_	2	advmod	_	_
+2	else	_	ADV	RB	_	6	advmod	_	_
+3	can	_	AUX	MD	_	6	aux	_	_
+4	excellent	_	ADJ	JJ	_	6	nsubjpass	_	_
+5	be	_	AUX	VB	_	6	auxpass	_	_
+6	described	_	VERB	VBN	_	0	root	_	_
+7	for	_	ADP	IN	_	9	case	_	_
+8	a	_	DET	DT	_	9	det	_	_
+9	business	_	NOUN	NN	_	6	nmod	_	_
+10	of	_	ADP	IN	_	12	case	_	_
+11	this	_	DET	DT	_	12	det	_	_
+12	sort	_	NOUN	NN	_	9	nmod	_	_
+13	?	_	PUNCT	.	_	6	punct	_	_
+		
+1	They	_	PRON	PRP	_	7	nsubj	_	_
+2	have	_	AUX	VBP	_	7	aux	_	_
+3	been	_	VERB	VBN	_	7	cop	_	_
+4	my	_	PRON	PRP$	_	7	nmod:poss	_	_
+5	only	_	ADV	RB	_	7	advmod	_	_
+6	"	_	PUNCT	``	_	7	punct	_	_
+7	go	_	VERB	VB	_	11	compound	_	_
+8	-	_	PUNCT	HYPH	_	7	punct	_	_
+9	to	_	ADP	IN	_	7	nmod	_	_
+10	"	_	PUNCT	''	_	7	punct	_	_
+11	resource	_	VERB	VB	_	0	root	_	_
+12	since	_	SCONJ	IN	_	15	mark	_	_
+13	we	_	PRON	PRP	_	15	nsubj	_	_
+14	first	_	ADV	RB	_	15	advmod	_	_
+15	did	_	VERB	VBD	_	7	advcl	_	_
+16	business	_	NOUN	NN	_	15	dobj	_	_
+17	together	_	ADV	RB	_	15	advmod	_	_
+18	.	_	PUNCT	.	_	7	punct	_	_
+		
+1	You	_	PRON	PRP	_	3	nsubj	_	_
+2	will	_	AUX	MD	_	3	aux	_	_
+3	find	_	VERB	VB	_	0	root	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	same	_	ADJ	JJ	_	3	dobj	_	_
+6	to	_	PART	TO	_	8	aux	_	_
+7	be	_	VERB	VB	_	8	cop	_	_
+8	true	_	ADJ	JJ	_	3	xcomp	_	_
+9	for	_	ADP	IN	_	10	case	_	_
+10	you	_	PRON	PRP	_	8	nmod	_	_
+11	.	_	PUNCT	.	_	3	punct	_	_
+		

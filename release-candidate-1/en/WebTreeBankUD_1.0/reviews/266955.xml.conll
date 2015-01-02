@@ -1,0 +1,17 @@
+1	The	_	DET	DT	_	7	det	_	_
+2	finest	_	ADJ	JJS	_	7	amod	_	_
+3	German	_	ADJ	JJ	_	7	amod	_	_
+4	bedding	_	NOUN	NN	_	7	compound	_	_
+5	and	_	CONJ	CC	_	4	cc	_	_
+6	linens	_	NOUN	NNS	_	4	conj	_	_
+7	store	_	NOUN	NN	_	0	root	_	_
+8	.	_	PUNCT	.	_	7	punct	_	_
+		
+1	Quality	_	NOUN	NN	_	4	nsubj	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	service	_	NOUN	NN	_	1	conj	_	_
+4	come	_	VERB	VBP	_	0	root	_	_
+5	first	_	ADV	RB	_	4	advmod	_	_
+6	here	_	ADV	RB	_	4	advmod	_	_
+7	.	_	PUNCT	.	_	4	punct	_	_
+		

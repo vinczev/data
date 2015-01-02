@@ -1,0 +1,57 @@
+1	Great	_	ADJ	JJ	_	2	amod	_	_
+2	Place	_	NOUN	NN	_	0	root	_	_
+3	!	_	PUNCT	.	_	2	punct	_	_
+		
+1	This	_	DET	DT	_	3	nsubj	_	_
+2	is	_	VERB	VBZ	_	3	cop	_	_
+3	one	_	NUM	CD	_	0	root	_	_
+4	of	_	ADP	IN	_	7	case	_	_
+5	my	_	PRON	PRP$	_	7	nmod:poss	_	_
+6	favorite	_	ADJ	JJ	_	7	amod	_	_
+7	places	_	NOUN	NNS	_	3	nmod	_	_
+8	to	_	PART	TO	_	9	aux	_	_
+9	eat	_	VERB	VB	_	7	acl	_	_
+10	for	_	ADP	IN	_	11	case	_	_
+11	lunch	_	NOUN	NN	_	9	nmod	_	_
+12	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	They	_	PRON	PRP	_	2	nsubj	_	_
+2	offer	_	VERB	VBP	_	0	root	_	_
+3	a	_	DET	DT	_	5	det	_	_
+4	good	_	ADJ	JJ	_	5	amod	_	_
+5	portions	_	NOUN	NNS	_	2	dobj	_	_
+6	at	_	ADP	IN	_	9	case	_	_
+7	a	_	DET	DT	_	9	det	_	_
+8	great	_	ADJ	JJ	_	9	amod	_	_
+9	price	_	NOUN	NN	_	2	nmod	_	_
+10	,	_	PUNCT	,	_	2	punct	_	_
+11	it	_	PRON	PRP	_	14	nsubj	_	_
+12	's	_	VERB	VBZ	_	14	cop	_	_
+13	enough	_	ADJ	JJ	_	14	amod	_	_
+14	food	_	NOUN	NN	_	2	parataxis	_	_
+15	to	_	PART	TO	_	16	aux	_	_
+16	fill	_	VERB	VB	_	14	xcomp	_	_
+17	you	_	PRON	PRP	_	16	dobj	_	_
+18	up	_	ADP	RP	_	16	compound:prt	_	_
+19	,	_	PUNCT	,	_	2	punct	_	_
+20	but	_	CONJ	CC	_	2	cc	_	_
+21	you	_	PRON	PRP	_	25	nsubj	_	_
+22	do	_	AUX	VBP	_	25	aux	_	_
+23	n't	_	PART	RB	_	25	neg	_	_
+24	ever	_	ADV	RB	_	25	advmod	_	_
+25	feel	_	VERB	VB	_	2	conj	_	_
+26	like	_	SCONJ	IN	_	28	mark	_	_
+27	you	_	PRON	PRP	_	28	nsubj	_	_
+28	ate	_	VERB	VBD	_	25	advcl	_	_
+29	too	_	ADV	RB	_	30	advmod	_	_
+30	much	_	ADJ	JJ	_	28	dobj	_	_
+31	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Plus	_	CONJ	CC	_	6	cc	_	_
+2	,	_	PUNCT	,	_	6	punct	_	_
+3	it	_	PRON	PRP	_	6	nsubj	_	_
+4	's	_	VERB	VBZ	_	6	cop	_	_
+5	super	_	ADV	RB	_	6	advmod	_	_
+6	healthy	_	ADJ	JJ	_	0	root	_	_
+7	!	_	PUNCT	.	_	6	punct	_	_
+		

@@ -1,0 +1,7 @@
+1	WHAT	_	DET	WDT	_	4	predet	_	_
+2	A	_	DET	DT	_	4	det	_	_
+3	GREAT	_	ADJ	JJ	_	4	amod	_	_
+4	DEAL	_	NOUN	NN	_	0	root	_	_
+5	THANK	_	VERB	VBP	_	4	parataxis	_	_
+6	YOU	_	PRON	PRP	_	5	dobj	_	_
+		

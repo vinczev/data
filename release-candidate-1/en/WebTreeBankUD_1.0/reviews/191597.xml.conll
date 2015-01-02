@@ -1,0 +1,34 @@
+1	Awsome	_	ADJ	JJ	_	0	root	_	_
+2	!	_	PUNCT	.	_	1	punct	_	_
+		
+1	Great	_	ADJ	JJ	_	2	amod	_	_
+2	food	_	NOUN	NN	_	0	root	_	_
+3	cheap	_	ADJ	JJ	_	2	list	_	_
+		
+1	Every	_	DET	DT	_	2	det	_	_
+2	thing	_	NOUN	NN	_	5	nsubj	_	_
+3	here	_	ADV	RB	_	2	advmod	_	_
+4	is	_	VERB	VBZ	_	5	cop	_	_
+5	good	_	ADJ	JJ	_	0	root	_	_
+6	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	Fish	_	NOUN	NN	_	2	compound	_	_
+2	tacos	_	NOUN	NNS	_	5	nsubj	_	_
+3	are	_	VERB	VBP	_	5	cop	_	_
+4	my	_	PRON	PRP$	_	5	nmod:poss	_	_
+5	fave	_	NOUN	NN	_	0	root	_	_
+6	simple	_	ADJ	JJ	_	5	parataxis	_	_
+7	and	_	CONJ	CC	_	6	cc	_	_
+8	filling	_	ADJ	JJ	_	6	conj	_	_
+9	Highly	_	ADV	RB	_	10	advmod	_	_
+10	recommend	_	VERB	VBP	_	5	parataxis	_	_
+11	Mi	_	PROPN	NNP	_	12	compound	_	_
+12	Pueblo	_	PROPN	NNP	_	10	dobj	_	_
+13	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	Gets	_	VERB	VBZ	_	0	root	_	_
+2	busy	_	ADJ	JJ	_	1	xcomp	_	_
+3	so	_	ADV	RB	_	4	mark	_	_
+4	come	_	VERB	VB	_	2	advcl	_	_
+5	early	_	ADV	RB	_	4	advmod	_	_
+		

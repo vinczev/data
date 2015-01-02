@@ -1,0 +1,31 @@
+1	All	_	DET	DT	_	6	nsubj	_	_
+2	you	_	PRON	PRP	_	3	nsubj	_	_
+3	have	_	VERB	VBP	_	1	acl:relcl	_	_
+4	to	_	PART	TO	_	5	aux	_	_
+5	do	_	VERB	VB	_	3	xcomp	_	_
+6	is	_	VERB	VBZ	_	0	root	_	_
+7	sign	_	VERB	VB	_	6	ccomp	_	_
+8	up	_	ADP	RP	_	7	compound:prt	_	_
+9	for	_	ADP	IN	_	12	case	_	_
+10	one	_	NUM	CD	_	12	nummod	_	_
+11	free	_	ADJ	JJ	_	12	amod	_	_
+12	offer	_	NOUN	NN	_	7	nmod	_	_
+13	-LRB-	_	PUNCT	-LRB-	_	16	punct	_	_
+14	such	_	ADJ	JJ	_	16	case	_	_
+15	as	_	ADP	IN	_	14	mwe	_	_
+16	efax	_	NOUN	NN	_	12	nmod	_	_
+17	-RRB-	_	PUNCT	-RRB-	_	16	punct	_	_
+18	and	_	CONJ	CC	_	7	cc	_	_
+19	then	_	ADV	RB	_	20	advmod	_	_
+20	cancel	_	VERB	VB	_	7	conj	_	_
+21	within	_	ADP	IN	_	25	case	_	_
+22	the	_	DET	DT	_	25	det	_	_
+23	offer	_	NOUN	NN	_	25	compound	_	_
+24	time	_	NOUN	NN	_	25	compound	_	_
+25	frame	_	NOUN	NN	_	20	nmod	_	_
+26	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	Absolutely	_	ADV	RB	_	2	advmod	_	_
+2	free	_	ADJ	JJ	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+		

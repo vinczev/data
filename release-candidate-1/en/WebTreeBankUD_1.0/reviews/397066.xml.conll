@@ -1,0 +1,62 @@
+1	Great	_	ADJ	JJ	_	3	amod	_	_
+2	pet	_	NOUN	NN	_	3	compound	_	_
+3	care	_	NOUN	NN	_	0	root	_	_
+		
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	have	_	AUX	VBP	_	3	aux	_	_
+3	used	_	VERB	VBN	_	0	root	_	_
+4	Just	_	PROPN	NNP	_	6	compound	_	_
+5	Like	_	PROPN	NNP	_	6	compound	_	_
+6	Family	_	PROPN	NNP	_	3	dobj	_	_
+7	several	_	ADJ	JJ	_	8	amod	_	_
+8	times	_	NOUN	NNS	_	3	nmod:tmod	_	_
+9	now	_	ADV	RB	_	3	advmod	_	_
+10	and	_	CONJ	CC	_	3	cc	_	_
+11	they	_	PRON	PRP	_	13	nsubj	_	_
+12	have	_	AUX	VBP	_	13	aux	_	_
+13	provided	_	VERB	VBN	_	3	conj	_	_
+14	great	_	ADJ	JJ	_	15	amod	_	_
+15	care	_	NOUN	NN	_	13	dobj	_	_
+16	for	_	ADP	IN	_	19	case	_	_
+17	my	_	PRON	PRP$	_	19	nmod:poss	_	_
+18	two	_	NUM	CD	_	19	nummod	_	_
+19	dogs	_	NOUN	NNS	_	13	nmod	_	_
+20	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Lynda	_	PROPN	NNP	_	3	nsubj	_	_
+2	is	_	VERB	VBZ	_	3	cop	_	_
+3	professional	_	ADJ	JJ	_	0	root	_	_
+4	and	_	CONJ	CC	_	3	cc	_	_
+5	has	_	VERB	VBZ	_	3	conj	_	_
+6	great	_	ADJ	JJ	_	7	amod	_	_
+7	compassion	_	NOUN	NN	_	5	dobj	_	_
+8	for	_	ADP	IN	_	9	case	_	_
+9	animals	_	NOUN	NNS	_	7	nmod	_	_
+10	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	The	_	DET	DT	_	3	det	_	_
+2	real	_	ADJ	JJ	_	3	amod	_	_
+3	testament	_	NOUN	NN	_	10	nsubj	_	_
+4	is	_	VERB	VBZ	_	10	cop	_	_
+5	not	_	PART	RB	_	10	neg	_	_
+6	in	_	ADP	IN	_	10	mark	_	_
+7	how	_	ADV	WRB	_	8	advmod	_	_
+8	much	_	ADV	RB	_	10	advmod	_	_
+9	she	_	PRON	PRP	_	10	nsubj	_	_
+10	likes	_	VERB	VBZ	_	0	root	_	_
+11	your	_	PRON	PRP$	_	12	nmod:poss	_	_
+12	animals	_	NOUN	NNS	_	10	dobj	_	_
+13	but	_	CONJ	CC	_	10	cc	_	_
+14	how	_	ADV	WRB	_	15	advmod	_	_
+15	much	_	ADV	RB	_	17	advmod	_	_
+16	they	_	PRON	PRP	_	17	nsubj	_	_
+17	like	_	VERB	VBP	_	10	conj	_	_
+18	her	_	PRON	PRP	_	17	dobj	_	_
+19	.	_	PUNCT	.	_	10	punct	_	_
+		
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	highly	_	ADV	RB	_	3	advmod	_	_
+3	recommend	_	VERB	VBP	_	0	root	_	_
+4	her	_	PRON	PRP	_	3	dobj	_	_
+5	.	_	PUNCT	.	_	3	punct	_	_
+		

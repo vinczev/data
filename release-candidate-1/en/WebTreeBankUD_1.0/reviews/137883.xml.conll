@@ -1,0 +1,19 @@
+1	Your	_	PRON	PRP$	_	4	nmod:poss	_	_
+2	average	_	ADJ	JJ	_	4	amod	_	_
+3	crappy	_	ADJ	JJ	_	4	amod	_	_
+4	chain	_	NOUN	NN	_	0	root	_	_
+5	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	Food	_	NOUN	NN	_	3	nsubj	_	_
+2	is	_	VERB	VBZ	_	3	cop	_	_
+3	awful	_	ADJ	JJ	_	0	root	_	_
+4	and	_	CONJ	CC	_	3	cc	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	place	_	NOUN	NN	_	7	nsubj	_	_
+7	caters	_	VERB	VBZ	_	3	conj	_	_
+8	to	_	ADP	IN	_	11	case	_	_
+9	the	_	DET	DT	_	11	det	_	_
+10	yuppy	_	NOUN	NN	_	11	compound	_	_
+11	crowd	_	NOUN	NN	_	7	nmod	_	_
+12	.	_	PUNCT	.	_	3	punct	_	_
+		

@@ -1,0 +1,64 @@
+1	these	_	DET	DT	_	2	det	_	_
+2	guys	_	NOUN	NNS	_	4	nsubj	_	_
+3	were	_	VERB	VBD	_	4	cop	_	_
+4	fantastic	_	ADJ	JJ	_	0	root	_	_
+5	!	_	PUNCT	.	_	4	punct	_	_
+		
+1	they	_	PRON	PRP	_	2	nsubj	_	_
+2	fixed	_	VERB	VBD	_	0	root	_	_
+3	my	_	PRON	PRP$	_	5	nmod:poss	_	_
+4	garage	_	NOUN	NN	_	5	compound	_	_
+5	doors	_	NOUN	NNS	_	2	dobj	_	_
+6	in	_	ADP	IN	_	11	case	_	_
+7	literally	_	ADV	RB	_	8	advmod	_	_
+8	less	_	ADJ	JJR	_	11	advmod	_	_
+9	than	_	ADP	IN	_	8	mwe	_	_
+10	an	_	DET	DT	_	11	nummod	_	_
+11	hour	_	NOUN	NN	_	2	nmod	_	_
+12	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	the	_	DET	DT	_	2	det	_	_
+2	guy	_	NOUN	NN	_	3	nsubj	_	_
+3	came	_	VERB	VBD	_	0	root	_	_
+4	on	_	ADP	IN	_	5	case	_	_
+5	time	_	NOUN	NN	_	3	nmod	_	_
+6	and	_	CONJ	CC	_	3	cc	_	_
+7	did	_	AUX	VBD	_	9	aux	_	_
+8	n't	_	PART	RB	_	9	neg	_	_
+9	take	_	VERB	VB	_	3	conj	_	_
+10	any	_	DET	DT	_	11	det	_	_
+11	breaks	_	NOUN	NN	_	9	dobj	_	_
+12	,	_	PUNCT	,	_	3	punct	_	_
+13	he	_	PRON	PRP	_	14	nsubj	_	_
+14	went	_	VERB	VBD	_	3	parataxis	_	_
+15	straight	_	ADV	RB	_	14	advmod	_	_
+16	to	_	PART	TO	_	17	aux	_	_
+17	work	_	VERB	VB	_	14	advcl	_	_
+18	and	_	CONJ	CC	_	14	cc	_	_
+19	finished	_	VERB	VBD	_	14	conj	_	_
+20	the	_	DET	DT	_	21	det	_	_
+21	job	_	NOUN	NN	_	19	dobj	_	_
+22	efficiently	_	ADV	RB	_	19	advmod	_	_
+23	and	_	CONJ	CC	_	22	cc	_	_
+24	promptly	_	ADV	RB	_	22	conj	_	_
+25	!	_	PUNCT	.	_	3	punct	_	_
+		
+1	i	_	PRON	PRP	_	6	nsubj	_	_
+2	could	_	AUX	MD	_	6	aux	_	_
+3	n't	_	PART	RB	_	6	neg	_	_
+4	be	_	VERB	VB	_	6	cop	_	_
+5	more	_	ADV	RBR	_	6	advmod	_	_
+6	happier	_	ADJ	JJR	_	0	root	_	_
+7	with	_	ADP	IN	_	9	case	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	way	_	NOUN	NN	_	6	nmod	_	_
+10	my	_	PRON	PRP$	_	11	nmod:poss	_	_
+11	garage	_	NOUN	NN	_	12	nsubj	_	_
+12	looks	_	VERB	VBZ	_	9	acl:relcl	_	_
+13	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	GREAT	_	ADJ	JJ	_	2	amod	_	_
+2	JOB	_	NOUN	NN	_	0	root	_	_
+3	GUYS	_	NOUN	NNS	_	2	vocative	_	_
+4	!	_	PUNCT	.	_	2	punct	_	_
+		

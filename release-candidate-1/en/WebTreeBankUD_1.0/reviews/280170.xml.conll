@@ -1,0 +1,63 @@
+1	Ca	_	AUX	MD	_	3	aux	_	_
+2	n't	_	PART	RB	_	3	neg	_	_
+3	say	_	VERB	VB	_	0	root	_	_
+4	enough	_	ADJ	JJ	_	3	dobj	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	used	_	VERB	VBD	_	0	root	_	_
+3	to	_	PART	TO	_	4	aux	_	_
+4	tan	_	VERB	VB	_	2	xcomp	_	_
+5	down	_	ADP	IN	_	7	case	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	street	_	NOUN	NN	_	4	nmod	_	_
+8	before	_	SCONJ	IN	_	11	mark	_	_
+9	I	_	PRON	PRP	_	11	nsubjpass	_	_
+10	was	_	AUX	VBD	_	11	auxpass	_	_
+11	referred	_	VERB	VBN	_	4	advcl	_	_
+12	to	_	ADP	IN	_	14	case	_	_
+13	this	_	DET	DT	_	14	det	_	_
+14	place	_	NOUN	NN	_	11	nmod	_	_
+15	by	_	ADP	IN	_	16	case	_	_
+16	one	_	NUM	CD	_	11	nmod	_	_
+17	of	_	ADP	IN	_	19	case	_	_
+18	my	_	PRON	PRP$	_	19	nmod:poss	_	_
+19	friends	_	NOUN	NNS	_	16	nmod	_	_
+20	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	WOW	_	INTJ	UH	_	0	root	_	_
+2	!	_	PUNCT	.	_	1	punct	_	_
+		
+1	I	_	PRON	PRP	_	4	nsubj	_	_
+2	did	_	AUX	VBD	_	4	aux	_	_
+3	n't	_	PART	RB	_	4	neg	_	_
+4	know	_	VERB	VB	_	0	root	_	_
+5	what	_	PRON	WP	_	8	dobj	_	_
+6	I	_	PRON	PRP	_	8	nsubj	_	_
+7	was	_	AUX	VBD	_	8	aux	_	_
+8	missing	_	VERB	VBG	_	4	ccomp	_	_
+9	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	The	_	DET	DT	_	3	det	_	_
+2	lowest	_	ADJ	JJS	_	3	amod	_	_
+3	bed	_	NOUN	NN	_	6	nsubj	_	_
+4	here	_	ADV	RB	_	3	advmod	_	_
+5	is	_	VERB	VBZ	_	6	cop	_	_
+6	better	_	ADJ	JJR	_	0	root	_	_
+7	than	_	ADP	IN	_	13	case	_	_
+8	my	_	PRON	PRP$	_	10	nmod:poss	_	_
+9	last	_	ADJ	JJ	_	10	amod	_	_
+10	salon	_	NOUN	NN	_	13	nmod:poss	_	_
+11	s	_	PART	POS	_	10	case	_	_
+12	highest	_	ADJ	JJS	_	13	amod	_	_
+13	level	_	NOUN	NN	_	6	nmod	_	_
+14	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	Salon	_	NOUN	NN	_	3	nsubj	_	_
+2	is	_	VERB	VBZ	_	3	cop	_	_
+3	clean	_	ADJ	JJ	_	0	root	_	_
+4	and	_	CONJ	CC	_	3	cc	_	_
+5	girls	_	NOUN	NNS	_	7	nsubj	_	_
+6	are	_	VERB	VBP	_	7	cop	_	_
+7	nice	_	ADJ	JJ	_	3	conj	_	_
+8	.	_	PUNCT	.	_	3	punct	_	_
+		

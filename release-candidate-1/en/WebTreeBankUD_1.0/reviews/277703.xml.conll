@@ -1,0 +1,14 @@
+1	The	_	DET	DT	_	3	det	_	_
+2	best	_	ADJ	JJS	_	3	amod	_	_
+3	Supermarket	_	NOUN	NN	_	7	nsubj	_	_
+4	in	_	ADP	IN	_	6	case	_	_
+5	Bay	_	PROPN	NNP	_	6	compound	_	_
+6	Ridge	_	PROPN	NNP	_	3	nmod	_	_
+7	have	_	VERB	VBP	_	0	root	_	_
+8	everything	_	NOUN	NN	_	7	dobj	_	_
+9	what	_	DET	WDT	_	12	dobj	_	_
+10	a	_	DET	DT	_	11	det	_	_
+11	customer	_	NOUN	NN	_	12	nsubj	_	_
+12	needs	_	VERB	VBZ	_	8	acl:relcl	_	_
+13	.	_	PUNCT	.	_	7	punct	_	_
+		

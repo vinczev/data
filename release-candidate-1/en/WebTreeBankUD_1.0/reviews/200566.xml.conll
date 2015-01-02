@@ -1,0 +1,34 @@
+1	THE	_	DET	DT	_	2	det	_	_
+2	TEACHING	_	NOUN	NN	_	4	nsubj	_	_
+3	THERE	_	ADV	RB	_	2	advmod	_	_
+4	SUCKS	_	VERB	VBZ	_	0	root	_	_
+5	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	_	PUNCT	.	_	4	punct	_	_
+		
+1	ALL	_	DET	DT	_	8	nsubj	_	_
+2	OF	_	ADP	IN	_	4	case	_	_
+3	THE	_	DET	DT	_	4	det	_	_
+4	TEACHERS	_	NOUN	NNS	_	1	nmod	_	_
+5	THERE	_	ADV	RB	_	1	advmod	_	_
+6	ARE	_	VERB	VBP	_	8	cop	_	_
+7	SO	_	ADV	RB	_	8	advmod	_	_
+8	MEAN	_	ADJ	JJ	_	0	root	_	_
+9	THEY	_	PRON	PRP	_	11	nsubj	_	_
+10	GET	_	VERB	VBP	_	11	aux	_	_
+11	MAD	_	ADJ	JJ	_	8	parataxis	_	_
+12	AT	_	ADP	IN	_	13	case	_	_
+13	YOU	_	PRON	PRP	_	11	nmod	_	_
+14	FOR	_	ADP	IN	_	15	case	_	_
+15	NOTHING	_	NOUN	NN	_	11	nmod	_	_
+16	!!!!!!!!!!!!!!!!!!!	_	PUNCT	.	_	8	punct	_	_
+		
+1	THIS	_	DET	DT	_	5	nsubj	_	_
+2	IS	_	VERB	VBZ	_	5	cop	_	_
+3	THE	_	DET	DT	_	5	det	_	_
+4	WORST	_	ADJ	JJS	_	5	amod	_	_
+5	SCHOOL	_	NOUN	NN	_	0	root	_	_
+6	I	_	PRON	PRP	_	9	nsubj	_	_
+7	VE	_	AUX	VBP	_	9	aux	_	_
+8	BEEN	_	VERB	VBN	_	9	cop	_	_
+9	TO	_	ADP	IN	_	5	acl:relcl	_	_
+10	!!!!!!	_	PUNCT	.	_	5	punct	_	_
+		

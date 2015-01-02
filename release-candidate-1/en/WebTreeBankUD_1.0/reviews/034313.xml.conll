@@ -1,0 +1,49 @@
+1	criminal	_	ADJ	JJ	_	2	compound	_	_
+2	defense	_	NOUN	NN	_	3	compound	_	_
+3	lawyer	_	NOUN	NN	_	0	root	_	_
+		
+1	Mr.	_	PROPN	NNP	_	2	compound	_	_
+2	Villega	_	PROPN	NNP	_	9	nsubj	_	_
+3	is	_	VERB	VBZ	_	9	cop	_	_
+4	an	_	DET	DT	_	9	det	_	_
+5	exceptional	_	ADJ	JJ	_	9	amod	_	_
+6	California	_	PROPN	NNP	_	9	compound	_	_
+7	criminal	_	ADJ	JJ	_	8	amod	_	_
+8	defense	_	NOUN	NN	_	9	compound	_	_
+9	lawyer	_	NOUN	NN	_	0	root	_	_
+10	.	_	PUNCT	.	_	9	punct	_	_
+		
+1	He	_	PRON	PRP	_	3	nsubj	_	_
+2	cross	_	VERB	VB	_	3	advmod	_	_
+3	examined	_	VERB	VBD	_	0	root	_	_
+4	witnesses	_	NOUN	NNS	_	3	dobj	_	_
+5	relentlessly	_	ADV	RB	_	3	advmod	_	_
+6	and	_	CONJ	CC	_	3	cc	_	_
+7	had	_	VERB	VBD	_	3	conj	_	_
+8	them	_	PRON	PRP	_	7	dobj	_	_
+9	break	_	VERB	VB	_	7	xcomp	_	_
+10	down	_	ADP	RP	_	9	compound:prt	_	_
+11	and	_	CONJ	CC	_	9	cc	_	_
+12	tell	_	VERB	VB	_	9	conj	_	_
+13	the	_	DET	DT	_	14	det	_	_
+14	truth	_	NOUN	NN	_	12	dobj	_	_
+15	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	If	_	SCONJ	IN	_	3	mark	_	_
+2	you	_	PRON	PRP	_	3	nsubj	_	_
+3	want	_	VERB	VBP	_	12	advcl	_	_
+4	an	_	DET	DT	_	5	det	_	_
+5	attorney	_	NOUN	NN	_	3	dobj	_	_
+6	who	_	PRON	WP	_	8	nsubj	_	_
+7	will	_	AUX	MD	_	8	aux	_	_
+8	defend	_	VERB	VB	_	5	acl:relcl	_	_
+9	your	_	PRON	PRP$	_	10	nmod:poss	_	_
+10	right	_	NOUN	NN	_	8	dobj	_	_
+11	,	_	PUNCT	,	_	12	punct	_	_
+12	contact	_	VERB	VB	_	0	root	_	_
+13	Law	_	PROPN	NNP	_	14	compound	_	_
+14	Offices	_	PROPN	NNPS	_	12	dobj	_	_
+15	of	_	ADP	IN	_	17	case	_	_
+16	Armando	_	PROPN	NNP	_	17	compound	_	_
+17	Villega	_	PROPN	NNP	_	14	nmod	_	_
+		

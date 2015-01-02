@@ -1,0 +1,15 @@
+1	No	_	DET	DT	_	2	det	_	_
+2	meat	_	NOUN	NN	_	0	root	_	_
+3	on	_	ADP	IN	_	4	case	_	_
+4	Burger	_	NOUN	NN	_	2	nmod	_	_
+5	and	_	CONJ	CC	_	2	cc	_	_
+6	too	_	ADV	RB	_	7	advmod	_	_
+7	much	_	ADJ	JJ	_	8	amod	_	_
+8	pepper	_	NOUN	NN	_	2	conj	_	_
+9	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	no	_	DET	DT	_	2	neg	_	_
+2	place	_	NOUN	NN	_	0	root	_	_
+3	to	_	PART	TO	_	4	aux	_	_
+4	seat	_	VERB	VB	_	2	acl	_	_
+		

@@ -1,0 +1,87 @@
+1	24	_	NUM	CD	_	2	nummod	_	_
+2	hour	_	NOUN	NN	_	4	compound	_	_
+3	fast	_	ADJ	JJ	_	4	amod	_	_
+4	resturants	_	NOUN	NNS	_	0	root	_	_
+5	near	_	ADV	RB	_	6	advmod	_	_
+6	by	_	ADV	RB	_	4	advmod	_	_
+7	?	_	PUNCT	.	_	4	punct	_	_
+		
+1	Well	_	INTJ	UH	_	3	discourse	_	_
+2	there	_	DET	EX	_	3	expl	_	_
+3	s	_	VERB	VBZ	_	0	root	_	_
+4	Mc.	_	PROPN	NNP	_	5	compound	_	_
+5	Donald	_	PROPN	NNP	_	3	nsubj	_	_
+6	s	_	PART	POS	_	5	case	_	_
+7	,	_	PUNCT	,	_	5	punct	_	_
+8	Taco	_	PROPN	NNP	_	9	compound	_	_
+9	Bell	_	PROPN	NNP	_	5	appos	_	_
+10	,	_	PUNCT	,	_	5	punct	_	_
+11	Burger	_	PROPN	NNP	_	12	compound	_	_
+12	King	_	PROPN	NNP	_	5	appos	_	_
+13	.....	_	PUNCT	.	_	3	punct	_	_
+		
+1	But	_	CONJ	CC	_	6	cc	_	_
+2	my	_	PRON	PRP$	_	3	nmod:poss	_	_
+3	resturant	_	NOUN	NN	_	6	nsubj	_	_
+4	is	_	VERB	VBZ	_	6	cop	_	_
+5	way	_	ADV	RB	_	6	advmod	_	_
+6	better	_	ADJ	JJR	_	0	root	_	_
+7	than	_	ADP	IN	_	8	case	_	_
+8	all	_	DET	DT	_	6	nmod	_	_
+9	of	_	ADP	IN	_	10	case	_	_
+10	them	_	PRON	PRP	_	8	nmod	_	_
+11	...	_	PUNCT	,	_	6	punct	_	_
+12	and	_	CONJ	CC	_	6	cc	_	_
+13	it	_	PRON	PRP	_	16	nsubj	_	_
+14	's	_	VERB	VBZ	_	16	cop	_	_
+15	quite	_	ADV	RB	_	16	advmod	_	_
+16	close	_	ADV	RB	_	6	conj	_	_
+17	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	It	_	PRON	PRP	_	6	nsubj	_	_
+2	's	_	VERB	VBZ	_	6	cop	_	_
+3	just	_	ADV	RB	_	6	advmod	_	_
+4	up	_	ADP	IN	_	6	mark	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	highway	_	NOUN	NN	_	0	root	_	_
+7	and	_	CONJ	CC	_	6	cc	_	_
+8	right	_	ADV	RB	_	11	advmod	_	_
+9	around	_	ADP	IN	_	11	case	_	_
+10	the	_	DET	DT	_	11	det	_	_
+11	corner	_	NOUN	NN	_	6	conj	_	_
+12	....	_	PUNCT	.	_	6	punct	_	_
+		
+1	Nearby	_	ADP	IN	_	2	case	_	_
+2	what	_	PRON	WP	_	0	root	_	_
+3	?	_	PUNCT	.	_	2	punct	_	_
+		
+1	Loop	_	PROPN	NNP	_	0	root	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+3	North	_	PROPN	NNP	_	4	compound	_	_
+4	Side	_	PROPN	NNP	_	1	conj	_	_
+5	,	_	PUNCT	,	_	1	punct	_	_
+6	South	_	PROPN	NNP	_	7	compound	_	_
+7	Side	_	PROPN	NNP	_	1	conj	_	_
+8	,	_	PUNCT	,	_	1	punct	_	_
+9	near	_	ADJ	JJ	_	10	amod	_	_
+10	suburbs	_	NOUN	NNS	_	1	conj	_	_
+11	,	_	PUNCT	,	_	1	punct	_	_
+12	far	_	ADJ	JJ	_	13	amod	_	_
+13	suburbs	_	NOUN	NNS	_	1	conj	_	_
+14	?	_	PUNCT	.	_	1	punct	_	_
+		
+1	Chicago	_	PROPN	NNP	_	5	nsubj	_	_
+2	's	_	VERB	VBZ	_	5	cop	_	_
+3	a	_	DET	DT	_	5	det	_	_
+4	big	_	ADJ	JJ	_	5	amod	_	_
+5	area	_	NOUN	NN	_	0	root	_	_
+6	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	PORTILLO	_	PROPN	NNP	_	0	root	_	_
+2	'S	_	PART	POS	_	1	case	_	_
+3	OR	_	PROPN	NNP	_	1	cc	_	_
+4	WHITE	_	PROPN	NNP	_	5	compound	_	_
+5	CASTLE	_	PROPN	NNP	_	1	conj	_	_
+6	!	_	PUNCT	.	_	1	punct	_	_
+7	:D	_	SYM	NFP	_	1	discourse	_	_
+		

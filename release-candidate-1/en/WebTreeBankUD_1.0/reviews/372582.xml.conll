@@ -1,0 +1,17 @@
+1	Prime	_	ADJ	JJ	_	2	amod	_	_
+2	rib	_	NOUN	NN	_	5	nsubj	_	_
+3	was	_	VERB	VBD	_	5	cop	_	_
+4	very	_	ADV	RB	_	5	advmod	_	_
+5	tough	_	ADJ	JJ	_	0	root	_	_
+6	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	Staff	_	NOUN	NNS	_	3	nsubj	_	_
+2	were	_	VERB	VBD	_	3	cop	_	_
+3	pleasant	_	ADJ	JJ	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Wo	_	AUX	MD	_	3	aux	_	_
+2	n't	_	PART	RB	_	3	neg	_	_
+3	return	_	VERB	VB	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+		

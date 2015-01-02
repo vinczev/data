@@ -1,0 +1,277 @@
+1	Kay	_	PROPN	NNP	_	2	compound	_	_
+2	Mann	_	PROPN	NNP	_	0	root	_	_
+		
+1	04/26/2001	_	NUM	CD	_	0	root	_	_
+2	07:17	_	NUM	CD	_	3	nummod	_	_
+3	AM	_	NOUN	NN	_	1	nmod:tmod	_	_
+		
+1	Will	_	AUX	MD	_	4	aux	_	_
+2	you	_	PRON	PRP	_	4	nsubj	_	_
+3	be	_	AUX	VB	_	4	aux	_	_
+4	providing	_	VERB	VBG	_	0	root	_	_
+5	an	_	DET	DT	_	7	det	_	_
+6	execution	_	NOUN	NN	_	7	compound	_	_
+7	version	_	NOUN	NN	_	4	dobj	_	_
+8	with	_	ADP	IN	_	9	case	_	_
+9	questions	_	NOUN	NNS	_	7	nmod	_	_
+10	removed	_	VERB	VBN	_	9	acl	_	_
+11	/	_	PUNCT	,	_	9	cc	_	_
+12	blanks	_	NOUN	NNS	_	9	conj	_	_
+13	filled	_	VERB	VBN	_	12	acl	_	_
+14	in	_	ADP	RP	_	13	compound:prt	_	_
+15	?	_	PUNCT	.	_	4	punct	_	_
+		
+1	Please	_	INTJ	UH	_	2	discourse	_	_
+2	send	_	VERB	VB	_	0	root	_	_
+3	it	_	PRON	PRP	_	2	dobj	_	_
+4	directly	_	ADV	RB	_	2	advmod	_	_
+5	to	_	ADP	IN	_	6	case	_	_
+6	kent.shoemaker@ae.ge.com	_	X	ADD	_	2	nmod	_	_
+7	,	_	PUNCT	,	_	2	punct	_	_
+8	copy	_	VERB	VB	_	2	parataxis	_	_
+9	to	_	ADP	IN	_	10	case	_	_
+10	me	_	PRON	PRP	_	8	nmod	_	_
+11	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Thanks	_	NOUN	NN	_	0	root	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+		
+1	Thanks	_	NOUN	NN	_	0	root	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+		
+1	Kay	_	PROPN	NNP	_	0	root	_	_
+		
+1	"	_	PUNCT	``	_	2	punct	_	_
+2	paulhastings.com	_	X	ADD	_	4	nsubj	_	_
+3	"	_	PUNCT	''	_	2	punct	_	_
+4	made	_	VERB	VBD	_	0	root	_	_
+5	the	_	DET	DT	_	7	det	_	_
+6	following	_	VERB	VBG	_	7	amod	_	_
+7	annotations	_	NOUN	NNS	_	4	dobj	_	_
+8	on	_	ADP	IN	_	9	case	_	_
+9	04/25/01	_	NUM	CD	_	4	nmod	_	_
+10	12:42:55	_	NUM	CD	_	9	nmod:tmod	_	_
+		
+1	We	_	PRON	PRP	_	3	nsubj	_	_
+2	have	_	AUX	VBP	_	3	aux	_	_
+3	changed	_	VERB	VBN	_	0	root	_	_
+4	our	_	PRON	PRP$	_	6	nmod:poss	_	_
+5	e-mail	_	NOUN	NN	_	6	compound	_	_
+6	address	_	NOUN	NN	_	3	dobj	_	_
+7	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Our	_	PRON	PRP$	_	4	nmod:poss	_	_
+2	new	_	ADJ	JJ	_	4	amod	_	_
+3	domain	_	NOUN	NN	_	4	compound	_	_
+4	name	_	NOUN	NN	_	6	nsubj	_	_
+5	is	_	VERB	VBZ	_	6	cop	_	_
+6	paulhastings.com	_	X	ADD	_	0	root	_	_
+7	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	In	_	ADP	IN	_	3	case	_	_
+2	most	_	ADJ	JJS	_	3	amod	_	_
+3	cases	_	NOUN	NNS	_	8	nmod	_	_
+4	,	_	PUNCT	,	_	8	punct	_	_
+5	our	_	PRON	PRP$	_	6	nmod:poss	_	_
+6	address	_	NOUN	NN	_	8	nsubjpass	_	_
+7	is	_	AUX	VBZ	_	8	auxpass	_	_
+8	composed	_	VERB	VBN	_	0	root	_	_
+9	of	_	ADP	IN	_	12	case	_	_
+10	conventional	_	ADJ	JJ	_	12	amod	_	_
+11	first	_	ADJ	JJ	_	12	amod	_	_
+12	name	_	NOUN	NN	_	8	nmod	_	_
+13	and	_	CONJ	CC	_	12	cc	_	_
+14	last	_	ADJ	JJ	_	15	amod	_	_
+15	name	_	NOUN	NN	_	12	conj	_	_
+16	plus	_	CONJ	CC	_	12	cc	_	_
+17	@paulhastings.com	_	NOUN	NN	_	12	conj	_	_
+18	.	_	PUNCT	.	_	8	punct	_	_
+		
+1	Here	_	ADV	RB	_	0	root	_	_
+2	are	_	VERB	VBP	_	1	cop	_	_
+3	two	_	NUM	CD	_	4	nummod	_	_
+4	examples	_	NOUN	NNS	_	1	nsubj	_	_
+5	:	_	PUNCT	:	_	6	punct	_	_
+6	janesmith@paulhastings.com	_	X	ADD	_	4	appos	_	_
+7	and	_	CONJ	CC	_	6	cc	_	_
+8	danjones@paulhastings.com	_	X	ADD	_	6	conj	_	_
+9	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	If	_	SCONJ	IN	_	3	mark	_	_
+2	you	_	PRON	PRP	_	3	nsubj	_	_
+3	have	_	VERB	VBP	_	8	advcl	_	_
+4	any	_	DET	DT	_	5	det	_	_
+5	questions	_	NOUN	NNS	_	3	dobj	_	_
+6	,	_	PUNCT	,	_	8	punct	_	_
+7	please	_	INTJ	UH	_	8	discourse	_	_
+8	contact	_	VERB	VB	_	0	root	_	_
+9	us	_	PRON	PRP	_	8	dobj	_	_
+10	at	_	ADP	IN	_	11	case	_	_
+11	noc@paulhastings.com	_	X	ADD	_	8	nmod	_	_
+12	.	_	PUNCT	.	_	8	punct	_	_
+		
+1	==============================================================================	_	SYM	NFP	_	0	root	_	_
+		
+1	"	_	PUNCT	``	_	6	punct	_	_
+2	The	_	DET	DT	_	3	det	_	_
+3	information	_	NOUN	NN	_	6	nsubjpass	_	_
+4	transmitted	_	VERB	VBN	_	3	acl	_	_
+5	is	_	AUX	VBZ	_	6	auxpass	_	_
+6	intended	_	VERB	VBN	_	0	root	_	_
+7	only	_	ADV	RB	_	10	advmod	_	_
+8	for	_	ADP	IN	_	10	case	_	_
+9	the	_	DET	DT	_	10	det	_	_
+10	person	_	NOUN	NN	_	6	nmod	_	_
+11	or	_	CONJ	CC	_	10	cc	_	_
+12	entity	_	NOUN	NN	_	10	conj	_	_
+13	to	_	ADP	IN	_	14	case	_	_
+14	which	_	DET	WDT	_	17	nmod	_	_
+15	it	_	PRON	PRP	_	17	nsubjpass	_	_
+16	is	_	AUX	VBZ	_	17	auxpass	_	_
+17	addressed	_	VERB	VBN	_	10	acl:relcl	_	_
+18	and	_	CONJ	CC	_	6	cc	_	_
+19	may	_	AUX	MD	_	20	aux	_	_
+20	contain	_	VERB	VB	_	6	conj	_	_
+21	confidential	_	ADJ	JJ	_	26	amod	_	_
+22	and	_	CONJ	CC	_	21	cc	_	_
+23	/	_	PUNCT	,	_	21	punct	_	_
+24	or	_	CONJ	CC	_	21	cc	_	_
+25	privileged	_	ADJ	JJ	_	21	conj	_	_
+26	material	_	NOUN	NN	_	20	dobj	_	_
+27	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	Any	_	DET	DT	_	2	det	_	_
+2	review	_	NOUN	NN	_	33	nsubjpass	_	_
+3	,	_	PUNCT	,	_	2	punct	_	_
+4	retransmission	_	NOUN	NN	_	2	conj	_	_
+5	,	_	PUNCT	,	_	2	punct	_	_
+6	dissemination	_	NOUN	NN	_	2	conj	_	_
+7	or	_	CONJ	CC	_	2	cc	_	_
+8	other	_	ADJ	JJ	_	9	amod	_	_
+9	use	_	NOUN	NN	_	2	conj	_	_
+10	of	_	ADP	IN	_	9	nmod	_	_
+11	,	_	PUNCT	,	_	2	punct	_	_
+12	or	_	CONJ	CC	_	2	cc	_	_
+13	taking	_	NOUN	NN	_	2	conj	_	_
+14	of	_	ADP	IN	_	16	case	_	_
+15	any	_	DET	DT	_	16	det	_	_
+16	action	_	NOUN	NN	_	13	nmod	_	_
+17	in	_	ADP	IN	_	18	case	_	_
+18	reliance	_	NOUN	NN	_	13	nmod	_	_
+19	upon	_	ADP	IN	_	22	case	_	_
+20	,	_	PUNCT	,	_	2	punct	_	_
+21	this	_	DET	DT	_	22	det	_	_
+22	information	_	NOUN	NN	_	10	conj	_	_
+23	by	_	ADP	IN	_	24	case	_	_
+24	persons	_	NOUN	NNS	_	2	nmod	_	_
+25	or	_	CONJ	CC	_	24	cc	_	_
+26	entities	_	NOUN	NNS	_	24	conj	_	_
+27	other	_	ADJ	JJ	_	24	amod	_	_
+28	than	_	ADP	IN	_	31	case	_	_
+29	the	_	DET	DT	_	31	det	_	_
+30	intended	_	VERB	VBN	_	31	amod	_	_
+31	recipient	_	NOUN	NN	_	27	nmod	_	_
+32	is	_	AUX	VBZ	_	33	auxpass	_	_
+33	prohibited	_	VERB	VBN	_	0	root	_	_
+34	.	_	PUNCT	.	_	33	punct	_	_
+		
+1	If	_	SCONJ	IN	_	3	mark	_	_
+2	you	_	PRON	PRP	_	3	nsubj	_	_
+3	received	_	VERB	VBD	_	9	advcl	_	_
+4	this	_	DET	DT	_	3	dobj	_	_
+5	in	_	ADP	IN	_	6	case	_	_
+6	error	_	NOUN	NN	_	3	nmod	_	_
+7	,	_	PUNCT	,	_	9	punct	_	_
+8	please	_	INTJ	UH	_	9	discourse	_	_
+9	contact	_	VERB	VB	_	0	root	_	_
+10	the	_	DET	DT	_	11	det	_	_
+11	sender	_	NOUN	NN	_	9	dobj	_	_
+12	and	_	CONJ	CC	_	9	cc	_	_
+13	delete	_	VERB	VB	_	9	conj	_	_
+14	the	_	DET	DT	_	15	det	_	_
+15	material	_	NOUN	NN	_	13	dobj	_	_
+16	from	_	ADP	IN	_	18	case	_	_
+17	all	_	DET	DT	_	18	det	_	_
+18	computers	_	NOUN	NNS	_	13	nmod	_	_
+19	.	_	PUNCT	.	_	9	punct	_	_
+20	"	_	PUNCT	''	_	9	punct	_	_
+		
+1	==============================================================================	_	SYM	NFP	_	0	root	_	_
+		
+1	Attached	_	VERB	VBN	_	9	xcomp	_	_
+2	please	_	INTJ	UH	_	3	discourse	_	_
+3	find	_	VERB	VB	_	0	root	_	_
+4	the	_	DET	DT	_	6	det	_	_
+5	GE	_	PROPN	NNP	_	6	compound	_	_
+6	Guarantee	_	NOUN	NN	_	3	dobj	_	_
+7	in	_	ADP	IN	_	9	case	_	_
+8	Word	_	PROPN	NNP	_	9	compound	_	_
+9	format	_	NOUN	NN	_	6	nmod	_	_
+10	.?	_	PUNCT	.	_	3	punct	_	_
+		
+1	Also	_	ADV	RB	_	5	advmod	_	_
+2	,	_	PUNCT	,	_	5	punct	_	_
+3	we	_	PRON	PRP	_	5	nsubj	_	_
+4	have	_	AUX	VBP	_	5	aux	_	_
+5	attached	_	VERB	VBN	_	0	root	_	_
+6	a	_	DET	DT	_	10	det	_	_
+7	pdf	_	NOUN	NN	_	10	compound	_	_
+8	black	_	NOUN	NN	_	10	compound	_	_
+9	-	_	PUNCT	HYPH	_	10	punct	_	_
+10	line	_	NOUN	NN	_	5	dobj	_	_
+11	of	_	ADP	IN	_	13	case	_	_
+12	the	_	DET	DT	_	13	det	_	_
+13	Guarantee	_	NOUN	NN	_	10	nmod	_	_
+14	vs	_	ADP	IN	_	16	case	_	_
+15	the	_	DET	DT	_	16	det	_	_
+16	form	_	NOUN	NN	_	10	nmod	_	_
+17	of	_	ADP	IN	_	18	case	_	_
+18	guarantee	_	NOUN	NN	_	16	nmod	_	_
+19	in	_	ADP	IN	_	22	case	_	_
+20	the	_	DET	DT	_	22	det	_	_
+21	Turbine	_	NOUN	NN	_	22	compound	_	_
+22	Contract	_	NOUN	NN	_	16	nmod	_	_
+23	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	?	_	PUNCT	.	_	0	root	_	_
+		
+1	Do	_	AUX	VB	_	3	aux	_	_
+2	not	_	PART	RB	_	3	neg	_	_
+3	hesitate	_	VERB	VB	_	0	root	_	_
+4	to	_	PART	TO	_	5	aux	_	_
+5	call	_	VERB	VB	_	3	xcomp	_	_
+6	us	_	PRON	PRP	_	5	dobj	_	_
+7	with	_	ADP	IN	_	9	case	_	_
+8	any	_	DET	DT	_	9	det	_	_
+9	questions	_	NOUN	NNS	_	5	nmod	_	_
+10	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	?	_	PUNCT	.	_	0	root	_	_
+		
+1	Best	_	ADJ	JJS	_	2	amod	_	_
+2	regards	_	NOUN	NNS	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	?	_	PUNCT	.	_	0	root	_	_
+		
+1	______________________	_	SYM	NFP	_	0	root	_	_
+		
+1	John	_	PROPN	NNP	_	2	compound	_	_
+2	Staikos	_	PROPN	NNP	_	0	root	_	_
+3	Direct	_	ADJ	JJ	_	4	amod	_	_
+4	Dial	_	NOUN	NN	_	2	list	_	_
+5	:?	_	PUNCT	:	_	4	punct	_	_
+6	203.961.7523	_	NUM	CD	_	4	appos	_	_
+7	Direct	_	ADJ	JJ	_	8	amod	_	_
+8	Fax	_	NOUN	NN	_	2	list	_	_
+9	:?	_	PUNCT	:	_	8	punct	_	_
+10	203.674.7723	_	NUM	CD	_	8	appos	_	_
+11	E-mail	_	NOUN	NN	_	2	list	_	_
+12	:?	_	PUNCT	:	_	11	punct	_	_
+13	johnstaikos@paulhastings.com	_	X	ADD	_	11	appos	_	_
+		
+1	?	_	PUNCT	.	_	0	root	_	_
+		
+1	-	_	PUNCT	NFP	_	2	dep	_	_
+2	47K202!.DOC	_	NOUN	NN	_	0	root	_	_
+		

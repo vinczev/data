@@ -1,0 +1,19 @@
+1	Place	_	NOUN	NN	_	3	nsubj	_	_
+2	is	_	VERB	VBZ	_	3	cop	_	_
+3	legit	_	ADJ	JJ	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	We	_	PRON	PRP	_	2	nsubj	_	_
+2	got	_	VERB	VBD	_	0	root	_	_
+3	upgraded	_	VERB	VBN	_	2	xcomp	_	_
+4	to	_	ADP	IN	_	7	case	_	_
+5	a	_	DET	DT	_	7	det	_	_
+6	corner	_	NOUN	NN	_	7	compound	_	_
+7	suite	_	NOUN	NN	_	3	nmod	_	_
+8	!	_	PUNCT	.	_	2	punct	_	_
+		
+1	Room	_	NOUN	NN	_	3	nsubj	_	_
+2	was	_	VERB	VBD	_	3	cop	_	_
+3	amazing	_	ADJ	JJ	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+		

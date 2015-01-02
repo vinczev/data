@@ -1,0 +1,87 @@
+1	Furnace	_	NOUN	NN	_	2	compound	_	_
+2	repair	_	NOUN	NN	_	0	root	_	_
+		
+1	Tiger	_	PROPN	NNP	_	2	compound	_	_
+2	Heating	_	PROPN	NNP	_	4	nsubj	_	_
+3	is	_	VERB	VBZ	_	4	cop	_	_
+4	awesome	_	ADJ	JJ	_	0	root	_	_
+5	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	had	_	VERB	VBD	_	0	root	_	_
+3	John	_	PROPN	NNP	_	2	dobj	_	_
+4	and	_	CONJ	CC	_	3	cc	_	_
+5	Dustin	_	PROPN	NNP	_	3	conj	_	_
+6	working	_	VERB	VBG	_	3	acl	_	_
+7	feverishly	_	ADV	RB	_	6	advmod	_	_
+8	to	_	PART	TO	_	9	aux	_	_
+9	get	_	VERB	VB	_	6	advcl	_	_
+10	my	_	PRON	PRP$	_	12	nmod:poss	_	_
+11	exhaust	_	NOUN	NN	_	12	compound	_	_
+12	motor	_	NOUN	NN	_	9	dobj	_	_
+13	replaced	_	VERB	VBN	_	9	xcomp	_	_
+14	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	These	_	DET	DT	_	2	det	_	_
+2	guys	_	NOUN	NNS	_	5	nsubj	_	_
+3	were	_	VERB	VBD	_	5	cop	_	_
+4	absolutely	_	ADV	RB	_	5	advmod	_	_
+5	professional	_	ADJ	JJ	_	0	root	_	_
+6	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	John	_	PROPN	NNP	_	3	nsubj	_	_
+2	was	_	VERB	VBD	_	3	cop	_	_
+3	here	_	ADV	RB	_	0	root	_	_
+4	in	_	ADP	IN	_	6	case	_	_
+5	45	_	NUM	CD	_	6	nummod	_	_
+6	minutes	_	NOUN	NNS	_	3	nmod	_	_
+7	after	_	SCONJ	IN	_	9	mark	_	_
+8	I	_	PRON	PRP	_	9	nsubj	_	_
+9	called	_	VERB	VBD	_	3	advcl	_	_
+10	on	_	ADP	IN	_	17	case	_	_
+11	a	_	DET	DT	_	17	det	_	_
+12	10	_	NUM	CD	_	17	amod	_	_
+13	below	_	ADP	IN	_	14	case	_	_
+14	zero	_	NUM	CD	_	12	nmod	_	_
+15	early	_	ADJ	JJ	_	17	amod	_	_
+16	Sunday	_	PROPN	NNP	_	17	compound	_	_
+17	morning	_	NOUN	NN	_	9	nmod	_	_
+18	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	If	_	SCONJ	IN	_	3	mark	_	_
+2	you	_	PRON	PRP	_	3	nsubj	_	_
+3	need	_	VERB	VBP	_	17	advcl	_	_
+4	someone	_	NOUN	NN	_	3	dobj	_	_
+5	to	_	PART	TO	_	6	aux	_	_
+6	help	_	VERB	VB	_	4	acl	_	_
+7	you	_	PRON	PRP	_	6	dobj	_	_
+8	out	_	ADP	RP	_	6	compound:prt	_	_
+9	with	_	ADP	IN	_	12	case	_	_
+10	your	_	PRON	PRP$	_	12	nmod:poss	_	_
+11	heating	_	NOUN	NN	_	12	compound	_	_
+12	problems	_	NOUN	NNS	_	6	nmod	_	_
+13	,	_	PUNCT	,	_	17	punct	_	_
+14	I	_	PRON	PRP	_	17	nsubj	_	_
+15	DEFINITELY	_	ADV	RB	_	17	advmod	_	_
+16	would	_	AUX	MD	_	17	aux	_	_
+17	call	_	VERB	VB	_	0	root	_	_
+18	TIGER	_	PROPN	NNP	_	19	compound	_	_
+19	HEATING	_	PROPN	NNP	_	17	dobj	_	_
+20	and	_	CONJ	CC	_	19	cc	_	_
+21	AIR	_	PROPN	NNP	_	19	conj	_	_
+22	.	_	PUNCT	.	_	17	punct	_	_
+		
+1	Absolutely	_	ADV	RB	_	4	advmod	_	_
+2	a	_	DET	DT	_	4	det	_	_
+3	wonderful	_	ADJ	JJ	_	4	amod	_	_
+4	company	_	NOUN	NN	_	0	root	_	_
+5	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	My	_	PRON	PRP$	_	2	nmod:poss	_	_
+2	family	_	NOUN	NN	_	5	nsubj	_	_
+3	and	_	CONJ	CC	_	2	cc	_	_
+4	I	_	PRON	PRP	_	2	conj	_	_
+5	thank	_	VERB	VBP	_	0	root	_	_
+6	you	_	PRON	PRP	_	5	dobj	_	_
+7	!!!!!!!!!!	_	PUNCT	.	_	5	punct	_	_
+		

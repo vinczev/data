@@ -1,0 +1,19 @@
+1	Drove	_	VERB	VBD	_	0	root	_	_
+2	all	_	DET	PDT	_	4	predet	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	way	_	NOUN	NN	_	1	nmod:npmod	_	_
+5	over	_	ADV	RB	_	4	advmod	_	_
+6	from	_	ADP	IN	_	8	case	_	_
+7	the	_	DET	DT	_	8	det	_	_
+8	highway	_	NOUN	NN	_	1	nmod	_	_
+9	...	_	PUNCT	,	_	1	punct	_	_
+10	closed	_	VERB	VBD	_	1	parataxis	_	_
+11	at	_	ADP	IN	_	12	case	_	_
+12	7	_	NUM	CD	_	10	nmod	_	_
+13	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Who	_	PRON	WP	_	2	nsubj	_	_
+2	does	_	VERB	VBZ	_	0	root	_	_
+3	that	_	DET	DT	_	2	dobj	_	_
+4	?!	_	PUNCT	.	_	2	punct	_	_
+		

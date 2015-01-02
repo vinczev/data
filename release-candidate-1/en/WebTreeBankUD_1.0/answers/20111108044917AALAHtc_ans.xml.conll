@@ -1,0 +1,31 @@
+1	how	_	ADV	WRB	_	2	advmod	_	_
+2	much	_	ADJ	JJ	_	5	dobj	_	_
+3	does	_	AUX	VBZ	_	5	aux	_	_
+4	it	_	PRON	PRP	_	5	expl	_	_
+5	cost	_	VERB	VB	_	0	root	_	_
+6	to	_	PART	TO	_	7	aux	_	_
+7	join	_	VERB	VB	_	5	csubj	_	_
+8	world	_	PROPN	NNP	_	10	compound	_	_
+9	resorts	_	PROPN	NNPS	_	10	compound	_	_
+10	international	_	PROPN	NNP	_	7	dobj	_	_
+11	?	_	PUNCT	.	_	5	punct	_	_
+		
+1	could	_	AUX	MD	_	3	aux	_	_
+2	not	_	PART	RB	_	3	neg	_	_
+3	find	_	VERB	VB	_	0	root	_	_
+4	any	_	DET	DT	_	5	det	_	_
+5	info	_	NOUN	NN	_	3	dobj	_	_
+6	online	_	ADV	RB	_	3	advmod	_	_
+		
+1	email	_	VERB	VB	_	0	root	_	_
+2	them	_	PRON	PRP	_	1	dobj	_	_
+3	at	_	ADP	IN	_	4	case	_	_
+4	address	_	NOUN	NN	_	1	nmod	_	_
+5	below	_	ADV	RB	_	4	advmod	_	_
+		
+1	E-mail	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	1	punct	_	_
+3	memberservices@worldresortsinternational.com	_	X	ADD	_	1	appos	_	_
+		
+1	m	_	PROPN	NNP	_	0	root	_	_
+		

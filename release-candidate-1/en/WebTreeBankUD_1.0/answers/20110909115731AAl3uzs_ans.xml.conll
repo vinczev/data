@@ -1,0 +1,24 @@
+1	How	_	ADV	WRB	_	2	advmod	_	_
+2	much	_	ADJ	JJ	_	0	root	_	_
+3	is	_	VERB	VBZ	_	2	cop	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	big	_	PROPN	NNP	_	6	compound	_	_
+6	mac	_	PROPN	NNP	_	3	nsubj	_	_
+7	in	_	ADP	IN	_	9	case	_	_
+8	your	_	PRON	PRP$	_	9	nmod:poss	_	_
+9	country	_	NOUN	NN	_	2	nmod	_	_
+10	?	_	PUNCT	.	_	3	punct	_	_
+		
+1	$	_	SYM	$	_	0	root	_	_
+2	5.76	_	NUM	CD	_	1	nummod	_	_
+3	For	_	ADP	IN	_	6	case	_	_
+4	the	_	DET	DT	_	6	det	_	_
+5	Combo	_	PROPN	NNP	_	6	compound	_	_
+6	Meal	_	PROPN	NNP	_	1	nmod	_	_
+7	!!	_	PUNCT	.	_	1	punct	_	_
+		
+1	:--RRB-	_	SYM	NFP	_	0	root	_	_
+		
+1	\\	_	SYM	NFP	_	2	discourse	_	_
+2	//	_	SYM	NFP	_	0	root	_	_
+		

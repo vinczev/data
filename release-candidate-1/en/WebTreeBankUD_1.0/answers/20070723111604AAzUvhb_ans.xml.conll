@@ -1,0 +1,80 @@
+1	Miramar	_	PROPN	NNP	_	0	root	_	_
+2	?	_	PUNCT	.	_	1	punct	_	_
+		
+1	are	_	AUX	VBP	_	4	aux	_	_
+2	they	_	PRON	PRP	_	4	nsubj	_	_
+3	just	_	ADV	RB	_	4	advmod	_	_
+4	making	_	VERB	VBG	_	0	root	_	_
+5	these	_	DET	DT	_	6	det	_	_
+6	places	_	NOUN	NNS	_	4	dobj	_	_
+7	up	_	ADP	RP	_	4	compound:prt	_	_
+8	?	_	PUNCT	.	_	4	punct	_	_
+		
+1	Well	_	INTJ	UH	_	3	discourse	_	_
+2	you	_	PRON	PRP	_	3	nsubj	_	_
+3	say	_	VERB	VBP	_	0	root	_	_
+4	Miramar	_	PROPN	NNP	_	3	dobj	_	_
+5	I	_	PRON	PRP	_	6	nsubj	_	_
+6	say	_	VERB	VBP	_	3	conj	_	_
+7	Piramar	_	PROPN	NNP	_	6	dobj	_	_
+		
+1	MIRAMAR	_	PROPN	NNP	_	0	root	_	_
+		
+1	PIRAMAR	_	PROPN	NNP	_	0	root	_	_
+		
+1	Let	_	VERB	VB	_	0	root	_	_
+2	s	_	PRON	PRP	_	3	nsubj	_	_
+3	call	_	VERB	VB	_	1	ccomp	_	_
+4	the	_	DET	DT	_	6	det	_	_
+5	whole	_	ADJ	JJ	_	6	amod	_	_
+6	thing	_	NOUN	NN	_	3	dobj	_	_
+7	off	_	ADP	RP	_	3	compound:prt	_	_
+8	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Miramir	_	PROPN	NNP	_	4	nsubj	_	_
+2	is	_	VERB	VBZ	_	4	cop	_	_
+3	for	_	ADP	IN	_	4	mark	_	_
+4	real	_	ADJ	JJ	_	0	root	_	_
+5	,	_	PUNCT	,	_	4	punct	_	_
+6	but	_	CONJ	CC	_	4	cc	_	_
+7	there	_	DET	EX	_	8	expl	_	_
+8	are	_	VERB	VBP	_	4	conj	_	_
+9	a	_	DET	DT	_	10	det	_	_
+10	lot	_	NOUN	NN	_	8	nsubj	_	_
+11	that	_	DET	WDT	_	12	nsubj	_	_
+12	make	_	VERB	VBP	_	10	acl:relcl	_	_
+13	you	_	PRON	PRP	_	14	nsubj	_	_
+14	wonder	_	VERB	VB	_	12	ccomp	_	_
+15	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	There	_	DET	EX	_	2	expl	_	_
+2	are	_	VERB	VBP	_	0	root	_	_
+3	way	_	ADV	RB	_	4	advmod	_	_
+4	more	_	ADV	RBR	_	5	advmod	_	_
+5	stranger	_	ADJ	JJR	_	6	amod	_	_
+6	names	_	NOUN	NNS	_	2	nsubj	_	_
+7	in	_	ADP	IN	_	9	case	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	U.S	_	PROPN	NNP	_	6	nmod	_	_
+10	for	_	ADP	IN	_	11	case	_	_
+11	areas	_	NOUN	NNS	_	6	nmod	_	_
+12	than	_	ADP	IN	_	13	case	_	_
+13	Miramar	_	PROPN	NNP	_	5	nmod	_	_
+14	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	i	_	PRON	PRP	_	2	nsubj	_	_
+2	think	_	VERB	VBP	_	0	root	_	_
+3	Miramar	_	PROPN	NNP	_	8	nsubj	_	_
+4	was	_	VERB	VBD	_	8	cop	_	_
+5	a	_	DET	DT	_	8	det	_	_
+6	famous	_	ADJ	JJ	_	8	amod	_	_
+7	goat	_	NOUN	NN	_	8	compound	_	_
+8	trainer	_	NOUN	NN	_	2	ccomp	_	_
+9	or	_	CONJ	CC	_	8	cc	_	_
+10	something	_	NOUN	NN	_	8	conj	_	_
+11	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	He	_	PRON	PRP	_	2	nsubj	_	_
+2	deserved	_	VERB	VBD	_	0	root	_	_
+3	respect	_	NOUN	NN	_	2	dobj	_	_
+		

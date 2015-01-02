@@ -1,0 +1,79 @@
+1	Le	_	PROPN	NNP	_	2	compound	_	_
+2	petit	_	PROPN	NNP	_	6	nsubj	_	_
+3	is	_	VERB	VBZ	_	6	cop	_	_
+4	the	_	DET	DT	_	6	det	_	_
+5	best	_	ADJ	JJS	_	6	amod	_	_
+6	place	_	NOUN	NN	_	0	root	_	_
+7	to	_	PART	TO	_	8	aux	_	_
+8	get	_	VERB	VB	_	6	acl	_	_
+9	your	_	PRON	PRP$	_	10	nmod:poss	_	_
+10	nails	_	NOUN	NNS	_	8	dobj	_	_
+11	done	_	VERB	VBN	_	8	xcomp	_	_
+12	!	_	PUNCT	.	_	6	punct	_	_
+		
+1	It	_	PRON	PRP	_	4	nsubj	_	_
+2	is	_	VERB	VBZ	_	4	cop	_	_
+3	very	_	ADV	RB	_	4	advmod	_	_
+4	clean	_	ADJ	JJ	_	0	root	_	_
+5	,	_	PUNCT	,	_	4	punct	_	_
+6	staff	_	NOUN	NN	_	8	nsubj	_	_
+7	is	_	VERB	VBZ	_	8	cop	_	_
+8	friendly	_	ADJ	JJ	_	4	conj	_	_
+9	,	_	PUNCT	,	_	4	punct	_	_
+10	and	_	CONJ	CC	_	4	cc	_	_
+11	I	_	PRON	PRP	_	14	nsubj	_	_
+12	have	_	AUX	VBP	_	14	aux	_	_
+13	never	_	ADV	RB	_	14	neg	_	_
+14	waited	_	VERB	VBN	_	4	conj	_	_
+15	!	_	PUNCT	.	_	4	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	go	_	VERB	VBP	_	0	root	_	_
+3	every	_	DET	DT	_	5	det	_	_
+4	other	_	ADJ	JJ	_	5	amod	_	_
+5	week	_	NOUN	NN	_	2	nmod:npmod	_	_
+6	for	_	ADP	IN	_	11	case	_	_
+7	the	_	DET	DT	_	11	det	_	_
+8	shallac	_	NOUN	NN	_	10	compound	_	_
+9	/	_	PUNCT	,	_	10	punct	_	_
+10	gel	_	NOUN	NN	_	11	compound	_	_
+11	manicure	_	NOUN	NN	_	2	nmod	_	_
+12	which	_	DET	WDT	_	15	nsubj	_	_
+13	is	_	VERB	VBZ	_	15	cop	_	_
+14	only	_	ADV	RB	_	16	advmod	_	_
+15	$	_	SYM	$	_	11	acl:relcl	_	_
+16	25	_	NUM	CD	_	15	nummod	_	_
+17	and	_	CONJ	CC	_	2	cc	_	_
+18	it	_	PRON	PRP	_	20	nsubj	_	_
+19	truly	_	ADV	RB	_	20	advmod	_	_
+20	lasts	_	VERB	VBZ	_	2	conj	_	_
+21	2	_	NUM	CD	_	22	nummod	_	_
+22	weeks	_	NOUN	NNS	_	20	nmod:npmod	_	_
+23	!	_	PUNCT	.	_	2	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	love	_	VERB	VBP	_	0	root	_	_
+3	it	_	PRON	PRP	_	2	dobj	_	_
+4	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Pedicures	_	NOUN	NNS	_	4	nsubj	_	_
+2	are	_	VERB	VBP	_	4	cop	_	_
+3	also	_	ADV	RB	_	4	advmod	_	_
+4	great	_	ADJ	JJ	_	0	root	_	_
+5	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	Try	_	VERB	VB	_	0	root	_	_
+2	this	_	DET	DT	_	3	det	_	_
+3	place	_	NOUN	NN	_	1	dobj	_	_
+4	out	_	ADP	RP	_	1	compound:prt	_	_
+5	!	_	PUNCT	.	_	1	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	promise	_	VERB	VBP	_	0	root	_	_
+3	you	_	PRON	PRP	_	7	nsubjpass	_	_
+4	will	_	AUX	MD	_	7	aux	_	_
+5	not	_	PART	RB	_	7	neg	_	_
+6	be	_	AUX	VB	_	7	auxpass	_	_
+7	disappointed	_	VERB	VBN	_	2	ccomp	_	_
+8	!	_	PUNCT	.	_	2	punct	_	_
+		

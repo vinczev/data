@@ -1,0 +1,73 @@
+1	*	_	PUNCT	NFP	_	0	root	_	_
+		
+1	Twinkle	_	VERB	VB	_	0	root	_	_
+2	Twinkle	_	VERB	VB	_	1	conj	_	_
+3	lazy	_	ADJ	JJ	_	4	amod	_	_
+4	star	_	NOUN	NN	_	1	vocative	_	_
+5	Kitna	_	X	FW	_	8	dep	_	_
+6	soyega	_	X	FW	_	8	dep	_	_
+7	uthja	_	X	FW	_	8	dep	_	_
+8	yaar	_	X	FW	_	1	dep	_	_
+9	,	_	PUNCT	,	_	1	punct	_	_
+10	up	_	ADV	RB	_	19	advmod	_	_
+11	above	_	ADP	IN	_	13	case	_	_
+12	the	_	DET	DT	_	13	det	_	_
+13	world	_	NOUN	NN	_	19	nmod	_	_
+14	so	_	ADV	RB	_	15	advmod	_	_
+15	high	_	ADV	RB	_	19	advmod	_	_
+16	,	_	PUNCT	,	_	19	punct	_	_
+17	sun	_	NOUN	NN	_	19	nsubj	_	_
+18	has	_	AUX	VBZ	_	19	aux	_	_
+19	risen	_	VERB	VBN	_	1	parataxis	_	_
+20	in	_	ADP	IN	_	22	case	_	_
+21	the	_	DET	DT	_	22	det	_	_
+22	sky	_	NOUN	NN	_	19	nmod	_	_
+23	,	_	PUNCT	,	_	1	punct	_	_
+24	uthke	_	X	FW	_	28	dep	_	_
+25	jaldi	_	X	FW	_	28	dep	_	_
+26	pee	_	X	FW	_	28	dep	_	_
+27	le	_	X	FW	_	28	dep	_	_
+28	chai	_	X	FW	_	1	dep	_	_
+29	,	_	PUNCT	,	_	1	punct	_	_
+30	then	_	ADV	RB	_	31	advmod	_	_
+31	call	_	VERB	VB	_	1	dep	_	_
+32	me	_	PRON	PRP	_	31	dobj	_	_
+33	up	_	ADP	RP	_	31	compound:prt	_	_
+34	and	_	CONJ	CC	_	31	cc	_	_
+35	say	_	VERB	VB	_	31	conj	_	_
+36	"	_	PUNCT	``	_	37	dep	_	_
+37	HI	_	INTJ	UH	_	35	ccomp	_	_
+38	"	_	PUNCT	''	_	37	punct	_	_
+		
+1	**	_	PUNCT	NFP	_	0	root	_	_
+		
+1	Good	_	ADJ	JJ	_	2	amod	_	_
+2	Morning	_	NOUN	NN	_	0	root	_	_
+3	*	_	PUNCT	NFP	_	1	punct	_	_
+4	*	_	PUNCT	NFP	_	1	punct	_	_
+		
+1	Have	_	VERB	VB	_	0	root	_	_
+2	a	_	DET	DT	_	4	det	_	_
+3	Nice	_	ADJ	JJ	_	4	amod	_	_
+4	Day	_	NOUN	NN	_	1	dobj	_	_
+5	*	_	PUNCT	NFP	_	1	dep	_	_
+6	**	_	PUNCT	NFP	_	1	dep	_	_
+		
+1	**	_	PUNCT	NFP	_	0	root	_	_
+		
+1	--	_	PUNCT	NFP	_	0	root	_	_
+		
+1	Thanks	_	NOUN	NN	_	0	root	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	Regard	_	NOUN	NN	_	1	conj	_	_
+		
+1	Rajendra	_	PROPN	NNP	_	0	root	_	_
+		
+1	rajendra.o...@gmail.com	_	X	ADD	_	0	root	_	_
+		
+1	image_gif_part	_	NOUN	NN	_	0	root	_	_
+		
+1	81	_	NUM	CD	_	2	nummod	_	_
+2	K	_	NUM	CD	_	3	nmod:npmod	_	_
+3	Download	_	NOUN	NN	_	0	root	_	_
+		

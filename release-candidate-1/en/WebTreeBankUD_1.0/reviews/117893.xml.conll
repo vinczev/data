@@ -1,0 +1,26 @@
+1	Aweesome	_	ADJ	JJ	_	0	root	_	_
+		
+1	Holy	_	ADJ	JJ	_	2	discourse	_	_
+2	cow	_	NOUN	NN	_	4	discourse	_	_
+3	was	_	VERB	VBD	_	7	cop	_	_
+4	that	_	DET	DT	_	7	nsubj	_	_
+5	a	_	DET	DT	_	7	det	_	_
+6	delicious	_	ADJ	JJ	_	7	amod	_	_
+7	meal	_	NOUN	NN	_	0	root	_	_
+8	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	Hot	_	ADJ	JJ	_	0	root	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+3	fresh	_	ADJ	JJ	_	1	conj	_	_
+4	,	_	PUNCT	,	_	1	punct	_	_
+5	delicious	_	ADJ	JJ	_	1	conj	_	_
+6	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Loved	_	VERB	VBD	_	0	root	_	_
+2	every	_	DET	DT	_	3	det	_	_
+3	bit	_	NOUN	NN	_	1	dobj	_	_
+4	of	_	ADP	IN	_	5	case	_	_
+5	it	_	PRON	PRP	_	3	nmod	_	_
+6	.	_	PUNCT	.	_	1	punct	_	_
+7	:-RRB-	_	SYM	NFP	_	1	discourse	_	_
+		

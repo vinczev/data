@@ -1,0 +1,17 @@
+1	Which	_	DET	WDT	_	3	det	_	_
+2	wonderful	_	ADJ	JJ	_	3	amod	_	_
+3	contact	_	NOUN	NN	_	8	nsubj	_	_
+4	of	_	ADP	IN	_	5	case	_	_
+5	mine	_	PRON	PRP	_	3	nmod	_	_
+6	is	_	AUX	VBZ	_	8	aux	_	_
+7	thumbs	_	NOUN	NNS	_	8	nmod:npmod	_	_
+8	upping	_	VERB	VBG	_	0	root	_	_
+9	all	_	DET	PDT	_	12	predet	_	_
+10	my	_	PRON	PRP$	_	12	nmod:poss	_	_
+11	best	_	ADJ	JJS	_	12	amod	_	_
+12	answers	_	NOUN	NNS	_	8	dobj	_	_
+13	^^	_	SYM	NFP	_	8	discourse	_	_
+14	?	_	PUNCT	.	_	8	punct	_	_
+		
+1	=-RRB-	_	SYM	NFP	_	0	root	_	_
+		

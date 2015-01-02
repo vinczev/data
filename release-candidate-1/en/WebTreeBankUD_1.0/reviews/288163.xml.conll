@@ -1,0 +1,106 @@
+1	Amazing	_	ADJ	JJ	_	2	amod	_	_
+2	Experience	_	NOUN	NN	_	0	root	_	_
+3	!	_	PUNCT	.	_	2	punct	_	_
+		
+1	My	_	PRON	PRP$	_	2	nmod:poss	_	_
+2	experience	_	NOUN	NN	_	4	nsubj	_	_
+3	was	_	VERB	VBD	_	4	cop	_	_
+4	amazing	_	ADJ	JJ	_	0	root	_	_
+5	at	_	ADP	IN	_	7	case	_	_
+6	Providence	_	PROPN	NNP	_	7	compound	_	_
+7	Aesthetics	_	PROPN	NNPS	_	4	nmod	_	_
+8	and	_	CONJ	CC	_	7	cc	_	_
+9	Medical	_	PROPN	NNP	_	10	compound	_	_
+10	Spa	_	PROPN	NNP	_	7	conj	_	_
+11	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	Jana	_	PROPN	NNP	_	2	compound	_	_
+2	Kueck	_	PROPN	NNP	_	4	nsubj	_	_
+3	was	_	VERB	VBD	_	4	cop	_	_
+4	nothing	_	NOUN	NN	_	0	root	_	_
+5	but	_	ADP	IN	_	6	case	_	_
+6	professional	_	ADJ	JJ	_	4	nmod	_	_
+7	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	She	_	PRON	PRP	_	2	nsubj	_	_
+2	makes	_	VERB	VBZ	_	0	root	_	_
+3	you	_	PRON	PRP	_	2	dobj	_	_
+4	feel	_	VERB	VB	_	2	xcomp	_	_
+5	like	_	SCONJ	IN	_	11	mark	_	_
+6	you	_	PRON	PRP	_	11	nsubj	_	_
+7	are	_	VERB	VBP	_	11	cop	_	_
+8	the	_	DET	DT	_	11	det	_	_
+9	most	_	ADV	RBS	_	10	advmod	_	_
+10	important	_	ADJ	JJ	_	11	amod	_	_
+11	person	_	NOUN	NN	_	4	advcl	_	_
+12	in	_	ADP	IN	_	14	case	_	_
+13	the	_	DET	DT	_	14	det	_	_
+14	world	_	NOUN	NN	_	11	nmod	_	_
+15	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Jana	_	PROPN	NNP	_	2	nsubj	_	_
+2	made	_	VERB	VBD	_	0	root	_	_
+3	me	_	PRON	PRP	_	2	dobj	_	_
+4	feel	_	VERB	VB	_	2	xcomp	_	_
+5	very	_	ADV	RB	_	6	advmod	_	_
+6	comfortable	_	ADJ	JJ	_	4	xcomp	_	_
+7	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Provided	_	VERB	VBD	_	0	root	_	_
+2	me	_	PRON	PRP	_	1	dobj	_	_
+3	with	_	ADP	IN	_	5	case	_	_
+4	warm	_	ADJ	JJ	_	5	amod	_	_
+5	blanket	_	NOUN	NN	_	1	nmod	_	_
+6	and	_	CONJ	CC	_	1	cc	_	_
+7	has	_	VERB	VBZ	_	1	conj	_	_
+8	soft	_	ADJ	JJ	_	9	amod	_	_
+9	music	_	NOUN	NN	_	7	dobj	_	_
+10	playing	_	VERB	VBG	_	9	acl	_	_
+11	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Walking	_	VERB	VBG	_	7	advcl	_	_
+2	in	_	ADP	IN	_	4	case	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	door	_	NOUN	NN	_	1	nmod	_	_
+5	you	_	PRON	PRP	_	7	nsubjpass	_	_
+6	are	_	AUX	VBP	_	7	auxpass	_	_
+7	made	_	VERB	VBN	_	0	root	_	_
+8	to	_	PART	TO	_	9	aux	_	_
+9	feel	_	VERB	VB	_	7	xcomp	_	_
+10	happy	_	ADJ	JJ	_	9	xcomp	_	_
+11	and	_	CONJ	CC	_	10	cc	_	_
+12	relaxed	_	ADJ	JJ	_	10	conj	_	_
+13	.	_	PUNCT	.	_	7	punct	_	_
+		
+1	Equipment	_	NOUN	NN	_	3	nsubj	_	_
+2	is	_	VERB	VBZ	_	3	cop	_	_
+3	state	_	NOUN	NN	_	0	root	_	_
+4	of	_	ADP	IN	_	6	case	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	art	_	NOUN	NN	_	3	nmod	_	_
+7	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	would	_	AUX	MD	_	3	aux	_	_
+3	reccomend	_	VERB	VB	_	0	root	_	_
+4	anyone	_	NOUN	NN	_	3	dobj	_	_
+5	to	_	PART	TO	_	6	aux	_	_
+6	go	_	VERB	VB	_	3	xcomp	_	_
+7	see	_	VERB	VB	_	6	xcomp	_	_
+8	Jana	_	PROPN	NNP	_	9	compound	_	_
+9	Kueck	_	PROPN	NNP	_	7	dobj	_	_
+10	and	_	CONJ	CC	_	9	cc	_	_
+11	Robin	_	PROPN	NNP	_	12	compound	_	_
+12	Talley	_	PROPN	NNP	_	9	conj	_	_
+13	to	_	PART	TO	_	14	aux	_	_
+14	see	_	VERB	VB	_	7	advcl	_	_
+15	all	_	DET	PDT	_	18	predet	_	_
+16	the	_	DET	DT	_	18	det	_	_
+17	many	_	ADJ	JJ	_	18	amod	_	_
+18	procedures	_	NOUN	NNS	_	14	dobj	_	_
+19	they	_	PRON	PRP	_	20	nsubj	_	_
+20	have	_	VERB	VBP	_	18	acl:relcl	_	_
+21	to	_	PART	TO	_	22	aux	_	_
+22	offer	_	VERB	VB	_	18	acl	_	_
+23	.	_	PUNCT	.	_	3	punct	_	_
+		

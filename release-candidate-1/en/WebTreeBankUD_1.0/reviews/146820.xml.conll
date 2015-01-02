@@ -1,0 +1,24 @@
+1	Amazing	_	ADJ	JJ	_	2	amod	_	_
+2	service	_	NOUN	NN	_	0	root	_	_
+3	!	_	PUNCT	.	_	2	punct	_	_
+		
+1	I	_	PRON	PRP	_	3	nsubj	_	_
+2	just	_	ADV	RB	_	3	advmod	_	_
+3	had	_	VERB	VBD	_	0	root	_	_
+4	the	_	DET	DT	_	6	det	_	_
+5	best	_	ADJ	JJS	_	6	amod	_	_
+6	experience	_	NOUN	NN	_	3	dobj	_	_
+7	at	_	ADP	IN	_	11	case	_	_
+8	this	_	DET	DT	_	11	det	_	_
+9	Kal	_	PROPN	NNP	_	10	compound	_	_
+10	Tire	_	PROPN	NNP	_	11	compound	_	_
+11	location	_	NOUN	NN	_	3	nmod	_	_
+12	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Courteous	_	ADJ	JJ	_	0	root	_	_
+2	,	_	PUNCT	,	_	1	punct	_	_
+3	fast	_	ADJ	JJ	_	1	conj	_	_
+4	and	_	CONJ	CC	_	1	cc	_	_
+5	friendly	_	ADJ	JJ	_	1	conj	_	_
+6	.	_	PUNCT	.	_	1	punct	_	_
+		

@@ -1,0 +1,89 @@
+1	What	_	PRON	WP	_	4	dobj	_	_
+2	would	_	AUX	MD	_	4	aux	_	_
+3	you	_	PRON	PRP	_	4	nsubj	_	_
+4	call	_	VERB	VB	_	0	root	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	device	_	NOUN	NN	_	4	dobj	_	_
+7	that	_	DET	WDT	_	8	nsubj	_	_
+8	hold	_	VERB	VBP	_	6	acl:relcl	_	_
+9	up	_	ADP	RP	_	8	compound:prt	_	_
+10	your	_	PRON	PRP$	_	12	nmod:poss	_	_
+11	photography	_	NOUN	NN	_	12	compound	_	_
+12	backdrop	_	NOUN	NN	_	8	dobj	_	_
+13	?	_	PUNCT	.	_	4	punct	_	_
+		
+1	and	_	CONJ	CC	_	5	cc	_	_
+2	where	_	ADV	WRB	_	5	advmod	_	_
+3	can	_	AUX	MD	_	5	aux	_	_
+4	I	_	PRON	PRP	_	5	nsubj	_	_
+5	find	_	VERB	VB	_	0	root	_	_
+6	them	_	PRON	PRP	_	5	dobj	_	_
+7	?	_	PUNCT	.	_	5	punct	_	_
+		
+1	Background	_	NOUN	NN	_	3	compound	_	_
+2	support	_	NOUN	NN	_	3	compound	_	_
+3	systems	_	NOUN	NNS	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Or	_	CONJ	CC	_	3	cc	_	_
+2	background	_	NOUN	NN	_	3	compound	_	_
+3	stands	_	NOUN	NNS	_	0	root	_	_
+		
+1	buy	_	VERB	VB	_	0	root	_	_
+2	them	_	PRON	PRP	_	1	dobj	_	_
+3	in	_	ADP	IN	_	8	case	_	_
+4	any	_	DET	DT	_	8	det	_	_
+5	good	_	ADJ	JJ	_	8	amod	_	_
+6	photography	_	NOUN	NN	_	7	compound	_	_
+7	supplies	_	NOUN	NNS	_	8	compound	_	_
+8	shop	_	NOUN	NN	_	1	nmod	_	_
+9	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	frame	_	NOUN	NN	_	0	root	_	_
+		
+1	thumbs	_	NOUN	NNS	_	0	root	_	_
+2	down	_	ADV	RB	_	1	advmod	_	_
+3	???	_	PUNCT	.	_	1	punct	_	_
+		
+1	odd	_	ADJ	JJ	_	0	root	_	_
+2	considering	_	VERB	VBG	_	1	advcl	_	_
+3	this	_	DET	DT	_	6	nsubj	_	_
+4	is	_	VERB	VBZ	_	6	cop	_	_
+5	a	_	DET	DT	_	6	det	_	_
+6	search	_	NOUN	NN	_	2	ccomp	_	_
+7	on	_	ADP	IN	_	9	case	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	net	_	NOUN	NN	_	6	nmod	_	_
+10	:	_	PUNCT	:	_	1	punct	_	_
+		
+1	http://www.google.co.uk/search?q=backdrop+frame&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&safe=active&sout=1	_	X	ADD	_	0	root	_	_
+		
+1	Backdrop	_	NOUN	NN	_	2	compound	_	_
+2	stand	_	NOUN	NN	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Google	_	VERB	VB	_	0	root	_	_
+2	the	_	DET	DT	_	3	det	_	_
+3	term	_	NOUN	NN	_	1	dobj	_	_
+4	or	_	CONJ	CC	_	1	cc	_	_
+5	find	_	VERB	VB	_	1	conj	_	_
+6	photography	_	NOUN	NN	_	7	compound	_	_
+7	supplies	_	NOUN	NNS	_	8	compound	_	_
+8	websites	_	NOUN	NNS	_	5	dobj	_	_
+9	and	_	CONJ	CC	_	5	cc	_	_
+10	put	_	VERB	VB	_	5	conj	_	_
+11	it	_	PRON	PRP	_	10	dobj	_	_
+12	in	_	ADP	IN	_	15	case	_	_
+13	the	_	DET	DT	_	15	det	_	_
+14	search	_	NOUN	NN	_	15	compound	_	_
+15	box	_	NOUN	NN	_	10	nmod	_	_
+16	-LRB-	_	PUNCT	-LRB-	_	1	punct	_	_
+17	or	_	CONJ	CC	_	1	cc	_	_
+18	look	_	VERB	VB	_	1	conj	_	_
+19	for	_	ADP	IN	_	22	case	_	_
+20	studio	_	NOUN	NN	_	21	compound	_	_
+21	equipment	_	NOUN	NN	_	22	compound	_	_
+22	supplies	_	NOUN	NNS	_	18	nmod	_	_
+23	-RRB-	_	PUNCT	-RRB-	_	1	punct	_	_
+24	.	_	PUNCT	.	_	1	punct	_	_
+		

@@ -1,0 +1,37 @@
+1	The	_	DET	DT	_	4	det	_	_
+2	best	_	ADJ	JJS	_	4	amod	_	_
+3	Thai	_	ADJ	JJ	_	4	amod	_	_
+4	food	_	NOUN	NN	_	0	root	_	_
+5	I	_	PRON	PRP	_	8	nsubj	_	_
+6	've	_	AUX	VBP	_	8	aux	_	_
+7	ever	_	ADV	RB	_	8	advmod	_	_
+8	had	_	VERB	VBN	_	4	acl:relcl	_	_
+9	in	_	ADP	IN	_	10	case	_	_
+10	Australia	_	PROPN	NNP	_	8	nmod	_	_
+11	,	_	PUNCT	,	_	4	punct	_	_
+12	very	_	ADV	RB	_	13	advmod	_	_
+13	fresh	_	ADJ	JJ	_	4	parataxis	_	_
+14	and	_	CONJ	CC	_	13	cc	_	_
+15	so	_	ADV	RB	_	16	advmod	_	_
+16	much	_	ADJ	JJ	_	17	amod	_	_
+17	favor	_	NOUN	NN	_	13	conj	_	_
+18	of	_	ADP	IN	_	20	case	_	_
+19	authentic	_	ADJ	JJ	_	20	amod	_	_
+20	Thai	_	ADJ	JJ	_	17	nmod	_	_
+21	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	The	_	DET	DT	_	2	det	_	_
+2	restaurant	_	NOUN	NN	_	8	nsubj	_	_
+3	is	_	VERB	VBZ	_	8	cop	_	_
+4	the	_	DET	DT	_	8	det	_	_
+5	most	_	ADV	RBS	_	6	advmod	_	_
+6	beautiful	_	ADJ	JJ	_	8	compound	_	_
+7	thai	_	ADJ	JJ	_	8	amod	_	_
+8	restaurant	_	NOUN	NN	_	0	root	_	_
+9	in	_	ADP	IN	_	10	case	_	_
+10	Geelong	_	PROPN	NNP	_	8	nmod	_	_
+11	...	_	PUNCT	,	_	8	punct	_	_
+12	just	_	ADV	RB	_	13	advmod	_	_
+13	love	_	VERB	VBP	_	8	parataxis	_	_
+14	it	_	PRON	PRP	_	13	dobj	_	_
+		

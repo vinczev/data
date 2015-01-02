@@ -1,0 +1,24 @@
+1	Rooms	_	NOUN	NNS	_	3	nsubj	_	_
+2	were	_	VERB	VBD	_	3	cop	_	_
+3	outdated	_	ADJ	JJ	_	0	root	_	_
+4	,	_	PUNCT	,	_	3	punct	_	_
+5	dirty	_	ADJ	JJ	_	3	conj	_	_
+6	,	_	PUNCT	,	_	3	punct	_	_
+7	and	_	CONJ	CC	_	3	cc	_	_
+8	small	_	ADJ	JJ	_	3	conj	_	_
+9	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Service	_	NOUN	NN	_	3	nsubj	_	_
+2	was	_	VERB	VBD	_	3	cop	_	_
+3	horrible	_	ADJ	JJ	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Go	_	VERB	VB	_	0	root	_	_
+2	down	_	ADV	RB	_	1	advmod	_	_
+3	1	_	NUM	CD	_	4	nummod	_	_
+4	block	_	NOUN	NN	_	1	nmod:npmod	_	_
+5	to	_	ADP	IN	_	7	case	_	_
+6	Super	_	PROPN	NNP	_	7	compound	_	_
+7	8	_	PROPN	NNP	_	1	nmod	_	_
+8	.	_	PUNCT	.	_	1	punct	_	_
+		

@@ -1,0 +1,49 @@
+1	Great	_	ADJ	JJ	_	2	amod	_	_
+2	Place	_	NOUN	NN	_	0	root	_	_
+3	To	_	PART	TO	_	4	aux	_	_
+4	Use	_	VERB	VB	_	2	acl	_	_
+5	The	_	PRON	PRP	_	6	det	_	_
+6	Fix	_	VERB	VBP	_	2	appos	_	_
+7	appliances	_	NOUN	NNS	_	6	dobj	_	_
+8	Plumbing	_	PROPN	NNP	_	13	compound	_	_
+9	Air	_	PROPN	NNP	_	10	compound	_	_
+10	Conditioning	_	PROPN	NNP	_	8	conj	_	_
+11	&	_	CONJ	CC	_	8	cc	_	_
+12	Electric	_	PROPN	NNP	_	8	conj	_	_
+13	Problems	_	PROPN	NNP	_	7	conj	_	_
+14	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	We	_	PRON	PRP	_	3	nsubj	_	_
+2	have	_	AUX	VBP	_	3	aux	_	_
+3	used	_	VERB	VBN	_	0	root	_	_
+4	them	_	PRON	PRP	_	3	dobj	_	_
+5	for	_	ADP	IN	_	6	case	_	_
+6	plumbing	_	NOUN	NN	_	3	nmod	_	_
+7	&	_	CONJ	CC	_	6	cc	_	_
+8	A	_	NOUN	NN	_	10	compound	_	_
+9	/	_	PUNCT	HYPH	_	10	punct	_	_
+10	C	_	NOUN	NN	_	6	conj	_	_
+11	and	_	CONJ	CC	_	3	cc	_	_
+12	they	_	PRON	PRP	_	14	nsubj	_	_
+13	are	_	VERB	VBP	_	14	cop	_	_
+14	affordable	_	ADJ	JJ	_	3	conj	_	_
+15	and	_	CONJ	CC	_	14	cc	_	_
+16	get	_	VERB	VBP	_	14	conj	_	_
+17	the	_	DET	DT	_	18	det	_	_
+18	work	_	NOUN	NN	_	16	dobj	_	_
+19	done	_	VERB	VBN	_	16	xcomp	_	_
+20	right	_	ADJ	JJ	_	19	xcomp	_	_
+21	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Great	_	ADJ	JJ	_	2	amod	_	_
+2	place	_	NOUN	NN	_	0	root	_	_
+3	5	_	NUM	CD	_	4	nummod	_	_
+4	stars	_	NOUN	NNS	_	2	parataxis	_	_
+5	for	_	ADP	IN	_	6	case	_	_
+6	sure	_	ADJ	JJ	_	4	nmod	_	_
+7	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Thanks	_	NOUN	NN	_	0	root	_	_
+2	From	_	ADP	IN	_	3	case	_	_
+3	Bill	_	PROPN	NNP	_	1	nmod	_	_
+		

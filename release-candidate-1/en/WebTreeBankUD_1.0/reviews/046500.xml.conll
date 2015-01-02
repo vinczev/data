@@ -1,0 +1,20 @@
+1	Men	_	NOUN	NNS	_	5	compound	_	_
+2	s	_	PART	POS	_	1	case	_	_
+3	and	_	CONJ	CC	_	1	cc	_	_
+4	Boys	_	NOUN	NNS	_	1	conj	_	_
+5	Barbers	_	NOUN	NNS	_	0	root	_	_
+6	,	_	PUNCT	,	_	5	punct	_	_
+7	on	_	ADP	IN	_	12	case	_	_
+8	the	_	DET	DT	_	12	det	_	_
+9	number	_	NOUN	NN	_	12	compound	_	_
+10	9	_	NUM	CD	_	9	nummod	_	_
+11	Bus	_	NOUN	NN	_	12	compound	_	_
+12	route	_	NOUN	NN	_	5	nmod	_	_
+13	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	Ladies	_	NOUN	NNS	_	2	compound	_	_
+2	room	_	NOUN	NN	_	0	root	_	_
+3	,	_	PUNCT	,	_	2	punct	_	_
+4	Open	_	ADJ	JJ	_	2	parataxis	_	_
+5	Sundays	_	PROPN	NNPS	_	2	nmod:tmod	_	_
+		

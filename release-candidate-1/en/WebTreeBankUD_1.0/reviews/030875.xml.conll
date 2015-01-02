@@ -1,0 +1,37 @@
+1	Slice	_	PROPN	NNP	_	2	compound	_	_
+2	Pizza	_	PROPN	NNP	_	0	root	_	_
+3	at	_	ADP	IN	_	7	case	_	_
+4	former	_	ADJ	JJ	_	7	amod	_	_
+5	Britt	_	PROPN	NNP	_	7	nmod:poss	_	_
+6	's	_	PART	POS	_	5	case	_	_
+7	Location	_	NOUN	NN	_	2	nmod	_	_
+		
+1	Britt	_	PROPN	NNP	_	3	nmod:poss	_	_
+2	's	_	PART	POS	_	1	case	_	_
+3	Pizza	_	PROPN	NNP	_	6	nsubj	_	_
+4	is	_	VERB	VBZ	_	6	cop	_	_
+5	long	_	ADV	RB	_	6	advmod	_	_
+6	gone	_	ADJ	JJ	_	0	root	_	_
+7	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	Their	_	PRON	PRP$	_	2	nmod:poss	_	_
+2	location	_	NOUN	NN	_	16	nsubj	_	_
+3	,	_	PUNCT	,	_	2	punct	_	_
+4	the	_	DET	DT	_	6	det	_	_
+5	northwest	_	NOUN	NN	_	6	compound	_	_
+6	corner	_	NOUN	NN	_	2	appos	_	_
+7	of	_	ADP	IN	_	12	case	_	_
+8	S.	_	PROPN	NNP	_	9	compound	_	_
+9	10th	_	PROPN	NNP	_	12	compound	_	_
+10	&	_	CONJ	CC	_	9	cc	_	_
+11	Federal	_	PROPN	NNP	_	9	conj	_	_
+12	Sts.	_	PROPN	NNPS	_	6	nmod	_	_
+13	,	_	PUNCT	,	_	16	punct	_	_
+14	is	_	VERB	VBZ	_	16	cop	_	_
+15	now	_	ADV	RB	_	16	advmod	_	_
+16	home	_	NOUN	NN	_	0	root	_	_
+17	to	_	ADP	IN	_	19	case	_	_
+18	Slice	_	PROPN	NNP	_	19	compound	_	_
+19	Pizza	_	PROPN	NNP	_	16	nmod	_	_
+20	.	_	PUNCT	.	_	16	punct	_	_
+		

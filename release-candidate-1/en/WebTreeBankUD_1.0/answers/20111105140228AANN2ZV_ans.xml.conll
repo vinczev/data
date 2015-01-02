@@ -1,0 +1,60 @@
+1	What	_	PRON	WP	_	3	nsubj	_	_
+2	to	_	PART	TO	_	3	aux	_	_
+3	do	_	VERB	VB	_	0	root	_	_
+4	in	_	ADP	IN	_	7	case	_	_
+5	San	_	PROPN	NNP	_	6	compound	_	_
+6	Rafael	_	PROPN	NNP	_	7	compound	_	_
+7	Ca	_	PROPN	NNP	_	3	nmod	_	_
+8	?	_	PUNCT	.	_	3	punct	_	_
+		
+1	okay	_	INTJ	UH	_	4	discourse	_	_
+2	so	_	ADV	RB	_	4	advmod	_	_
+3	i	_	PRON	PRP	_	4	nsubj	_	_
+4	live	_	VERB	VBP	_	0	root	_	_
+5	in	_	ADP	IN	_	8	case	_	_
+6	San	_	PROPN	NNP	_	7	compound	_	_
+7	Rafael	_	PROPN	NNP	_	8	compound	_	_
+8	Ca	_	PROPN	NNP	_	4	nmod	_	_
+9	like	_	INTJ	UH	_	4	discourse	_	_
+10	by	_	ADP	IN	_	13	case	_	_
+11	the	_	DET	DT	_	13	det	_	_
+12	mi	_	PROPN	NNP	_	13	compound	_	_
+13	pueble	_	PROPN	NNP	_	4	nmod	_	_
+14	and	_	CONJ	CC	_	13	cc	_	_
+15	the	_	DET	DT	_	17	det	_	_
+16	Home	_	PROPN	NNP	_	17	compound	_	_
+17	Depot	_	PROPN	NNP	_	13	conj	_	_
+18	..	_	PUNCT	,	_	4	punct	_	_
+19	what	_	PRON	WP	_	4	parataxis	_	_
+20	are	_	VERB	VBP	_	19	cop	_	_
+21	fun	_	ADJ	JJ	_	22	amod	_	_
+22	things	_	NOUN	NNS	_	20	nsubj	_	_
+23	to	_	PART	TO	_	24	aux	_	_
+24	do	_	VERB	VB	_	22	acl	_	_
+25	around	_	ADV	RB	_	26	advmod	_	_
+26	there	_	ADV	RB	_	24	advmod	_	_
+27	?	_	PUNCT	.	_	4	punct	_	_
+		
+1	like	_	INTJ	UH	_	3	discourse	_	_
+2	any	_	DET	DT	_	3	det	_	_
+3	lounges	_	NOUN	NNS	_	0	root	_	_
+4	?	_	PUNCT	.	_	3	punct	_	_
+		
+1	i	_	PRON	PRP	_	3	nsubj	_	_
+2	m	_	VERB	VBP	_	3	cop	_	_
+3	15	_	NUM	CD	_	0	root	_	_
+4	btw	_	ADV	RB	_	3	discourse	_	_
+		
+1	what	_	PRON	WP	_	0	root	_	_
+2	about	_	ADP	IN	_	3	case	_	_
+3	downtown	_	NOUN	NN	_	1	nmod	_	_
+4	...	_	PUNCT	,	_	1	punct	_	_
+5	?	_	PUNCT	.	_	1	punct	_	_
+		
+1	like	_	INTJ	UH	_	3	discourse	_	_
+2	4th	_	NOUN	NN	_	3	compound	_	_
+3	street	_	NOUN	NN	_	0	root	_	_
+4	and	_	CONJ	CC	_	3	cc	_	_
+5	stuff	_	NOUN	NN	_	3	conj	_	_
+6	?	_	PUNCT	.	_	3	punct	_	_
+		

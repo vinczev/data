@@ -1,0 +1,30 @@
+1	A	_	DET	DT	_	3	det	_	_
+2	good	_	ADJ	JJ	_	3	amod	_	_
+3	cut	_	NOUN	NN	_	0	root	_	_
+4	!	_	PUNCT	.	_	3	punct	_	_
+		
+1	Cecile	_	PROPN	NNP	_	4	nsubj	_	_
+2	is	_	VERB	VBZ	_	4	cop	_	_
+3	a	_	DET	DT	_	4	det	_	_
+4	hairdresser	_	NOUN	NN	_	0	root	_	_
+5	and	_	CONJ	CC	_	4	cc	_	_
+6	has	_	AUX	VBZ	_	8	aux	_	_
+7	just	_	ADV	RB	_	8	advmod	_	_
+8	moved	_	VERB	VBN	_	4	conj	_	_
+9	into	_	ADP	IN	_	11	case	_	_
+10	the	_	DET	DT	_	11	det	_	_
+11	neighbourhood	_	NOUN	NN	_	8	nmod	_	_
+12	.	_	PUNCT	.	_	4	punct	_	_
+		
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	go	_	VERB	VBP	_	0	root	_	_
+3	to	_	PART	TO	_	4	aux	_	_
+4	see	_	VERB	VB	_	2	xcomp	_	_
+5	her	_	PRON	PRP	_	4	dobj	_	_
+6	to	_	PART	TO	_	7	aux	_	_
+7	have	_	VERB	VB	_	4	advcl	_	_
+8	my	_	PRON	PRP$	_	9	nmod:poss	_	_
+9	hair	_	NOUN	NN	_	7	dobj	_	_
+10	cut	_	VERB	VBN	_	7	xcomp	_	_
+11	.	_	PUNCT	.	_	2	punct	_	_
+		

@@ -1,0 +1,93 @@
+1	As	_	ADP	IN	_	5	case	_	_
+2	a	_	DET	DT	_	5	det	_	_
+3	native	_	ADJ	JJ	_	5	amod	_	_
+4	southern	_	ADJ	JJ	_	5	amod	_	_
+5	Californian	_	PROPN	NNP	_	8	nmod	_	_
+6	I	_	PRON	PRP	_	8	nsubj	_	_
+7	can	_	AUX	MD	_	8	aux	_	_
+8	tell	_	VERB	VB	_	0	root	_	_
+9	you	_	PRON	PRP	_	8	dobj	_	_
+10	that	_	SCONJ	IN	_	16	mark	_	_
+11	this	_	DET	DT	_	16	nsubj	_	_
+12	is	_	VERB	VBZ	_	16	cop	_	_
+13	not	_	PART	RB	_	16	neg	_	_
+14	authentic	_	ADJ	JJ	_	16	amod	_	_
+15	Mexican	_	ADJ	JJ	_	16	amod	_	_
+16	food	_	NOUN	NN	_	8	ccomp	_	_
+17	.	_	PUNCT	.	_	8	punct	_	_
+		
+1	However	_	ADV	RB	_	5	advmod	_	_
+2	,	_	PUNCT	,	_	5	punct	_	_
+3	I	_	PRON	PRP	_	5	nsubj	_	_
+4	still	_	ADV	RB	_	5	advmod	_	_
+5	like	_	VERB	VBP	_	0	root	_	_
+6	this	_	DET	DT	_	7	det	_	_
+7	place	_	NOUN	NN	_	5	dobj	_	_
+8	a	_	DET	DT	_	9	det	_	_
+9	lot	_	NOUN	NN	_	5	nmod:npmod	_	_
+10	.	_	PUNCT	.	_	5	punct	_	_
+		
+1	Esp.	_	ADV	RB	_	3	advmod	_	_
+2	the	_	DET	DT	_	3	det	_	_
+3	mole	_	NOUN	NN	_	0	root	_	_
+4	,	_	PUNCT	,	_	3	punct	_	_
+5	tortilla	_	NOUN	NN	_	6	compound	_	_
+6	soup	_	NOUN	NN	_	3	conj	_	_
+7	,	_	PUNCT	,	_	3	punct	_	_
+8	and	_	CONJ	CC	_	3	cc	_	_
+9	guacamole	_	NOUN	NN	_	3	conj	_	_
+10	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	Margaritas	_	NOUN	NNS	_	3	nsubj	_	_
+2	are	_	VERB	VBP	_	3	cop	_	_
+3	alright	_	ADJ	JJ	_	0	root	_	_
+4	.	_	PUNCT	.	_	3	punct	_	_
+		
+1	My	_	PRON	PRP$	_	3	nmod:poss	_	_
+2	only	_	ADJ	JJ	_	3	amod	_	_
+3	complaint	_	NOUN	NN	_	6	nsubj	_	_
+4	is	_	VERB	VBZ	_	6	cop	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	QUESO	_	NOUN	NN	_	0	root	_	_
+7	.	_	PUNCT	.	_	6	punct	_	_
+		
+1	It	_	PRON	PRP	_	2	nsubj	_	_
+2	used	_	VERB	VBD	_	0	root	_	_
+3	to	_	PART	TO	_	5	aux	_	_
+4	be	_	VERB	VB	_	5	cop	_	_
+5	fabulous	_	ADJ	JJ	_	2	xcomp	_	_
+6	,	_	PUNCT	,	_	2	punct	_	_
+7	why	_	ADV	WRB	_	11	advmod	_	_
+8	did	_	AUX	VBD	_	11	aux	_	_
+9	you	_	PRON	PRP	_	10	compound	_	_
+10	guys	_	NOUN	NNS	_	11	nsubj	_	_
+11	change	_	VERB	VB	_	2	ccomp	_	_
+12	it	_	PRON	PRP	_	11	dobj	_	_
+13	??	_	PUNCT	.	_	2	punct	_	_
+		
+1	Queso	_	NOUN	NN	_	5	nsubj	_	_
+2	should	_	AUX	MD	_	5	aux	_	_
+3	not	_	PART	RB	_	5	neg	_	_
+4	be	_	VERB	VB	_	5	cop	_	_
+5	watery	_	ADJ	JJ	_	0	root	_	_
+6	:-LRB-	_	SYM	NFP	_	5	discourse	_	_
+7	.....	_	PUNCT	.	_	5	punct	_	_
+		
+1	***	_	PUNCT	NFP	_	2	punct	_	_
+2	update	_	NOUN	NN	_	0	root	_	_
+3	***	_	PUNCT	NFP	_	2	punct	_	_
+4	NEVER	_	ADV	RB	_	5	neg	_	_
+5	MIND	_	VERB	VB	_	2	parataxis	_	_
+6	!	_	PUNCT	.	_	2	punct	_	_
+		
+1	They	_	PRON	PRP	_	2	nsubj	_	_
+2	fixed	_	VERB	VBD	_	0	root	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	queso	_	NOUN	NN	_	2	dobj	_	_
+5	!	_	PUNCT	.	_	2	punct	_	_
+		
+1	Thank	_	VERB	VBP	_	0	root	_	_
+2	you	_	PRON	PRP	_	1	dobj	_	_
+3	thank	_	VERB	VBP	_	1	dep	_	_
+4	you	_	PRON	PRP	_	3	dobj	_	_
+		

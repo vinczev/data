@@ -1,0 +1,16 @@
+1	Friendly	_	ADJ	JJ	_	2	amod	_	_
+2	service	_	NOUN	NN	_	0	root	_	_
+3	.	_	PUNCT	.	_	2	punct	_	_
+		
+1	Attentive	_	ADJ	JJ	_	0	root	_	_
+2	to	_	ADP	IN	_	4	case	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	needs	_	NOUN	NNS	_	1	nmod	_	_
+5	of	_	ADP	IN	_	6	case	_	_
+6	customer	_	NOUN	NN	_	4	nmod	_	_
+7	.	_	PUNCT	.	_	1	punct	_	_
+		
+1	Thanks	_	NOUN	NN	_	0	root	_	_
+2	again	_	ADV	RB	_	1	advmod	_	_
+3	!	_	PUNCT	.	_	1	punct	_	_
+		
